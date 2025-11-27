@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T13:16:02.882163+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2025-11-27T14:23:15.361197+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -41,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -55,8 +55,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -74,6 +74,19 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.toutiao.com/trending/7576971637803716150/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
+        },
+        {
           "title": "特朗普称不再给乌克兰设最后期限",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
           "source": "百度热搜",
@@ -88,16 +101,29 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.toutiao.com/trending/7576971637803716150/",
-          "source": "今日头条",
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "source": "凤凰网",
           "ranks": [
-            21,
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
+        },
+        {
+          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
+          "url": "https://www.cls.cn/detail/2212154",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
@@ -125,6 +151,45 @@
           "time_info": "[09时03分 ~ 13时16分]"
         },
         {
+          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1976945155765465978",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时23分]"
+        },
+        {
+          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普为何称明年G20峰会不邀请南非",
+          "url": "https://www.toutiao.com/trending/7577192276787465747/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时23分]"
+        },
+        {
           "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
           "url": "https://flash.jin10.com/detail/20251127034303790800",
           "source": "金十数据",
@@ -136,15 +201,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普称对国民警卫队成员的袭击是“恐怖行为”",
-          "url": "https://wallstreetcn.com/livenews/3011273",
-          "source": "华尔街见闻-快讯",
+          "title": "高市早苗与特朗普通话内容曝光",
+          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
+          "source": "凤凰网",
           "ranks": [
-            3
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时18分 ~ 14时23分]"
         },
         {
           "title": "美国总统特朗普：不会邀请南非参加2026年二十国集团（G20）峰会。",
@@ -158,28 +223,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
-          "url": "https://news.ifeng.com/c/8obnIsox9nT",
-          "source": "凤凰网",
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            8
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
-        },
-        {
-          "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
-          "url": "https://www.cls.cn/detail/2212154",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
+          "time_info": "[12时18分 ~ 14时23分]"
         },
         {
           "title": "美财长：特朗普明年或将两次访华",
@@ -208,6 +260,18 @@
           "time_info": "[05时13分 ~ 06时15分]"
         },
         {
+          "title": "特朗普称对国民警卫队成员的袭击是“恐怖行为”",
+          "url": "https://wallstreetcn.com/livenews/3011273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时23分]"
+        },
+        {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
           "source": "百度热搜",
@@ -220,53 +284,16 @@
           "time_info": "[11时07分 ~ 13时16分]"
         },
         {
-          "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1976945155765465978",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时16分]"
-        },
-        {
-          "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            18,
-            17
+            20,
+            19
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普为何称明年G20峰会不邀请南非",
-          "url": "https://www.toutiao.com/trending/7577192276787465747/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时16分]"
-        },
-        {
-          "title": "高市早苗与特朗普通话内容曝光",
-          "url": "https://news.ifeng.com/c/8ocSbqgk7N4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时16分]"
+          "time_info": "[13时15分 ~ 14时23分]"
         },
         {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
@@ -280,17 +307,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时03分 ~ 12时18分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时16分]"
         },
         {
           "title": "特朗普与高市通话说了啥？郭正亮蔡正元异口同声：高市早苗挨骂了",
@@ -375,15 +391,15 @@
           "time_info": "[11时07分 ~ 12时18分]"
         },
         {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
+          "title": "特朗普称袭击国民警卫队是恐怖行为",
+          "url": "https://www.toutiao.com/trending/7577218266121224202/",
+          "source": "今日头条",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "美国佐治亚州法官斯科特·麦卡菲周三宣布驳回针对特朗普涉嫌干预2020年选举的全部剩余刑事指控，为这起因检察官不当行为而夭折的诉讼画上句号。",
@@ -488,8 +504,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
+          "url": "https://www.cls.cn/detail/2212125",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -503,18 +532,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时18分 ~ 12时18分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨四日 芯片股全线走强",
-          "url": "https://www.cls.cn/detail/2212125",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
         },
         {
           "title": "阿里巴巴(BABA.N)美股短线跳水，现跌近3%。",
@@ -650,7 +667,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -676,6 +693,17 @@
           "time_info": "[00时18分 ~ 05时13分]"
         },
         {
+          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时03分 ~ 14时23分]"
+        },
+        {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
@@ -687,17 +715,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
-          "url": "https://wallstreetcn.com/articles/3760164",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 13时16分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -737,6 +754,17 @@
           "time_info": "[06时15分 ~ 07时13分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3010979",
           "source": "华尔街见闻-快讯",
@@ -751,7 +779,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "35岁男子熬夜打游戏瞬间失明",
@@ -781,8 +809,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "米哈游新游 Varsapura 中角色使用雨伞作为武器，你还见过哪些游戏里有意思的武器？",
@@ -795,6 +823,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "有什么单机游戏可以玩得时间长一点？",
+          "url": "https://www.zhihu.com/question/333135371",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 14时23分]"
         },
         {
           "title": "现在游戏做的太难就会被骂，感觉以前不会这样，大家都硬啃，为什么会这样？",
@@ -834,8 +873,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 14时23分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -861,6 +900,18 @@
           "time_info": "07时13分"
         },
         {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 14时23分]"
+        },
+        {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
           "url": "https://wallstreetcn.com/articles/3760202",
           "source": "华尔街见闻",
@@ -870,17 +921,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
+          "title": "周三（11月26日）纽约尾盘，美国10年期国债收益率跌0.19个基点，报3.9941%，全天冲高回落，北京时间23:04涨至4.0402%刷新日高。 两年期美债收益率涨2.04个基点，报3.4791%，23:01也刷新日高至3.4995%。",
+          "url": "https://wallstreetcn.com/livenews/3011050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时15分]"
+        },
+        {
+          "title": "美股、美债今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20251127134546651800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "14时23分"
         }
       ]
     },
@@ -928,24 +997,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（11月26日）纽约尾盘，美国10年期国债收益率跌0.19个基点，报3.9941%，全天冲高回落，北京时间23:04涨至4.0402%刷新日高。 两年期美债收益率涨2.04个基点，报3.4791%，23:01也刷新日高至3.4995%。",
-          "url": "https://wallstreetcn.com/livenews/3011050",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 06时15分]"
         }
       ]
     }

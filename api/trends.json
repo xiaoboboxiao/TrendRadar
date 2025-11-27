@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T17:17:01.544916+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2025-11-27T18:16:59.077139+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,28 @@
             2,
             9,
             13,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 18时16分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            11,
+            16,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时07分 ~ 18时16分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -69,11 +86,12 @@
             14,
             12,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -84,8 +102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 18时16分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -100,8 +118,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 17时17分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 18时16分]"
         },
         {
           "title": "特朗普下令增兵：行凶者必付出代价",
@@ -113,21 +131,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时18分 ~ 17时17分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            11,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时07分 ~ 17时17分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -269,6 +272,18 @@
           "time_info": "04时16分"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时20分 ~ 18时16分]"
+        },
+        {
           "title": "美财长：特朗普明年或将两次访华",
           "url": "https://www.douyin.com/hot/2318105",
           "source": "抖音",
@@ -305,17 +320,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时23分]"
-        },
-        {
-          "title": "特朗普致电高市：别在台湾问题上挑衅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时20分 ~ 17时17分]"
         },
         {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
@@ -700,8 +704,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时03分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[09时03分 ~ 18时16分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -727,6 +731,20 @@
           "time_info": "[00时18分 ~ 05时13分]"
         },
         {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时22分 ~ 18时16分]"
+        },
+        {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
           "url": "https://wallstreetcn.com/articles/3760128",
           "source": "华尔街见闻",
@@ -738,19 +756,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时18分 ~ 07时13分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时22分 ~ 17时17分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -765,17 +770,6 @@
           "time_info": "[00时18分 ~ 05时13分]"
         },
         {
-          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
-          "url": "https://wallstreetcn.com/livenews/3011463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
-        },
-        {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
           "url": "https://wallstreetcn.com/articles/3760141",
           "source": "华尔街见闻",
@@ -787,6 +781,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时14分 ~ 11时07分]"
+        },
+        {
+          "title": "【长盈精密：与谷歌合作十年 正配合开发新品】长盈精密在互动平台表示，谷歌是公司前十大客户，公司已与其合作十年。目前正积极配合客户开发新品，鉴于保密原因不方便透露具体项目。",
+          "url": "https://wallstreetcn.com/livenews/3011463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时16分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -844,11 +850,12 @@
             22,
             20,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 18时16分]"
         },
         {
           "title": "米哈游新游 Varsapura 中角色使用雨伞作为武器，你还见过哪些游戏里有意思的武器？",
@@ -958,8 +965,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 18时16分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -977,7 +984,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2025年11月27日（周四）上海金午盘价为942.44元/克，较国际金价(946.08元/克)，低3.64元/克",
@@ -991,6 +998,17 @@
           "time_info": "15时16分"
         },
         {
+          "title": "三菱日联：初请数据难以撼动降息前景 金价守稳高位",
+          "url": "https://flash.jin10.com/detail/20251127175027884800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "金十图示：2025年11月27日（周四）上海金早盘价为942.06元/克，较国际金价(943.34元/克)，低1.28元/克",
           "url": "https://flash.jin10.com/detail/20251127110218289800",
           "source": "金十数据",
@@ -1000,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "今日各大金店黄金价格",
+          "url": "https://www.toutiao.com/trending/7577299545361485354/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         }
       ]
     },

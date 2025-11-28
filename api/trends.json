@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:29:13.574217+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2025-11-28T21:27:39.250909+08:00",
+  "total_titles_processed": 1818,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时07分 ~ 20时29分]"
+          "appearance_count": 12,
+          "time_info": "[11时07分 ~ 21时27分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -380,7 +380,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -522,7 +522,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
         },
@@ -615,11 +615,12 @@
             25,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 21时27分]"
         },
         {
           "title": "你觉得「做游戏其实就是一言堂」这句话算是准确的吗？",
@@ -709,8 +710,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时13分 ~ 20时29分]"
+          "appearance_count": 17,
+          "time_info": "[07时13分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -753,8 +754,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 20时29分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 21时27分]"
         },
         {
           "title": "DeepSeek新模型有多猛",
@@ -892,8 +893,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时02分 ~ 20时29分]"
+          "appearance_count": 16,
+          "time_info": "[09时02分 ~ 21时27分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",

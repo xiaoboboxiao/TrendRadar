@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:20:39.780088+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-11-29T15:14:18.300229+08:00",
+  "total_titles_processed": 988,
   "failed_sources": [],
   "trends": [
     {
@@ -181,11 +181,25 @@
             9,
             15,
             17,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            13,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时20分]"
+          "time_info": "[13时14分 ~ 15时14分]"
         },
         {
           "title": "日本学者点破特朗普真实想法",
@@ -210,18 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普废除拜登用自动签名笔签的文件",
-          "url": "https://www.toutiao.com/trending/7577899454150279187/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时20分]"
         },
         {
           "title": "马斯克特朗普共进感恩节晚餐",
@@ -319,8 +321,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 14时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 15时14分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 15时14分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -336,20 +352,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时15分 ~ 12时17分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时20分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）热门中概股行情一览（美股收盘）",
@@ -515,8 +517,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时13分 ~ 14时20分]"
+          "appearance_count": 9,
+          "time_info": "[07时13分 ~ 15时14分]"
         },
         {
           "title": "金广发也要做游戏了",
@@ -534,6 +536,18 @@
           "time_info": "[02时20分 ~ 07时13分]"
         },
         {
+          "title": "男子亡妻游戏中的虚拟房子已找回",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A1%E5%A6%BB%E6%B8%B8%E6%88%8F%E4%B8%AD%E7%9A%84%E8%99%9A%E6%8B%9F%E6%88%BF%E5%AD%90%E5%B7%B2%E6%89%BE%E5%9B%9E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时14分]"
+        },
+        {
           "title": "男子上班时间办公室打游戏敷衍来访群众？陕西洛南县交通局回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_32061297",
           "source": "澎湃新闻",
@@ -543,17 +557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        },
-        {
-          "title": "男子亡妻游戏中的虚拟房子已找回",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%BA%A1%E5%A6%BB%E6%B8%B8%E6%88%8F%E4%B8%AD%E7%9A%84%E8%99%9A%E6%8B%9F%E6%88%BF%E5%AD%90%E5%B7%B2%E6%89%BE%E5%9B%9E%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         }
       ]
     },
@@ -632,8 +635,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 15时14分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -644,8 +647,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时14分]"
         }
       ]
     },
@@ -659,11 +662,12 @@
           "source": "抖音",
           "ranks": [
             14,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 14时20分]"
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 15时14分]"
         },
         {
           "title": "金价",

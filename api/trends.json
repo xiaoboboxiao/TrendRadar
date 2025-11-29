@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T17:14:51.691236+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2025-11-29T18:14:53.929994+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -147,6 +147,17 @@
           "time_info": "[03时11分 ~ 06时13分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-29）",
+          "url": "https://flash.jin10.com/detail/20251129175639922800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "据纽约时报：美国总统特朗普上周与委内瑞拉领导人马杜罗通了电话，讨论了会晤事宜。",
           "url": "https://flash.jin10.com/detail/20251129032541398800",
           "source": "金十数据",
@@ -158,6 +169,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时15分 ~ 09时03分]"
+        },
+        {
+          "title": "特朗普长子成2028总统大选热门人选",
+          "url": "https://www.toutiao.com/trending/7577333810975621166/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
+          "url": "https://flash.jin10.com/detail/20251129173734317800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "美国总统特朗普上周与委内瑞拉总统马杜罗通电话。 双方讨论了潜在的会晤事宜。（纽约时报）",
@@ -235,6 +268,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时02分 ~ 09时03分]"
+        },
+        {
+          "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
+          "url": "https://news.ifeng.com/c/8og9MLOfFoi",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "乌克兰代表团将赴美会见特朗普心腹和女婿，讨论和平计划",
@@ -324,8 +368,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 18时14分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -505,7 +549,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "90后华人科学家被美国公司挖角：超一亿美金年薪背后的权力游戏",
@@ -518,8 +562,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时13分 ~ 17时14分]"
+          "appearance_count": 12,
+          "time_info": "[07时13分 ~ 18时14分]"
         },
         {
           "title": "金广发也要做游戏了",
@@ -547,6 +591,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时20分 ~ 15时14分]"
+        },
+        {
+          "title": "如何寻找到相对完整的真正的游戏的源码用来学习？",
+          "url": "https://www.zhihu.com/question/276168633",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "男子上班时间办公室打游戏敷衍来访群众？陕西洛南县交通局回应",
@@ -636,8 +691,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 18时14分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -646,11 +701,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时14分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 18时14分]"
         }
       ]
     },
@@ -668,8 +724,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时14分 ~ 17时14分]"
+          "appearance_count": 7,
+          "time_info": "[13时14分 ~ 18时14分]"
         },
         {
           "title": "金价",

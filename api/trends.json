@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T12:17:55.164683+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-11-29T13:14:52.280554+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -90,6 +90,22 @@
           "time_info": "[04时15分 ~ 09时03分]"
         },
         {
+          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
+          "url": "https://wallstreetcn.com/livenews/3012397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            11,
+            21,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时13分 ~ 13时14分]"
+        },
+        {
           "title": "美国财长贝森特：在美国总统特朗普的指示下，我们正努力取消向非法移民提供的联邦福利，并将这些福利保留给美国公民。",
           "url": "https://flash.jin10.com/detail/20251129024908174800",
           "source": "金十数据",
@@ -102,21 +118,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时12分 ~ 09时03分]"
-        },
-        {
-          "title": "乌克兰代表团前往美国，将与总统特朗普的特使Witkoff会谈。",
-          "url": "https://wallstreetcn.com/livenews/3012397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            11,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时13分 ~ 12时17分]"
         },
         {
           "title": "特朗普：撤销前总统拜登通过自动签名装置签署的所有文件",
@@ -185,24 +186,25 @@
           "time_info": "[04时15分 ~ 06时13分]"
         },
         {
+          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
+          "url": "https://wallstreetcn.com/livenews/3012411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时14分]"
+        },
+        {
           "title": "特朗普：废除拜登用自动签名笔签署的文件",
           "url": "https://news.ifeng.com/c/8ofb4LFJyYg",
           "source": "凤凰网",
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时17分]"
-        },
-        {
-          "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
-          "url": "https://wallstreetcn.com/livenews/3012411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -229,6 +231,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时07分"
+        },
+        {
+          "title": "特朗普废除拜登用自动签名笔签的文件",
+          "url": "https://www.toutiao.com/trending/7577899454150279187/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        },
+        {
+          "title": "特朗普“和平新计划”为何会再次落空",
+          "url": "https://www.toutiao.com/trending/7576949262657126419/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "曝特朗普已与马杜罗通话",
@@ -293,8 +317,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 13时14分]"
         },
         {
           "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览（美股收盘）",
@@ -324,6 +348,35 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时15分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时14分]"
+        },
+        {
+          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
+          "url": "https://wallstreetcn.com/livenews/3012399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            19,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 13时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜Meta收涨超2.2%，英伟达跌1.8%",
@@ -356,20 +409,6 @@
           "time_info": "[03时12分 ~ 07时13分]"
         },
         {
-          "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
-          "url": "https://wallstreetcn.com/livenews/3012399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时13分 ~ 12时17分]"
-        },
-        {
           "title": "周五（11月28日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘涨2.80%，报92430美元，11月份累跌16.09%。 CME以太币期货DCR主力合约涨1.60%，报3075美元，11月份累跌23.02%。 美股加密货币与加密货币关联指数11月份累跌21.92%，最终报71.30点。",
           "url": "https://wallstreetcn.com/livenews/3012382",
           "source": "华尔街见闻-快讯",
@@ -382,19 +421,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时13分 ~ 09时03分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时17分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -560,8 +586,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时13分 ~ 12时17分]"
+          "appearance_count": 6,
+          "time_info": "[07时13分 ~ 13时14分]"
         },
         {
           "title": "男子上班时间办公室打游戏敷衍来访群众？陕西洛南县交通局回应",
@@ -573,6 +599,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时07分 ~ 13时14分]"
+        },
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时14分]"
+        },
+        {
+          "title": "国际金价又涨了",
+          "url": "https://www.douyin.com/hot/2321048",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         }
       ]
     },
@@ -626,24 +711,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时07分 ~ 12时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -658,23 +725,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时02分 ~ 11时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
         }
       ]
     },

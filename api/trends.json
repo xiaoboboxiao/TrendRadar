@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T04:25:37.668646+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2025-12-03T05:14:49.643758+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 59,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -26,41 +26,63 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
-          "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
-          "url": "https://flash.jin10.com/detail/20251203040632369800",
+          "title": "美国总统特朗普结束在白宫活动上的讲话。",
+          "url": "https://flash.jin10.com/detail/20251203043755291800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "周二（12月2日）纽约尾盘，美国10年期国债收益率微跌0.23个基点，在特朗普介绍哈塞特为“潜在的”美联储主席之际刷新日低至4.0788%，北京时间20:33刷新日高至4.1136%，之后持续回落。",
+          "url": "https://wallstreetcn.com/livenews/3013902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国总统特朗普：我喜欢他（指巴西总统卢拉）。",
+          "url": "https://flash.jin10.com/detail/20251203043716378800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的通话很棒，谈到了贸易与制裁的问题。",
+          "url": "https://flash.jin10.com/detail/20251203043530932800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时14分"
         },
         {
-          "title": "特朗普积极暗示哈塞特为下任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251203040443497800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：与巴西总统卢拉的谈话很棒。 我喜欢卢拉。",
+          "url": "https://wallstreetcn.com/livenews/3013899",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
-          "url": "https://flash.jin10.com/detail/20251203035324570800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时14分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -69,11 +91,12 @@
           "ranks": [
             3,
             9,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 05时14分]"
         },
         {
           "title": "金十提示：特朗普内阁会议讲话结束。",
@@ -81,11 +104,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：我和马斯克相处得很好。 但我就是不希望只有电动汽车。",
@@ -93,11 +117,64 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥在内阁会议上讲话时，特朗普在一旁打瞌睡。",
+          "url": "https://flash.jin10.com/detail/20251203031102667800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：（被问及维特科夫与普京的会晤）会后我会了解会谈的最新进展。",
+          "url": "https://flash.jin10.com/detail/20251203030337791800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
+          "url": "https://wallstreetcn.com/livenews/3013870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：任何向美国贩毒的国家都将遭到打击。",
+          "url": "https://flash.jin10.com/detail/20251203030247273800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -112,16 +189,17 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国国务卿鲁比奥在内阁会议上讲话时，特朗普在一旁打瞌睡。",
-          "url": "https://flash.jin10.com/detail/20251203031102667800",
-          "source": "金十数据",
+          "title": "美国卫生部长RFK Jr.：另外12家医药公司准备（与总统特朗普）达成药品价格协议。",
+          "url": "https://wallstreetcn.com/livenews/3013868",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            11
+            5,
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
         },
         {
           "title": "特朗普将于明年初宣布美联储主席人选",
@@ -136,28 +214,16 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国总统特朗普：（被问及维特科夫与普京的会晤）会后我会了解会谈的最新进展。",
-          "url": "https://flash.jin10.com/detail/20251203030337791800",
+          "title": "美国总统特朗普：特朗普账户（旨在帮助美国儿童建立财富的储蓄计划）将于2026年7月4日起开放。",
+          "url": "https://flash.jin10.com/detail/20251203040632369800",
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
-        },
-        {
-          "title": "美国总统特朗普：我们已经将美联储主席候选人精简到一个人（本来有十个人）。 财政部长贝森特面试了一些我不知道的候选人。",
-          "url": "https://wallstreetcn.com/livenews/3013870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "time_info": "[04时25分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：我的体检全部得了A。",
@@ -172,16 +238,16 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国总统特朗普：任何向美国贩毒的国家都将遭到打击。",
-          "url": "https://flash.jin10.com/detail/20251203030247273800",
+          "title": "特朗普积极暗示哈塞特为下任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251203040443497800",
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "time_info": "[04时25分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：将用关税收入发放退款。",
@@ -196,16 +262,29 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国卫生部长RFK Jr.：另外12家医药公司准备（与总统特朗普）达成药品价格协议。",
-          "url": "https://wallstreetcn.com/livenews/3013868",
-          "source": "华尔街见闻-快讯",
+          "title": "内阁会议时长超2小时 特朗普睡眼惺忪",
+          "url": "https://flash.jin10.com/detail/20251203035324570800",
+          "source": "金十数据",
           "ranks": [
             5,
-            12
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "time_info": "[04时25分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
+          "url": "https://flash.jin10.com/detail/20251203025642198800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：三家大型航空公司竞标美国联邦航空管理局（FAA）空中交通管理系统的现代化项目。",
@@ -221,6 +300,32 @@
           "time_info": "[02时23分 ~ 04时25分]"
         },
         {
+          "title": "美国总统特朗普：如果必须打击地面上的毒贩，我们会这么做。",
+          "url": "https://flash.jin10.com/detail/20251203025145049800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
+          "title": "美国总统特朗普：目前仍未获得大量信息，不知道委内瑞拉船只遭到第二次袭击。美国国防部长赫格塞思将不得不就第二次船只遇袭事件发表讲话。",
+          "url": "https://flash.jin10.com/detail/20251203025102783800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 05时14分]"
+        },
+        {
           "title": "美国总统特朗普：我们将通过关税向人民发放红利。",
           "url": "https://flash.jin10.com/detail/20251203010547676800",
           "source": "金十数据",
@@ -233,16 +338,16 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国总统特朗普：将开始在地面上开展缉毒行动，地面打击要容易得多，很快就会开始。",
-          "url": "https://flash.jin10.com/detail/20251203025642198800",
+          "title": "特朗普：美国很快将对贩毒集团进行陆地打击",
+          "url": "https://flash.jin10.com/detail/20251203034420715800",
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
+          "time_info": "[04时25分 ~ 05时14分]"
         },
         {
           "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
@@ -255,6 +360,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时23分]"
+        },
+        {
+          "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
+          "url": "https://flash.jin10.com/detail/20251203033616090800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 05时14分]"
         },
         {
           "title": "美国总统特朗普：医保领域将有新动向，但这不会一帆风顺。与民主党人就医保进行谈判。",
@@ -281,18 +398,6 @@
           "time_info": "[01时18分 ~ 02时23分]"
         },
         {
-          "title": "美国总统特朗普：如果必须打击地面上的毒贩，我们会这么做。",
-          "url": "https://flash.jin10.com/detail/20251203025145049800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
-        },
-        {
           "title": "巴西总统府：巴西总统卢拉与美国总统特朗普通话40分钟，会谈非常富有成效。",
           "url": "https://flash.jin10.com/detail/20251203005842959800",
           "source": "金十数据",
@@ -303,18 +408,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 02时23分]"
-        },
-        {
-          "title": "美国总统特朗普：目前仍未获得大量信息，不知道委内瑞拉船只遭到第二次袭击。美国国防部长赫格塞思将不得不就第二次船只遇袭事件发表讲话。",
-          "url": "https://flash.jin10.com/detail/20251203025102783800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时25分]"
         },
         {
           "title": "美国总统特朗普：美联储主席应该降息。",
@@ -436,26 +529,26 @@
           "time_info": "02时23分"
         },
         {
-          "title": "特朗普：美国很快将对贩毒集团进行陆地打击",
-          "url": "https://flash.jin10.com/detail/20251203034420715800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
-          "url": "https://flash.jin10.com/detail/20251203033616090800",
+          "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
+          "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "05时14分"
+        },
+        {
+          "title": "特朗普在白宫称凯文·哈塞特为“潜在的”美联储主席，说：潜在的美联储主席也在场。",
+          "url": "https://wallstreetcn.com/livenews/3013893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美国总统特朗普：将重建杜勒斯机场。",
@@ -467,6 +560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
+          "url": "https://flash.jin10.com/detail/20251203041325787800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "巴西总统府：巴西总统卢拉周二与美国总统特朗普通了电话。",
@@ -522,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "特朗普：将对任何涉嫌向美“走私毒品”的国家实施打击",
+          "url": "https://wallstreetcn.com/livenews/3013896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
         },
         {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
@@ -604,8 +719,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -615,8 +730,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -626,8 +741,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 05时14分]"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -680,6 +795,20 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -691,20 +820,6 @@
           "time_info": "00时20分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
-        },
-        {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
           "url": "https://www.cls.cn/detail/2217188",
           "source": "财联社热门",
@@ -712,8 +827,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时23分 ~ 05时14分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -751,11 +866,12 @@
           "ranks": [
             8,
             10,
-            5
+            5,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -766,8 +882,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -779,8 +895,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -791,57 +907,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32084278",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
-        },
-        {
-          "title": "游戏音效追求极致真实，为何却集体无视「放屁」这类生理现象？",
-          "url": "https://www.zhihu.com/question/1977303324731654491",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时20分 ~ 04时25分]"
-        },
-        {
-          "title": "高市早苗用动漫台词招投资翻车",
-          "url": "https://www.douyin.com/hot/2323785",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美元指数刷新日低，特朗普“换种方式”介绍哈塞特",
+          "url": "https://wallstreetcn.com/livenews/3013901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时14分"
+        },
         {
           "title": "非洲股市收盘播报｜周二（12月2日），南非富时/JSE非洲领先40可交易指数收跌1.13%，报10.3万点。 南非兰特兑美元跌0.21%，暂报17.1273兰特。 南非10年期国债收益率一度下跌5个基点，至8.45%，创2017年9月份以来新低。",
           "url": "https://wallstreetcn.com/livenews/3013816",
@@ -879,6 +964,48 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马上评︱大字吸睛小字埋雷？广告岂容文字游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32084278",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
+        },
+        {
+          "title": "游戏音效追求极致真实，为何却集体无视「放屁」这类生理现象？",
+          "url": "https://www.zhihu.com/question/1977303324731654491",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 04时25分]"
+        },
+        {
+          "title": "高市早苗用动漫台词招投资翻车",
+          "url": "https://www.douyin.com/hot/2323785",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -891,8 +1018,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",

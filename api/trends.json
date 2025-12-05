@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T15:17:04.324346+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2025-12-05T16:21:02.828034+08:00",
+  "total_titles_processed": 1353,
   "failed_sources": [],
   "trends": [
     {
@@ -495,7 +495,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -547,8 +547,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时06分 ~ 16时21分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -562,8 +562,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 16时21分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -637,6 +637,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 16时21分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军在波斯湾等水域举行军演",
           "url": "https://flash.jin10.com/detail/20251205025109547800",
           "source": "金十数据",
@@ -648,17 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时14分]"
-        },
-        {
-          "title": "专访｜伊朗前环境部副部长谈伊朗干旱：“破产”的水资源与“零日”警告",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32104325",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 15时17分]"
         },
         {
           "title": "专访｜伊朗前副总统谈伊朗干旱：“破产”的水资源与“零日”警告",
@@ -721,11 +721,12 @@
             9,
             12,
             16,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时20分 ~ 15时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 16时21分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T22:13:18.994572+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2025-12-06T23:13:32.018590+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -17,11 +17,12 @@
             22,
             28,
             6,
-            13
+            13,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时05分 ~ 18时15分]"
+          "appearance_count": 11,
+          "time_info": "[11时05分 ~ 23时13分]"
         },
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -33,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时13分 ~ 22时13分]"
+          "appearance_count": 12,
+          "time_info": "[15时13分 ~ 23时13分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -65,17 +66,6 @@
           "time_info": "[17时14分 ~ 22时13分]"
         },
         {
-          "title": "特朗普警告高市早苗别插手台海",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
           "url": "https://www.zhihu.com/question/1979961793922167510",
           "source": "知乎",
@@ -85,8 +75,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时14分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
+          "title": "特朗普警告高市早苗别插手台海",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 14时20分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -234,6 +235,17 @@
           "time_info": "[02时20分 ~ 05时14分]"
         },
         {
+          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
+          "url": "https://v.ifeng.com/c/8oreqqskdgg",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时13分]"
+        },
+        {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
           "url": "https://flash.jin10.com/detail/20251206005652021800",
           "source": "金十数据",
@@ -370,17 +382,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时03分]"
-        },
-        {
-          "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
-          "url": "https://v.ifeng.com/c/8oreqqskdgg",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时13分]"
         },
         {
           "title": "美国总统特朗普：正在与加拿大和墨西哥合作。",
@@ -590,6 +591,17 @@
           "time_info": "11时05分"
         },
         {
+          "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
+          "url": "https://news.ifeng.com/c/8os5vGpW9R1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国华盛顿巡回上诉法院小组以2比1的投票结果裁定，特朗普有权解雇美国国家劳工关系委员会和美国联邦人事管理委员会的成员。",
           "url": "https://flash.jin10.com/detail/20251205232909438800",
           "source": "金十数据",
@@ -616,8 +628,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时02分 ~ 22时13分]"
+          "appearance_count": 20,
+          "time_info": "[09时02分 ~ 23时13分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -646,8 +658,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时02分 ~ 22时13分]"
+          "appearance_count": 20,
+          "time_info": "[09时02分 ~ 23时13分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -761,7 +773,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -786,8 +798,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时14分 ~ 22时13分]"
+          "appearance_count": 9,
+          "time_info": "[18时14分 ~ 23时13分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -848,6 +860,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 09时03分]"
+        },
+        {
+          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
+          "url": "https://www.zhihu.com/question/1979858915077404344",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
@@ -990,8 +1013,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时16分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[12时16分 ~ 23时13分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -1078,8 +1101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时26分 ~ 22时13分]"
+          "appearance_count": 5,
+          "time_info": "[20时26分 ~ 23时13分]"
         }
       ]
     },

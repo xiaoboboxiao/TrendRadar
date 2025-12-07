@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T02:19:31.457505+08:00",
-  "total_titles_processed": 358,
+  "generated_at": "2025-12-08T03:11:42.232589+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -28,8 +29,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -39,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
@@ -50,8 +51,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时11分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
@@ -61,8 +62,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时11分]"
         }
       ]
     },
@@ -75,11 +76,12 @@
           "url": "https://www.zhihu.com/question/641827784",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         },
         {
           "title": "把济南5A景区做进游戏",
@@ -91,8 +93,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 02时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 03时11分]"
         }
       ]
     },
@@ -108,8 +110,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 02时19分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 03时11分]"
         }
       ]
     }

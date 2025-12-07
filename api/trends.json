@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T20:25:41.385367+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-07T21:21:58.713577+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -99,26 +99,29 @@
           "time_info": "[13时14分 ~ 17时14分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
-          "url": "https://flash.jin10.com/detail/20251207194238247800",
-          "source": "金十数据",
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时25分"
+          "time_info": "21时21分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
-          "url": "https://flash.jin10.com/detail/20251207193951591800",
-          "source": "金十数据",
+          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            18,
+            15,
+            14,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时14分 ~ 21时21分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
@@ -134,17 +137,28 @@
           "time_info": "[18时14分 ~ 20时25分]"
         },
         {
-          "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32124875",
-          "source": "澎湃新闻",
+          "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
+          "url": "https://flash.jin10.com/detail/20251207194238247800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            15,
-            14
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时14分 ~ 20时25分]"
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时21分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
+          "url": "https://flash.jin10.com/detail/20251207193951591800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时21分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -156,6 +170,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251207192532766800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时21分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -191,17 +217,6 @@
           "time_info": "18时14分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：我将于本月会晤美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20251207192532766800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
-        },
-        {
           "title": "特朗普或将给高市早苗放权",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%86%E7%BB%99%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%94%BE%E6%9D%83%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -216,7 +231,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如何评价国产抗日题材 FPS 游戏《烽火十四》发布首支先导预告片？",
@@ -244,8 +259,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 20时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 21时21分]"
+        },
+        {
+          "title": "打游戏真的是一件很浪费时间的事情吗?",
+          "url": "https://www.zhihu.com/question/641827784",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时21分"
         },
         {
           "title": "如何看待游戏 Minecraft 即将修改版本编号格式？",
@@ -264,22 +290,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%8A%E6%B5%8E%E5%8D%975A%E6%99%AF%E5%8C%BA%E5%81%9A%E8%BF%9B%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时21分]"
         },
         {
           "title": "为什么在游戏里提到弓箭手就都会感觉是「脆皮」职业？",
           "url": "https://www.zhihu.com/question/1974618953356682303",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时25分 ~ 21时21分]"
         }
       ]
     },

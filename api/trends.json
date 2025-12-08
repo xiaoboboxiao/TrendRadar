@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T07:13:27.029005+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2025-12-08T09:06:33.493535+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -17,11 +17,12 @@
             9,
             18,
             26,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 09时06分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -34,8 +35,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 09时06分]"
+        },
+        {
+          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
+          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 09时06分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -69,17 +82,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时16分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普长子批乌政府“送穷人上前线，窃取西方资金”",
-          "url": "https://news.ifeng.com/c/8ou4WvyPNGq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时13分]"
         },
         {
           "title": "特朗普政府免除西南航空公司1100万美元罚款",
@@ -142,6 +144,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普将为明星颁奖 还预测颁奖典礼将创收视纪录",
+          "url": "https://flash.jin10.com/detail/20251208083240087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普称对泽连斯基尚未阅读和平协议草案感到有些失望",
+          "url": "https://flash.jin10.com/detail/20251208082023019800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯对（和平）协议没意见，但不确定泽连斯基是否同意。",
+          "url": "https://flash.jin10.com/detail/20251208081657474800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "特朗普称奈飞收购华纳兄弟“可能存在问题”",
+          "url": "https://flash.jin10.com/detail/20251208081537816800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "以总统拒绝特朗普“求情”",
+          "url": "https://news.ifeng.com/c/8ouFkJCiRc4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
@@ -171,11 +228,12 @@
             12,
             24,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时13分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 09时06分]"
         }
       ]
     },
@@ -213,6 +271,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时16分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金：哈塞特若成为美联储主席或使美债利率和美元先下后上",
+          "url": "https://flash.jin10.com/detail/20251208080055151800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     }

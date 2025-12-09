@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T17:19:21.180015+08:00",
-  "total_titles_processed": 1578,
+  "generated_at": "2025-12-09T18:18:31.893396+08:00",
+  "total_titles_processed": 1686,
   "failed_sources": [],
   "trends": [
     {
@@ -231,6 +231,19 @@
           "time_info": "[04时17分 ~ 05时13分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 18时18分]"
+        },
+        {
           "title": "市场消息：特朗普表示欧洲正朝着一些不好的方向发展。",
           "url": "https://flash.jin10.com/detail/20251209043642647800",
           "source": "金十数据",
@@ -241,18 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时15分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
@@ -518,7 +519,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -764,6 +765,18 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时18分]"
+        },
+        {
           "title": "可选消费ETF收跌超1.4%，领跌美股行业ETF，半导体ETF涨超1.1%",
           "url": "https://wallstreetcn.com/livenews/3017172",
           "source": "华尔街见闻-快讯",
@@ -821,17 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
-        },
-        {
-          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
-          "url": "https://wallstreetcn.com/livenews/3017543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
@@ -903,7 +905,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1019,6 +1021,17 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        },
+        {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
           "url": "https://flash.jin10.com/detail/20251209023449862800",
           "source": "金十数据",
@@ -1036,7 +1049,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1058,7 +1071,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1069,7 +1082,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -1131,58 +1144,8 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如何评价游戏主播蓝战非自称在南非被绑架劫持？有哪些问题值得深思？",
-          "url": "https://www.zhihu.com/question/1981525602637992876",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "如何看待游戏主播蓝战非在南非被绑架? 财产是否有机会追回？",
-          "url": "https://www.zhihu.com/question/1981593198133524313",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时18分]"
-        },
-        {
-          "title": "为什么锤类武器在武侠游戏当中很少出现？",
-          "url": "https://www.zhihu.com/question/1930761041786181346",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "游戏滑板故事发售宣传视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%BB%91%E6%9D%BF%E6%95%85%E4%BA%8B%E5%8F%91%E5%94%AE%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
@@ -1227,6 +1190,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "金价波动不大，市场关注鲍威尔讲话揭示后续路径",
+          "url": "https://flash.jin10.com/detail/20251209170958206800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价游戏主播蓝战非自称在南非被绑架劫持？有哪些问题值得深思？",
+          "url": "https://www.zhihu.com/question/1981525602637992876",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "如何看待游戏主播蓝战非在南非被绑架? 财产是否有机会追回？",
+          "url": "https://www.zhihu.com/question/1981593198133524313",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时18分]"
+        },
+        {
+          "title": "为什么锤类武器在武侠游戏当中很少出现？",
+          "url": "https://www.zhihu.com/question/1930761041786181346",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "游戏滑板故事发售宣传视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%BB%91%E6%9D%BF%E6%95%85%E4%BA%8B%E5%8F%91%E5%94%AE%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -1267,11 +1291,12 @@
           "ranks": [
             16,
             12,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时23分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时23分 ~ 18时18分]"
         }
       ]
     },
@@ -1329,8 +1354,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时05分 ~ 17时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时05分 ~ 18时18分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",

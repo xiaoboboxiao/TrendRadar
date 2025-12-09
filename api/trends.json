@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T16:22:18.406824+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2025-12-09T17:19:21.180015+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时14分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时14分 ~ 17时19分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -96,7 +96,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -243,6 +243,18 @@
           "time_info": "[05时13分 ~ 06时15分]"
         },
         {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
+        },
+        {
           "title": "美国最高法院暗示：将支持总统特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://wallstreetcn.com/livenews/3017101",
           "source": "华尔街见闻-快讯",
@@ -301,18 +313,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时15分]"
-        },
-        {
-          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
-          "url": "https://wallstreetcn.com/articles/3760972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时22分]"
         },
         {
           "title": "美国总统特朗普：欧盟对社交媒体平台“X”的罚款是“卑鄙的做法”。",
@@ -441,7 +441,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -463,7 +463,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -510,6 +510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美国总统特朗普：本周将针对人工智能发布单一规则行政命令",
+          "url": "https://wallstreetcn.com/articles/3760944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -636,7 +647,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -812,6 +823,17 @@
           "time_info": "[09时05分 ~ 09时06分]"
         },
         {
+          "title": "美股盘前，英伟达延续昨日涨势，现涨超2%，英特尔涨超1%。热门中概股涨跌互现，阿里巴巴跌1%，百度跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3017543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "英伟达美股盘后涨幅扩大至2.7%。",
           "url": "https://wallstreetcn.com/livenews/3017185",
           "source": "华尔街见闻-快讯",
@@ -881,7 +903,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -928,11 +950,12 @@
           "url": "https://wallstreetcn.com/livenews/3017511",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时19分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -1007,6 +1030,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "欧盟就谷歌将在线内容用于AI相关用途一事发起反垄断调查",
+          "url": "https://flash.jin10.com/detail/20251209161413716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
           "url": "https://flash.jin10.com/detail/20251209041755526800",
           "source": "金十数据",
@@ -1016,6 +1050,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构将调查谷歌(GOOG.O)是否违反竞争法。",
+          "url": "https://flash.jin10.com/detail/20251209161206794800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "市场消息：欧洲监管机构对谷歌(GOOG.O)人工智能使用在线内容展开调查。",
+          "url": "https://flash.jin10.com/detail/20251209161139815800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -1075,6 +1131,56 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "如何评价游戏主播蓝战非自称在南非被绑架劫持？有哪些问题值得深思？",
+          "url": "https://www.zhihu.com/question/1981525602637992876",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时14分 ~ 12时25分]"
+        },
+        {
+          "title": "如何看待游戏主播蓝战非在南非被绑架? 财产是否有机会追回？",
+          "url": "https://www.zhihu.com/question/1981593198133524313",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时23分 ~ 15时18分]"
+        },
+        {
+          "title": "为什么锤类武器在武侠游戏当中很少出现？",
+          "url": "https://www.zhihu.com/question/1930761041786181346",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
+        },
+        {
+          "title": "游戏滑板故事发售宣传视频",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%BB%91%E6%9D%BF%E6%95%85%E4%BA%8B%E5%8F%91%E5%94%AE%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -1125,45 +1231,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "如何评价游戏主播蓝战非自称在南非被绑架劫持？有哪些问题值得深思？",
-          "url": "https://www.zhihu.com/question/1981525602637992876",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 12时25分]"
-        },
-        {
-          "title": "如何看待游戏主播蓝战非在南非被绑架? 财产是否有机会追回？",
-          "url": "https://www.zhihu.com/question/1981593198133524313",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时18分]"
-        },
-        {
-          "title": "游戏滑板故事发售宣传视频",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%BB%91%E6%9D%BF%E6%95%85%E4%BA%8B%E5%8F%91%E5%94%AE%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
@@ -1199,11 +1266,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时23分 ~ 16时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时23分 ~ 17时19分]"
         }
       ]
     },
@@ -1261,8 +1329,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时05分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时05分 ~ 17时19分]"
         },
         {
           "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T16:22:00.630441+08:00",
-  "total_titles_processed": 1508,
+  "generated_at": "2025-12-12T17:19:49.063366+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -50,11 +50,12 @@
           "ranks": [
             3,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时19分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -65,8 +66,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 17时19分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -211,6 +212,30 @@
           "time_info": "[13时17分 ~ 14时27分]"
         },
         {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时19分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时19分]"
+        },
+        {
           "title": "泰国总理给特朗普“泼冷水”",
           "url": "https://www.toutiao.com/trending/7582421562226655268/",
           "source": "今日头条",
@@ -221,17 +246,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时21分]"
-        },
-        {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "学者：特朗普想在中日博弈中两头渔利",
@@ -254,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时29分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
@@ -452,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
+        },
+        {
+          "title": "面对特朗普施压 泽连斯基最新表态：领土问题应由乌人民决定",
+          "url": "https://www.cls.cn/detail/2227581",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -777,8 +791,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 17时19分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1257,11 +1271,12 @@
             10,
             19,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 17时19分]"
         },
         {
           "title": "游戏有没有可能这样设计：先做出 1-2 个关卡 / 章节，卖个很便宜的价格，再陆续把剩下部分做出来当 DLC 卖？",
@@ -1289,8 +1304,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时29分 ~ 17时19分]"
         },
         {
           "title": "TGA2025年度游戏评选",
@@ -1311,8 +1326,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时19分]"
         },
         {
           "title": "《光与影：33 号远征队》获得 TGA2025 最佳独立游戏奖，对此你有什么想说的？",
@@ -1321,11 +1336,25 @@
           "ranks": [
             13,
             6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时19分]"
+        },
+        {
+          "title": "哪款游戏是你的年度最佳",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17,
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时22分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 17时19分]"
         },
         {
           "title": "epic 免费游戏",
@@ -1338,19 +1367,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时19分 ~ 13时17分]"
-        },
-        {
-          "title": "哪款游戏是你的年度最佳",
-          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 16时22分]"
         },
         {
           "title": "如何评价《光与影：33 号远征队》获得 2025TGA 最佳年度游戏？",
@@ -1447,11 +1463,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时19分 ~ 16时22分]"
+          "appearance_count": 9,
+          "time_info": "[11时19分 ~ 17时19分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1604,7 +1621,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -1629,6 +1646,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 03时16分]"
+        },
+        {
+          "title": "花旗：美债仍属可控，投资者仍具信心",
+          "url": "https://flash.jin10.com/detail/20251212164856635800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "美债收益率于美股盘中持续走高",
@@ -1696,7 +1724,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },

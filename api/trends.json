@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T14:27:38.595836+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2025-12-12T15:19:44.010144+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,17 @@
           "time_info": "[00时22分 ~ 11时19分]"
         },
         {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 15时19分]"
+        },
+        {
           "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
           "source": "澎湃新闻",
@@ -33,17 +44,6 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
-          "title": "白宫：特朗普对俄乌都很失望",
-          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 14时27分]"
-        },
-        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
@@ -52,8 +52,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时19分]"
         },
         {
           "title": "特朗普黄金卡签证开始接受申请，个人从 500 万美元降至 100 万美元可换美国居留权，如何看待此事？",
@@ -67,26 +67,16 @@
           "time_info": "[09时07分 ~ 09时08分]"
         },
         {
-          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
-          "url": "https://flash.jin10.com/detail/20251212062505540800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
           "url": "https://www.zhihu.com/question/1982382027627073644",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时19分]"
         },
         {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
@@ -96,8 +86,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时19分]"
+        },
+        {
+          "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
+          "url": "https://flash.jin10.com/detail/20251212062505540800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "特朗普政府在加州边境建立新的军事化区域",
@@ -370,7 +371,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -458,7 +459,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -720,8 +721,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 15时19分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时19分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -735,19 +749,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时27分]"
-        },
-        {
           "title": "ChatGPT5.2有哪些新升级",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
           "source": "bilibili 热搜",
@@ -755,8 +756,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 15时19分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -999,8 +1000,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时14分 ~ 14时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时14分 ~ 15时19分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1210,8 +1211,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时19分]"
         },
         {
           "title": "谷歌(GOOG.O)：开源一个新的网络研究代理基准，DEEPSEARCHQA，旨在测试代理在网络研究任务上的全面性。",
@@ -1364,7 +1365,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "游戏有没有可能这样设计：先做出 1-2 个关卡 / 章节，卖个很便宜的价格，再陆续把剩下部分做出来当 DLC 卖？",
@@ -1382,17 +1383,6 @@
           "time_info": "[00时22分 ~ 09时08分]"
         },
         {
-          "title": "TGA2025年度游戏评选",
-          "url": "https://search.bilibili.com/all?keyword=TGA2025%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E8%AF%84%E9%80%89",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时19分]"
-        },
-        {
           "title": "33号远征队获最佳独立游戏",
           "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -1404,8 +1394,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时07分 ~ 14时27分]"
+          "appearance_count": 8,
+          "time_info": "[09时07分 ~ 15时19分]"
+        },
+        {
+          "title": "TGA2025年度游戏评选",
+          "url": "https://search.bilibili.com/all?keyword=TGA2025%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E8%AF%84%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时19分]"
         },
         {
           "title": "epic 免费游戏",
@@ -1418,6 +1419,58 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时19分 ~ 13时17分]"
+        },
+        {
+          "title": "33号远征队获TGA年度游戏",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            10,
+            15,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 15时19分]"
+        },
+        {
+          "title": "《光与影：33 号远征队》获得 TGA2025 最佳独立游戏奖，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/1982740547279025157",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时19分]"
+        },
+        {
+          "title": "哪款游戏是你的年度最佳",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时19分]"
+        },
+        {
+          "title": "如何评价《光与影：33 号远征队》获得 2025TGA 最佳年度游戏？",
+          "url": "https://www.zhihu.com/question/1982783289573015873",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 15时19分]"
         },
         {
           "title": "GTA6获最受期待游戏",
@@ -1433,43 +1486,6 @@
           "time_info": "[11时19分 ~ 13时17分]"
         },
         {
-          "title": "33号远征队获TGA年度游戏",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 14时27分]"
-        },
-        {
-          "title": "《光与影：33 号远征队》获得 TGA2025 最佳独立游戏奖，对此你有什么想说的？",
-          "url": "https://www.zhihu.com/question/1982740547279025157",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时27分]"
-        },
-        {
-          "title": "如何评价《光与影：33 号远征队》获得 2025TGA 最佳年度游戏？",
-          "url": "https://www.zhihu.com/question/1982783289573015873",
-          "source": "知乎",
-          "ranks": [
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时27分]"
-        },
-        {
           "title": "被短视频和游戏包围的时代，你是如何理解和处理它们与孩子的关系的？",
           "url": "https://www.zhihu.com/question/1982074594862048358",
           "source": "知乎",
@@ -1482,16 +1498,26 @@
           "time_info": "[12时29分 ~ 13时17分]"
         },
         {
-          "title": "哪款游戏是你的年度最佳",
-          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
+          "title": "直播体验TGA年度最佳游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E6%92%AD%E4%BD%93%E9%AA%8CTGA%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
             17
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 14时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "如何看待《黑帝斯 2》击败《忍龙 4》获得 TGA2025 最佳动作游戏奖项？",
+          "url": "https://www.zhihu.com/question/1982741763564266534",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "哈迪斯2获最佳动作游戏",
@@ -1598,11 +1624,12 @@
           "url": "https://flash.jin10.com/detail/20251212141346689800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时27分 ~ 15时19分]"
         },
         {
           "title": "消息人士：美国正准备扣押更多运输委内瑞拉石油的船只，美国的行动将针对可能运输过其他受制裁原油（如伊朗原油）的油轮。",

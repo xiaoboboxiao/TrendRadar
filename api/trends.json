@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:19:47.224808+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-12-12T12:29:57.398983+08:00",
+  "total_titles_processed": 1136,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "白宫：特朗普对俄乌都很失望",
+          "url": "https://news.ifeng.com/c/8p1LpVJOOIe",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -164,6 +175,17 @@
           "time_info": "[00时22分 ~ 02时21分]"
         },
         {
+          "title": "加州州长再批特朗普：最具破坏性总统",
+          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "美众议院有关弹劾总统特朗普的动议经表决后被搁置",
           "url": "https://wallstreetcn.com/livenews/3019392",
           "source": "华尔街见闻-快讯",
@@ -248,6 +270,28 @@
           "time_info": "[03时16分 ~ 04时18分]"
         },
         {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "美国印第安纳州由共和党掌控的参议院否决了美国总统特朗普支持的国会选区重划方案。",
           "url": "https://flash.jin10.com/detail/20251212054106500800",
           "source": "金十数据",
@@ -296,17 +340,6 @@
           "time_info": "[03时16分 ~ 04时18分]"
         },
         {
-          "title": "加州州长再批特朗普：最具破坏性总统",
-          "url": "https://news.ifeng.com/c/8p18mDHMrQq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
           "title": "特朗普：若和平协议达成 美愿参与欧洲安全安排",
           "url": "https://wallstreetcn.com/livenews/3019493",
           "source": "华尔街见闻-快讯",
@@ -338,28 +371,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "据熟悉竞标过程的消息人士透露，派拉蒙在竞标华纳兄弟探索频道的过程中不得不做出一个关键改变——明确承诺其外国合作伙伴和特朗普的女婿库什纳的基金将没有任何投票权或管理权。",
@@ -456,7 +467,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -492,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "特朗普称美对委行动很快将延伸至陆地",
+          "url": "https://www.toutiao.com/trending/7582515717653315611/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "莫迪同特朗普就贸易和能源等问题通电话",
@@ -558,6 +580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "泰国总理：与美国总统特朗普的通话定于泰国时间晚上9:20（北京时间22:20）举行。",
+          "url": "https://flash.jin10.com/detail/20251212111451238800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "特朗普称赞股市再创新高",
@@ -629,8 +662,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 12时29分]"
+        },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
           "url": "https://wallstreetcn.com/livenews/3019450",
@@ -641,18 +686,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时19分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI最新发布",
@@ -715,13 +748,25 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "全面解析ChatGPT5.2",
           "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
           "source": "bilibili 热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -743,7 +788,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -770,6 +815,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
+        },
+        {
           "title": "OpenAI：GPT-5.2-PRO的定价为每100万个输入Token为21美元，每100万个输出Token为168美元。",
           "url": "https://flash.jin10.com/detail/20251212020239589800",
           "source": "金十数据",
@@ -790,17 +846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "OpenAI：预计未来几周将发布针对CodeX优化的GPT-5.2版本。",
@@ -906,8 +951,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 11时19分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时29分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1145,6 +1190,17 @@
           "time_info": "[00时22分 ~ 01时21分]"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3019371",
           "source": "华尔街见闻-快讯",
@@ -1177,17 +1233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
-        },
-        {
-          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
-          "url": "https://wallstreetcn.com/articles/3761213",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
@@ -1270,7 +1315,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "游戏有没有可能这样设计：先做出 1-2 个关卡 / 章节，卖个很便宜的价格，再陆续把剩下部分做出来当 DLC 卖？",
@@ -1305,9 +1350,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -1315,22 +1360,46 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 12时29分]"
         },
         {
           "title": "GTA6获最受期待游戏",
           "url": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7%E6%9C%80%E5%8F%97%E6%9C%9F%E5%BE%85%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时29分]"
+        },
+        {
+          "title": "33号远征队获TGA年度游戏",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时29分"
+        },
+        {
+          "title": "被短视频和游戏包围的时代，你是如何理解和处理它们与孩子的关系的？",
+          "url": "https://www.zhihu.com/question/1982074594862048358",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         },
         {
           "title": "哈迪斯2获最佳动作游戏",
@@ -1339,7 +1408,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -1439,7 +1508,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-13T14:21:34.945228+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-12-13T15:15:17.793627+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认",
+          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 15时15分]"
+        },
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
           "url": "https://news.ifeng.com/c/8p1vHCZebHh",
@@ -40,20 +52,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时21分]"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火，泰方否认",
-          "url": "https://news.ifeng.com/c/8p2to1Pzvac",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -82,6 +82,19 @@
           "time_info": "[11时11分 ~ 14时21分]"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 15时15分]"
+        },
+        {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
@@ -89,11 +102,24 @@
             1,
             4,
             8,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 15时15分]"
         },
         {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
@@ -102,11 +128,23 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[12时21分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普和爱泼斯坦照片公布",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E7%85%A7%E7%89%87%E5%85%AC%E5%B8%83%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
@@ -119,17 +157,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时14分 ~ 09时04分]"
-        },
-        {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -226,18 +253,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时21分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[11时11分 ~ 14时21分]"
         },
         {
@@ -354,6 +369,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时14分]"
+        },
+        {
+          "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -486,7 +512,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -530,6 +556,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
+          "url": "https://www.cls.cn/detail/2228565",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时15分 ~ 15时15分]"
+        },
+        {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
           "url": "https://wallstreetcn.com/articles/3761271",
           "source": "华尔街见闻",
@@ -539,18 +577,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时22分 ~ 06时15分]"
-        },
-        {
-          "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
-          "url": "https://www.cls.cn/detail/2228565",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时21分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -675,17 +701,6 @@
       "match_count": 10,
       "titles": [
         {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时17分 ~ 12时21分]"
-        },
-        {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
@@ -697,8 +712,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时15分 ~ 14时21分]"
+          "appearance_count": 10,
+          "time_info": "[07时15分 ~ 15时15分]"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时17分 ~ 12时21分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -814,8 +840,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 15时15分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -832,8 +858,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 14时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 15时15分]"
+        },
+        {
+          "title": "为什么大家对《33 号远征队》拿其他奖项没什么感受，唯独对拿「最佳独立游戏」奖意见这么大？",
+          "url": "https://www.zhihu.com/question/1982866186183078046",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时21分 ~ 15时15分]"
         },
         {
           "title": "如何评价 TGA2025 年度游戏《33 号远征队》？",
@@ -850,19 +890,6 @@
           "time_info": "[02时22分 ~ 07时15分]"
         },
         {
-          "title": "为什么大家对《33 号远征队》拿其他奖项没什么感受，唯独对拿「最佳独立游戏」奖意见这么大？",
-          "url": "https://www.zhihu.com/question/1982866186183078046",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 14时21分]"
-        },
-        {
           "title": "TGA年度提名游戏金曲串烧",
           "url": "https://search.bilibili.com/all?keyword=TGA%E5%B9%B4%E5%BA%A6%E6%8F%90%E5%90%8D%E6%B8%B8%E6%88%8F%E9%87%91%E6%9B%B2%E4%B8%B2%E7%83%A7",
           "source": "bilibili 热搜",
@@ -872,8 +899,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时21分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 15时15分]"
         },
         {
           "title": "哪款游戏是你的年度最佳",
@@ -893,7 +920,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }

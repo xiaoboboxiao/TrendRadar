@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:23:29.839107+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2025-12-13T22:13:44.035415+08:00",
+  "total_titles_processed": 1508,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,24 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时11分 ~ 21时23分]"
+          "appearance_count": 17,
+          "time_info": "[11时11分 ~ 22时13分]"
+        },
+        {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时18分 ~ 22时13分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
@@ -68,38 +84,12 @@
             21,
             22,
             25,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时17分 ~ 21时23分]"
-        },
-        {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时18分 ~ 21时23分]"
-        },
-        {
-          "title": "特朗普称泰柬同意全面停火",
-          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时04分]"
+          "appearance_count": 31,
+          "time_info": "[00时17分 ~ 22时13分]"
         },
         {
           "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
@@ -113,8 +103,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时14分 ~ 21时23分]"
+          "appearance_count": 9,
+          "time_info": "[17时14分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普称泰柬同意全面停火",
+          "url": "https://news.ifeng.com/c/8p2IYwR0WoN",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 09时04分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -144,6 +146,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时11分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 22时13分]"
         },
         {
           "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
@@ -208,30 +224,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时14分 ~ 09时04分]"
-        },
-        {
-          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
-          "url": "https://flash.jin10.com/detail/20251213211438744800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时23分"
-        },
-        {
-          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 21时23分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -370,6 +362,18 @@
           "time_info": "[07时15分 ~ 11时11分]"
         },
         {
+          "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
+          "url": "https://flash.jin10.com/detail/20251213211438744800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 22时13分]"
+        },
+        {
           "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
           "url": "https://flash.jin10.com/detail/20251213164027529800",
           "source": "金十数据",
@@ -448,6 +452,33 @@
           "time_info": "[01时15分 ~ 03时13分]"
         },
         {
+          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
+          "url": "https://wallstreetcn.com/articles/3761314",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时13分]"
+        },
+        {
+          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
+          "url": "https://wallstreetcn.com/livenews/3020226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普称凯文·沃什位居美联储主席候选人名单首位 | 环球市场",
           "url": "https://www.cls.cn/detail/2228568",
           "source": "财联社热门",
@@ -483,19 +514,6 @@
           "time_info": "[15时14分 ~ 16时18分]"
         },
         {
-          "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
-          "url": "https://wallstreetcn.com/livenews/3020226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时23分]"
-        },
-        {
           "title": "美国多个州将起诉总统特朗普的10万美元H-1B签证申请费政策。",
           "url": "https://wallstreetcn.com/livenews/3020109",
           "source": "华尔街见闻-快讯",
@@ -507,18 +525,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
-          "url": "https://wallstreetcn.com/articles/3761314",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时23分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -702,6 +708,183 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "真·定制冠军,33号获TGA年度游戏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347921&amp;topic_name=%E7%9C%9F%C2%B7%E5%AE%9A%E5%88%B6%E5%86%A0%E5%86%9B%2C33%E5%8F%B7%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            5,
+            7,
+            8,
+            9,
+            10,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[00时17分 ~ 22时13分]"
+        },
+        {
+          "title": "33号远征队获最佳独立游戏",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            14,
+            13,
+            16,
+            20,
+            21,
+            12,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[00时17分 ~ 22时13分]"
+        },
+        {
+          "title": "TGA年度提名游戏金曲串烧",
+          "url": "https://search.bilibili.com/all?keyword=TGA%E5%B9%B4%E5%BA%A6%E6%8F%90%E5%90%8D%E6%B8%B8%E6%88%8F%E9%87%91%E6%9B%B2%E4%B8%B2%E7%83%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            20,
+            24,
+            16,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时11分 ~ 21时23分]"
+        },
+        {
+          "title": "为什么大家对《33 号远征队》拿其他奖项没什么感受，唯独对拿「最佳独立游戏」奖意见这么大？",
+          "url": "https://www.zhihu.com/question/1982866186183078046",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            4,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 16时18分]"
+        },
+        {
+          "title": "GTA6获最受期待游戏",
+          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7%E6%9C%80%E5%8F%97%E6%9C%9F%E5%BE%85%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            27,
+            19,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时21分 ~ 22时13分]"
+        },
+        {
+          "title": "如何评价 TGA2025 年度游戏《33 号远征队》？",
+          "url": "https://www.zhihu.com/question/1982746971790930727",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 07时15分]"
+        },
+        {
+          "title": "独立游戏应该何去何从",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BA%94%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            25,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时14分 ~ 22时13分]"
+        },
+        {
+          "title": "欧美游戏崛起了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AC%A7%E7%BE%8E%E6%B8%B8%E6%88%8F%E5%B4%9B%E8%B5%B7%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "33应该是年度最佳独立游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%BA%94%E8%AF%A5%E6%98%AF%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            24,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 22时13分]"
+        },
+        {
+          "title": "游戏《逃离鸭科夫》中，有哪些冷知识？",
+          "url": "https://www.zhihu.com/question/1961952071789032579",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时23分]"
+        },
+        {
+          "title": "哪款游戏是你的年度最佳",
+          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 09时04分]"
+        },
+        {
+          "title": "如何看待 EPIC 喜加一可免费领取《霍格沃兹之遗》？这款游戏又有哪些值得玩的地方？",
+          "url": "https://www.zhihu.com/question/1982764167535548173",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
@@ -711,11 +894,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时15分 ~ 21时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时15分 ~ 22时13分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -847,158 +1031,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "真·定制冠军,33号获TGA年度游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347921&amp;topic_name=%E7%9C%9F%C2%B7%E5%AE%9A%E5%88%B6%E5%86%A0%E5%86%9B%2C33%E5%8F%B7%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            5,
-            7,
-            8,
-            9,
-            10,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时17分 ~ 21时23分]"
-        },
-        {
-          "title": "33号远征队获最佳独立游戏",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            14,
-            13,
-            16,
-            20,
-            21,
-            12,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时17分 ~ 21时23分]"
-        },
-        {
-          "title": "TGA年度提名游戏金曲串烧",
-          "url": "https://search.bilibili.com/all?keyword=TGA%E5%B9%B4%E5%BA%A6%E6%8F%90%E5%90%8D%E6%B8%B8%E6%88%8F%E9%87%91%E6%9B%B2%E4%B8%B2%E7%83%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            20,
-            24,
-            16,
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时11分 ~ 21时23分]"
-        },
-        {
-          "title": "为什么大家对《33 号远征队》拿其他奖项没什么感受，唯独对拿「最佳独立游戏」奖意见这么大？",
-          "url": "https://www.zhihu.com/question/1982866186183078046",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6,
-            4,
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 16时18分]"
-        },
-        {
-          "title": "如何评价 TGA2025 年度游戏《33 号远征队》？",
-          "url": "https://www.zhihu.com/question/1982746971790930727",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时22分 ~ 07时15分]"
-        },
-        {
-          "title": "GTA6获最受期待游戏",
-          "url": "https://search.bilibili.com/all?keyword=GTA6%E8%8E%B7%E6%9C%80%E5%8F%97%E6%9C%9F%E5%BE%85%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            27,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时21分 ~ 21时23分]"
-        },
-        {
-          "title": "独立游戏应该何去何从",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BA%94%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            25,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时14分 ~ 21时23分]"
-        },
-        {
-          "title": "游戏《逃离鸭科夫》中，有哪些冷知识？",
-          "url": "https://www.zhihu.com/question/1961952071789032579",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时23分]"
-        },
-        {
-          "title": "33应该是年度最佳独立游戏吗",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%BA%94%E8%AF%A5%E6%98%AF%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 21时23分]"
-        },
-        {
-          "title": "哪款游戏是你的年度最佳",
-          "url": "https://search.bilibili.com/all?keyword=%E5%93%AA%E6%AC%BE%E6%B8%B8%E6%88%8F%E6%98%AF%E4%BD%A0%E7%9A%84%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 10,
       "titles": [
@@ -1015,8 +1047,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时15分 ~ 21时23分]"
+          "appearance_count": 20,
+          "time_info": "[07时15分 ~ 22时13分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",

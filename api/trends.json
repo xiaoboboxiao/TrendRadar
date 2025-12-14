@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:15:09.251919+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2025-12-14T18:15:04.536977+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -68,8 +68,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时15分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -280,6 +280,17 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        },
+        {
           "title": "泰柬无视特朗普发文继续打",
           "url": "https://www.toutiao.com/trending/7582072617088548873/",
           "source": "今日头条",
@@ -350,7 +361,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
@@ -362,8 +373,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[11时24分 ~ 18时15分]"
         },
         {
           "title": "如何看待 EPIC 喜加一可免费领取《霍格沃兹之遗》？这款游戏又有哪些值得玩的地方？",
@@ -392,11 +403,12 @@
             10,
             5,
             8,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "33应该是年度最佳独立游戏吗",
@@ -411,11 +423,12 @@
             23,
             28,
             21,
-            24
+            24,
+            14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "真·定制冠军,33号获TGA年度游戏",
@@ -444,8 +457,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时13分 ~ 17时15分]"
+          "appearance_count": 16,
+          "time_info": "[06时13分 ~ 18时15分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -468,8 +481,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时15分]"
+          "appearance_count": 7,
+          "time_info": "[13时15分 ~ 18时15分]"
+        },
+        {
+          "title": "你在游戏《帝国时代》里干过最惊人的事是什么？",
+          "url": "https://www.zhihu.com/question/31731223",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -540,7 +564,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -551,7 +575,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         },
@@ -562,7 +586,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时15分"
         }
@@ -628,8 +652,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时17分 ~ 17时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 18时15分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -675,11 +699,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时15分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 18时15分]"
         }
       ]
     }

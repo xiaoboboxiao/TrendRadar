@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T11:24:41.706605+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2025-12-14T12:32:39.402591+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -29,11 +29,12 @@
           "ranks": [
             9,
             14,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 12时32分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -126,6 +127,28 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
+        },
+        {
+          "title": "详解特朗普金卡白金卡签证",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%91%E5%8D%A1%E7%99%BD%E9%87%91%E5%8D%A1%E7%AD%BE%E8%AF%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
+        },
+        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -135,28 +158,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
@@ -188,8 +189,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时24分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时32分]"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -227,6 +240,30 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
+        },
+        {
           "title": "泰柬无视特朗普发文继续打",
           "url": "https://www.toutiao.com/trending/7582072617088548873/",
           "source": "今日头条",
@@ -260,43 +297,32 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
-          "url": "https://flash.jin10.com/detail/20251214100231761800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
           "title": "特朗普：希望利率在一年内降至1%或更低",
           "url": "https://wallstreetcn.com/livenews/3020317",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "独立游戏应该何去何从",
@@ -304,26 +330,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时24分]"
-        },
-        {
-          "title": "33应该是年度最佳独立游戏吗",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%BA%94%E8%AF%A5%E6%98%AF%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
             9,
-            7,
-            8,
-            2,
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时32分]"
         },
         {
           "title": "如何看待 EPIC 喜加一可免费领取《霍格沃兹之遗》？这款游戏又有哪些值得玩的地方？",
@@ -341,17 +353,34 @@
           "time_info": "[00时17分 ~ 07时14分]"
         },
         {
+          "title": "33应该是年度最佳独立游戏吗",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%BA%94%E8%AF%A5%E6%98%AF%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            7,
+            8,
+            2,
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时32分]"
+        },
+        {
           "title": "真·定制冠军,33号获TGA年度游戏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347921&amp;topic_name=%E7%9C%9F%C2%B7%E5%AE%9A%E5%88%B6%E5%86%A0%E5%86%9B%2C33%E5%8F%B7%E8%8E%B7TGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F",
           "source": "贴吧",
           "ranks": [
             18,
             19,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时32分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -371,11 +400,24 @@
           "ranks": [
             30,
             29,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时13分 ~ 11时24分]"
+          "appearance_count": 7,
+          "time_info": "[06时13分 ~ 12时32分]"
+        },
+        {
+          "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
+          "url": "https://wallstreetcn.com/articles/3761346",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -389,15 +431,15 @@
           "time_info": "[09时12分 ~ 09时13分]"
         },
         {
-          "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
-          "url": "https://wallstreetcn.com/articles/3761346",
-          "source": "华尔街见闻",
+          "title": "TGA年度提名游戏金曲串烧",
+          "url": "https://search.bilibili.com/all?keyword=TGA%E5%B9%B4%E5%BA%A6%E6%8F%90%E5%90%8D%E6%B8%B8%E6%88%8F%E9%87%91%E6%9B%B2%E4%B8%B2%E7%83%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "12时32分"
         },
         {
           "title": "GTA6获最受期待游戏",
@@ -423,11 +465,12 @@
           "ranks": [
             3,
             8,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时17分 ~ 11时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 12时32分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -445,11 +488,12 @@
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
         }
       ]
     },
@@ -467,19 +511,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时24分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 12时32分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
           "url": "https://wallstreetcn.com/articles/3761330",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
         }
       ]
     },
@@ -492,11 +537,12 @@
           "url": "https://wallstreetcn.com/livenews/3020321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时24分 ~ 12时32分]"
         }
       ]
     }

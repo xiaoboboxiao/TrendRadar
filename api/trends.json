@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T09:13:08.005956+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2025-12-14T11:24:41.706605+08:00",
+  "total_titles_processed": 688,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -15,11 +15,25 @@
             8,
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时24分]"
+        },
+        {
+          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
+          "url": "https://flash.jin10.com/detail/20251213222804614800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 11时24分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -60,18 +74,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
-        },
-        {
-          "title": "据AXIOS网站：以色列官员称，以色列未就试图暗杀加沙地带哈马斯领导人拉埃德·萨阿德一事事先通知特朗普政府。",
-          "url": "https://flash.jin10.com/detail/20251213222804614800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时13分]"
         },
         {
@@ -135,13 +137,35 @@
           "time_info": "[00时17分 ~ 04时15分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
           "url": "https://wallstreetcn.com/livenews/3020298",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时13分"
         },
@@ -155,6 +179,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时17分 ~ 04时15分]"
+        },
+        {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 11时24分]"
         },
         {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
@@ -184,17 +219,6 @@
           "title": "特朗普的“新五常”计划可行吗",
           "url": "https://www.toutiao.com/trending/7583121726133767743/",
           "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
@@ -234,23 +258,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
+          "url": "https://flash.jin10.com/detail/20251214100231761800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        },
+        {
+          "title": "特朗普：希望利率在一年内降至1%或更低",
+          "url": "https://wallstreetcn.com/livenews/3020317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "独立游戏应该何去何从",
           "url": "https://search.bilibili.com/all?keyword=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BA%94%E8%AF%A5%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时24分]"
         },
         {
           "title": "33应该是年度最佳独立游戏吗",
@@ -264,8 +322,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时24分]"
         },
         {
           "title": "如何看待 EPIC 喜加一可免费领取《霍格沃兹之遗》？这款游戏又有哪些值得玩的地方？",
@@ -288,11 +346,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时24分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -311,11 +370,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            29
+            29,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时13分 ~ 09时13分]"
+          "appearance_count": 6,
+          "time_info": "[06时13分 ~ 11时24分]"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -327,6 +387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
+          "url": "https://wallstreetcn.com/articles/3761346",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         },
         {
           "title": "GTA6获最受期待游戏",
@@ -343,7 +414,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -351,11 +422,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时17分 ~ 11时24分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -367,12 +439,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "华尔街日报：OpenAI将取消员工股权归属期",
+          "url": "https://flash.jin10.com/detail/20251214105538781800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -384,8 +467,36 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时13分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 11时24分]"
+        },
+        {
+          "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
+          "url": "https://wallstreetcn.com/articles/3761330",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "XREAL携手谷歌推出全球首款Android XR智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3020321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时24分"
         }
       ]
     }

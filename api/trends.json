@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T16:19:03.880614+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-12-14T17:15:09.251919+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时12分 ~ 16时19分]"
+          "appearance_count": 12,
+          "time_info": "[09时12分 ~ 17时15分]"
         },
         {
           "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
@@ -57,6 +57,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 12时32分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -123,19 +136,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时13分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -234,6 +234,17 @@
           "time_info": "[00时17分 ~ 04时15分]"
         },
         {
+          "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
+          "url": "https://www.zhihu.com/question/1983101482518668094",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 17时15分]"
+        },
+        {
           "title": "美方特使：按照美国总统特朗普的指示，美将解除对白俄罗斯钾肥的制裁",
           "url": "https://wallstreetcn.com/livenews/3020259",
           "source": "华尔街见闻-快讯",
@@ -278,17 +289,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "柬埔寨称泰军向柬境内投掷数枚炸弹，泰方暂无回应，此前特朗普称双方已同意停火，双方局势将如何发展？",
-          "url": "https://www.zhihu.com/question/1983101482518668094",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "3名美方人员遇袭死亡 特朗普誓言报复",
@@ -353,6 +353,19 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
+          "url": "https://wallstreetcn.com/articles/3761346",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时24分 ~ 17时15分]"
+        },
+        {
           "title": "如何看待 EPIC 喜加一可免费领取《霍格沃兹之遗》？这款游戏又有哪些值得玩的地方？",
           "url": "https://www.zhihu.com/question/1982764167535548173",
           "source": "知乎",
@@ -378,11 +391,12 @@
             12,
             10,
             5,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "33应该是年度最佳独立游戏吗",
@@ -430,21 +444,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时13分 ~ 16时19分]"
-        },
-        {
-          "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
-          "url": "https://wallstreetcn.com/articles/3761346",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时24分 ~ 16时19分]"
+          "appearance_count": 14,
+          "time_info": "[06时13分 ~ 17时15分]"
         },
         {
           "title": "33号远征队获最佳独立游戏",
@@ -463,11 +464,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             16,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 15时14分]"
+          "appearance_count": 5,
+          "time_info": "[13时15分 ~ 17时15分]"
         },
         {
           "title": "8小时让AI做3个游戏",
@@ -501,6 +503,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外交部：伊朗外交部长阿拉奇将于下周访问俄罗斯和白俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20251214152439189800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 17时15分]"
+        },
+        {
+          "title": "美军被曝突袭从中国驶往伊朗货轮",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "伊朗外交部：我们不愿发表任何会分散黎巴嫩注意力、使其无法专注于维护国家主权和领土完整的声明或立场。",
+          "url": "https://flash.jin10.com/detail/20251214161354390800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
+          "url": "https://flash.jin10.com/detail/20251214161332352800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
+          "url": "https://flash.jin10.com/detail/20251214161320478800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     },
@@ -564,8 +628,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 16时19分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 17时15分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -578,34 +642,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗外交部：伊朗外交部长阿拉奇将于下周访问俄罗斯和白俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20251214152439189800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时19分"
-        },
-        {
-          "title": "美军被曝突袭从中国驶往伊朗货轮",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E7%AA%81%E8%A2%AD%E4%BB%8E%E4%B8%AD%E5%9B%BD%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%BD%AE%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时18分 ~ 16时19分]"
         }
       ]
     },
@@ -642,8 +678,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 16时19分]"
+          "appearance_count": 8,
+          "time_info": "[13时15分 ~ 17时15分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:27:11.745996+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2025-12-14T21:23:52.819771+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
@@ -165,6 +165,17 @@
           "time_info": "[11时24分 ~ 16时19分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时26分 ~ 21时23分]"
+        },
+        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -188,17 +199,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
-        },
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -383,7 +383,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "一场“不讲武德”的游戏：大宗商品的“逼仓”狂潮",
@@ -429,8 +429,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时17分 ~ 20时27分]"
+          "appearance_count": 27,
+          "time_info": "[00时17分 ~ 21时23分]"
         },
         {
           "title": "33应该是年度最佳独立游戏吗",
@@ -447,11 +447,12 @@
             21,
             24,
             14,
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 19时12分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 21时23分]"
         },
         {
           "title": "单机游戏 玩家清汤大老爷定律",
@@ -462,11 +463,12 @@
             23,
             24,
             25,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 20时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时15分 ~ 21时23分]"
         },
         {
           "title": "欧美游戏崛起了吗",
@@ -532,6 +534,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 09时13分]"
+        },
+        {
+          "title": "2025 年最被低估的游戏是什么？",
+          "url": "https://www.zhihu.com/question/1982475659893838262",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        },
+        {
+          "title": "为什么《权力的游戏》龙母的龙傲天之路无法让人激动？",
+          "url": "https://www.zhihu.com/question/68742650",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
         },
         {
           "title": "TGA年度提名游戏金曲串烧",
@@ -716,6 +740,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -730,8 +771,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时15分 ~ 20时27分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 21时23分]"
         }
       ]
     }

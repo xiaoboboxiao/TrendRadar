@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T22:18:42.082876+08:00",
-  "total_titles_processed": 2069,
+  "generated_at": "2025-12-16T23:18:28.423325+08:00",
+  "total_titles_processed": 2166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 64,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -37,11 +37,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 22时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 23时18分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -85,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时19分 ~ 22时18分]"
+          "appearance_count": 14,
+          "time_info": "[11时19分 ~ 23时18分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -126,6 +127,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时19分 ~ 15时19分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://wallstreetcn.com/livenews/3021803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普向BBC索赔100亿美元，英国政府发声：那是BBC自己的事，应由其自行处理",
@@ -272,6 +284,28 @@
           "time_info": "[09时08分 ~ 11时20分]"
         },
         {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "声明显示：俄罗斯现在必须展现出致力于实现持久和平的意愿，同意特朗普的和平计划，并通过同意停火来表明其结束战斗的承诺。",
           "url": "https://flash.jin10.com/detail/20251216025403582800",
           "source": "金十数据",
@@ -355,17 +389,6 @@
           "time_info": "[06时46分 ~ 07时29分]"
         },
         {
-          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
-          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
           "url": "https://flash.jin10.com/detail/20251216050154625800",
           "source": "金十数据",
@@ -375,17 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
-          "url": "https://news.ifeng.com/c/8p8hxedgU29",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
         },
         {
           "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
@@ -507,6 +519,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：Wiles是美国总统特朗普忠诚的顾问。",
+          "url": "https://flash.jin10.com/detail/20251216230344459800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -674,6 +697,17 @@
           "time_info": "15时19分"
         },
         {
+          "title": "美国国家经济委员会主任凯文·哈塞特：总统特朗普拒绝“美联储主席不可以是一个密友”这种想法。 美联储是时候往前走了，特朗普很快会宣布。 我很高兴，特朗普这次做了正确的决定。 特朗普对“美联储相当具有政治立场”感到失望。",
+          "url": "https://wallstreetcn.com/livenews/3021776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -721,7 +755,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -771,7 +805,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -812,6 +846,17 @@
           "time_info": "[06时46分 ~ 07时29分]"
         },
         {
+          "title": "非农超预期，美股低开，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "微芯科技(MCHP.O)美股盘前上涨2%。",
           "url": "https://flash.jin10.com/detail/20251216200947250800",
           "source": "金十数据",
@@ -829,7 +874,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -895,7 +940,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -922,6 +967,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "行业ETF美股盘初涨跌各异，能源业ETF跌1.46%，全球科技股指数ETF跌1.02%，半导体ETF跌0.14%，全球航空业ETF则涨0.84%。",
+          "url": "https://wallstreetcn.com/livenews/3021783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251216013032827800",
           "source": "金十数据",
@@ -939,7 +995,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -969,7 +1025,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "甲和乙游戏一次的胜率是 p，但甲输后可以耍赖宣布三局两胜，如再输就五局三胜，无限下去，甲胜率多少？",
@@ -988,18 +1044,6 @@
           "time_info": "[04时18分 ~ 14时24分]"
         },
         {
-          "title": "如何看待逃离鸭科夫 mod 作者通过 mod 内黑名单禁止用户进入游戏？",
-          "url": "https://www.zhihu.com/question/1983452497533219380",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
           "title": "我囤了 1000 把剑卖给铁匠，他依然原价收购，什么情况游戏会采用更真实的经济系统？",
           "url": "https://www.zhihu.com/question/1983933310360130680",
           "source": "知乎",
@@ -1012,8 +1056,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时19分 ~ 22时18分]"
+          "appearance_count": 8,
+          "time_info": "[15时19分 ~ 23时18分]"
+        },
+        {
+          "title": "如何看待逃离鸭科夫 mod 作者通过 mod 内黑名单禁止用户进入游戏？",
+          "url": "https://www.zhihu.com/question/1983452497533219380",
+          "source": "知乎",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "2025 年，你玩过最坐牢的游戏是什么？",
@@ -1058,9 +1114,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "假如和往届 TGA 年度游戏比，《光与影：33 号远征队》还能夺冠吗？",
+          "url": "https://www.zhihu.com/question/1983892809871275744",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -1244,7 +1311,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -1294,7 +1361,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },

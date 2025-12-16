@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T21:35:22.442414+08:00",
-  "total_titles_processed": 1951,
+  "generated_at": "2025-12-16T22:18:42.082876+08:00",
+  "total_titles_processed": 2069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 59,
+      "match_count": 61,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时08分 ~ 21时35分]"
+          "appearance_count": 14,
+          "time_info": "[09时08分 ~ 22时18分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -85,8 +85,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时19分 ~ 21时35分]"
+          "appearance_count": 13,
+          "time_info": "[11时19分 ~ 22时18分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -134,7 +134,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -167,7 +167,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -355,6 +355,17 @@
           "time_info": "[06时46分 ~ 07时29分]"
         },
         {
+          "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
+          "url": "https://news.ifeng.com/c/8p8UVz5fJt6",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
           "url": "https://flash.jin10.com/detail/20251216050154625800",
           "source": "金十数据",
@@ -364,6 +375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "胡锡进：特朗普称俄乌“最接近和平”，世界聚焦普京",
+          "url": "https://news.ifeng.com/c/8p8hxedgU29",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
@@ -581,7 +603,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -699,7 +721,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -741,6 +763,17 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时21分 ~ 09时08分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3021760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -788,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "非农超预期，美股盘前转涨，现货黄金小幅上涨，布油跌破60美元",
+          "url": "https://wallstreetcn.com/articles/3761475",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
@@ -845,6 +889,17 @@
           "time_info": "20时31分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216220157083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "辉瑞(PFE.N)美股盘前下跌约1.6%。",
           "url": "https://flash.jin10.com/detail/20251216194943134800",
           "source": "金十数据",
@@ -878,6 +933,17 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国非农数据公布后，美股期货短线上涨",
+          "url": "https://wallstreetcn.com/livenews/3021739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251216050605553800",
           "source": "金十数据",
@@ -898,6 +964,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "甲和乙游戏一次的胜率是 p，但甲输后可以耍赖宣布三局两胜，如再输就五局三胜，无限下去，甲胜率多少？",
+          "url": "https://www.zhihu.com/question/1911827962799563646",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19,
+            9,
+            11,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[04时18分 ~ 14时24分]"
+        },
+        {
+          "title": "如何看待逃离鸭科夫 mod 作者通过 mod 内黑名单禁止用户进入游戏？",
+          "url": "https://www.zhihu.com/question/1983452497533219380",
+          "source": "知乎",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时31分]"
+        },
+        {
+          "title": "我囤了 1000 把剑卖给铁匠，他依然原价收购，什么情况游戏会采用更真实的经济系统？",
+          "url": "https://www.zhihu.com/question/1983933310360130680",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            11,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时19分 ~ 22时18分]"
+        },
+        {
+          "title": "2025 年，你玩过最坐牢的游戏是什么？",
+          "url": "https://www.zhihu.com/question/1982475659549906120",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时21分 ~ 03时16分]"
+        },
+        {
+          "title": "如何看待前 Nexon CEO 说：3A 游戏工业正在撞向死胡同？",
+          "url": "https://www.zhihu.com/question/1982787913226934222",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时18分]"
+        },
+        {
+          "title": "2025动漫嘉年华",
+          "url": "https://s.weibo.com/weibo?q=2025%E5%8A%A8%E6%BC%AB%E5%98%89%E5%B9%B4%E5%8D%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时14分 ~ 05时15分]"
+        },
+        {
+          "title": "三六零：公司重组上市以来游戏业务收入确认符合企业会计准则规定，不存在财务造假情形",
+          "url": "https://wallstreetcn.com/livenews/3021746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -1071,93 +1234,20 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 6,
+      "keyword_group": "美债",
+      "match_count": 4,
       "titles": [
         {
-          "title": "甲和乙游戏一次的胜率是 p，但甲输后可以耍赖宣布三局两胜，如再输就五局三胜，无限下去，甲胜率多少？",
-          "url": "https://www.zhihu.com/question/1911827962799563646",
-          "source": "知乎",
+          "title": "11月失业率意外上涨刺激美债买盘 各期限收益率普跌",
+          "url": "https://flash.jin10.com/detail/20251216221203897800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            19,
-            9,
-            11,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[04时18分 ~ 14时24分]"
-        },
-        {
-          "title": "如何看待逃离鸭科夫 mod 作者通过 mod 内黑名单禁止用户进入游戏？",
-          "url": "https://www.zhihu.com/question/1983452497533219380",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
-          "title": "我囤了 1000 把剑卖给铁匠，他依然原价收购，什么情况游戏会采用更真实的经济系统？",
-          "url": "https://www.zhihu.com/question/1983933310360130680",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时19分 ~ 21时35分]"
-        },
-        {
-          "title": "2025 年，你玩过最坐牢的游戏是什么？",
-          "url": "https://www.zhihu.com/question/1982475659549906120",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 03时16分]"
-        },
-        {
-          "title": "2025动漫嘉年华",
-          "url": "https://s.weibo.com/weibo?q=2025%E5%8A%A8%E6%BC%AB%E5%98%89%E5%B9%B4%E5%8D%8E&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时14分 ~ 05时15分]"
-        },
-        {
-          "title": "如何看待前 Nexon CEO 说：3A 游戏工业正在撞向死胡同？",
-          "url": "https://www.zhihu.com/question/1982787913226934222",
-          "source": "知乎",
-          "ranks": [
-            18
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
+          "time_info": "22时18分"
+        },
         {
           "title": "盛宝银行：美债收益率明年可能进一步趋陡",
           "url": "https://flash.jin10.com/detail/20251216154958479800",
@@ -1176,7 +1266,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -1195,8 +1285,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "AI贷款平台类初创公司Slope正与亚马逊的独立卖家启动合作伙伴关系。 该公司的投资者包括OpenAI的CEO Altman和摩根大通。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3021758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
         {
           "title": "OpenAI首席通信官Hannah Wong即将在1月底离职。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3021245",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T09:04:03.728827+08:00",
-  "total_titles_processed": 810,
+  "generated_at": "2025-12-17T11:16:05.789065+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -18,11 +18,12 @@
             7,
             5,
             4,
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 09时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 11时16分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -56,11 +57,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 09时04分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 11时16分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -74,6 +76,39 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普政府宣布对40国实施入境限制",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E5%AF%B940%E5%9B%BD%E5%AE%9E%E6%96%BD%E5%85%A5%E5%A2%83%E9%99%90%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
+          "url": "https://news.ifeng.com/c/8p9PufcVOa6",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普签署公告，进一步限制外国公民入境美国",
+          "url": "https://news.ifeng.com/c/8p9E57zE6bJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -104,7 +139,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -148,7 +183,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -212,6 +247,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时18分 ~ 05时16分]"
+        },
+        {
+          "title": "评论员：特朗普越来越像拜登",
+          "url": "https://www.toutiao.com/trending/7584323902441000490/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时03分 ~ 11时16分]"
         },
         {
           "title": "美国总统特朗普料将为了遴选美联储主席而在周三面试美联储理事沃勒。（华尔街日报）",
@@ -298,26 +356,37 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
-          "title": "评论员：特朗普越来越像拜登",
-          "url": "https://www.toutiao.com/trending/7584323902441000490/",
+          "title": "特朗普称已下令封锁进出委受制裁油轮",
+          "url": "https://www.toutiao.com/trending/7584624870806277638/",
           "source": "今日头条",
           "ranks": [
-            17
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "白宫幕僚长称特朗普有“酒鬼性格”",
+          "url": "https://www.toutiao.com/trending/7584628769915162158/",
+          "source": "今日头条",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 09时04分]"
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
+          "title": "特朗普称认定委政府是“恐怖组织”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "特朗普将全美讲话：这是伟大的一年",
@@ -348,7 +417,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -359,9 +428,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "供弱需强，现货白银首次站上65美元/盎司，多头仍占主导；油价周二跌破关键水平后，特朗普对委内瑞拉油轮实施封锁，推动油价回升，美国原油卖出信号强劲，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251217103329781800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "周二（12月16日），降息赢家指数跌0.36%，“特朗普关税输家”指数跌0.46%，散户抱团概念股指数/迷因股（meme stock）指数涨4.26%。",
@@ -381,7 +461,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -403,7 +483,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -425,7 +505,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -436,7 +516,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -447,9 +527,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
+        },
+        {
+          "title": "委内瑞拉政府：美国总统特朗普的封锁“完全不理性”，违反了自由贸易和航行自由。",
+          "url": "https://flash.jin10.com/detail/20251217100701935800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "特朗普政府官员对哈塞特担任美联储主席表示质疑。（Politico）",
@@ -461,6 +552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "委内瑞拉方面在声明中驳斥了美国总统特朗普的“荒谬威胁”。",
+          "url": "https://flash.jin10.com/detail/20251217100437106800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：将于明晚9点（北京时间次日上午10:00）在白宫向全国发表讲话。",
@@ -491,7 +593,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -505,6 +607,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
+          "url": "https://wallstreetcn.com/livenews/3022047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "特朗普政府扩大对外国公民入境美国的限制",
@@ -524,7 +637,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -535,7 +648,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         },
@@ -557,7 +670,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时04分"
         }
@@ -580,6 +693,19 @@
           "time_info": "[00时20分 ~ 06时15分]"
         },
         {
+          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
+          "url": "https://www.cls.cn/detail/2231583",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 11时16分]"
+        },
+        {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
           "url": "https://wallstreetcn.com/livenews/3021915",
           "source": "华尔街见闻-快讯",
@@ -589,18 +715,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
-          "url": "https://www.cls.cn/detail/2231583",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 09时04分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -722,7 +836,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -760,6 +874,17 @@
           "time_info": "[03时16分 ~ 05时16分]"
         },
         {
+          "title": "OpenAI发布GPT Image1.5",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT%20Image1.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
+        },
+        {
           "title": "OpenAI聘请前英国财相领导“星际之门”全球扩张计划",
           "url": "https://flash.jin10.com/detail/20251217015359218800",
           "source": "金十数据",
@@ -782,6 +907,28 @@
           "time_info": "05时16分"
         },
         {
+          "title": "据The Information：OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20251217102148765800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "消息称OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。OpenAI还与亚马逊讨论了商业合作事宜。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3022066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "OpenAI聘请乔治·奥斯本牵头全球“星际之门”扩张计划。",
           "url": "https://flash.jin10.com/detail/20251217013746986800",
           "source": "金十数据",
@@ -796,7 +943,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大学生校内溺亡 疑参加游戏不慎坠湖",
@@ -841,6 +988,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时20分 ~ 01时20分]"
+        },
+        {
+          "title": "安徽一高校大一学子校内溺水身亡，疑参与线下游戏时不慎坠湖，具体情况如何？有哪些问题值得关注？",
+          "url": "https://www.zhihu.com/question/1984523981995336324",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时15分 ~ 11时16分]"
         },
         {
           "title": "2025 年，你最喜欢的游戏角色是谁？为什么？",

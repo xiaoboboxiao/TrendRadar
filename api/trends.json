@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:18:29.932974+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2025-12-17T19:15:22.220357+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -126,8 +126,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时17分 ~ 18时18分]"
+          "appearance_count": 9,
+          "time_info": "[13时17分 ~ 19时15分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -180,7 +180,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1077,7 +1077,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "大学生校内溺亡 疑参加游戏不慎坠湖",
@@ -1179,6 +1179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "丝芭质疑鞠婧祎玩文字游戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9D%E8%8A%AD%E8%B4%A8%E7%96%91%E9%9E%A0%E5%A9%A7%E7%A5%8E%E7%8E%A9%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     },

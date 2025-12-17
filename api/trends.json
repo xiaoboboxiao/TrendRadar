@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T11:16:05.789065+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-12-17T12:28:32.818558+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普称自己执政近一年来在经济方面取得了成功，但赢得中期选举很困难，赢的概率有多大？会有哪些影响？",
@@ -19,11 +19,12 @@
             5,
             4,
             2,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 11时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 12时28分]"
         },
         {
           "title": "“这是特朗普给泽连斯基的最后通牒：接受条件，否则就没机会了”",
@@ -61,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 11时16分]"
+          "appearance_count": 17,
+          "time_info": "[00时20分 ~ 12时28分]"
         },
         {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -85,8 +86,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -96,8 +97,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "特朗普签署公告，进一步限制外国公民入境美国",
@@ -107,8 +108,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -188,6 +189,17 @@
           "time_info": "09时04分"
         },
         {
+          "title": "特朗普下令封锁所有受制裁委油轮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时03分 ~ 12时28分]"
+        },
+        {
           "title": "特朗普政府威胁欧盟：美国要在数字税问题上报复西门子、Sap、Mistral AI等欧洲公司",
           "url": "https://wallstreetcn.com/livenews/3021857",
           "source": "华尔街见闻-快讯",
@@ -261,15 +273,16 @@
           "time_info": "[09时03分 ~ 11时16分]"
         },
         {
-          "title": "特朗普下令封锁所有受制裁委油轮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%B0%81%E9%94%81%E6%89%80%E6%9C%89%E5%8F%97%E5%88%B6%E8%A3%81%E5%A7%94%E6%B2%B9%E8%BD%AE",
-          "source": "百度热搜",
+          "title": "特朗普称已下令封锁进出委受制裁油轮",
+          "url": "https://www.toutiao.com/trending/7584624870806277638/",
+          "source": "今日头条",
           "ranks": [
-            17
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时03分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "美国总统特朗普料将为了遴选美联储主席而在周三面试美联储理事沃勒。（华尔街日报）",
@@ -356,17 +369,6 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
-          "title": "特朗普称已下令封锁进出委受制裁油轮",
-          "url": "https://www.toutiao.com/trending/7584624870806277638/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
-        },
-        {
           "title": "白宫幕僚长称特朗普有“酒鬼性格”",
           "url": "https://www.toutiao.com/trending/7584628769915162158/",
           "source": "今日头条",
@@ -439,7 +441,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -538,7 +540,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -560,7 +562,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -585,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "金十整理：特朗普对委施压手段层层加码，委原油应声折价、马杜罗政权承压",
+          "url": "https://flash.jin10.com/detail/20251217111048852800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时28分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉政权已被指定为外国恐怖组织。",
@@ -615,7 +628,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -702,8 +715,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 11时16分]"
+          "appearance_count": 6,
+          "time_info": "[07时14分 ~ 12时28分]"
         },
         {
           "title": "能源业ETF收跌3%，领跌美股行业ETF，标普能源板块也跌将近3%",
@@ -913,7 +926,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -924,7 +937,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时16分"
         },
@@ -994,11 +1007,12 @@
           "url": "https://www.zhihu.com/question/1984523981995336324",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 12时28分]"
         },
         {
           "title": "2025 年，你最喜欢的游戏角色是谁？为什么？",

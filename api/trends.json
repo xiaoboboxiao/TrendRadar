@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T09:05:13.390808+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2025-12-18T11:16:57.054333+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -16,11 +16,12 @@
             10,
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时16分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -128,6 +129,18 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时04分 ~ 11时16分]"
+        },
+        {
           "title": "特朗普政府计划拆解主要气候研究中心",
           "url": "https://wallstreetcn.com/livenews/3022577",
           "source": "华尔街见闻-快讯",
@@ -138,17 +151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时04分 ~ 09时05分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -294,7 +296,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -316,7 +318,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -327,9 +329,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "委内瑞拉总统马杜罗周三表示，在美国总统特朗普下令封锁进出委内瑞拉的油轮之后，委内瑞拉将继续进行石油贸易。",
+          "url": "https://flash.jin10.com/detail/20251218104718187800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "巴西总统卢拉：已告知特朗普，巴西可协助他与委内瑞拉方面进行沟通。",
@@ -343,15 +356,37 @@
           "time_info": "01时19分"
         },
         {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "委内瑞拉防长：特朗普封锁加勒比海域是“妄想”",
           "url": "https://wallstreetcn.com/livenews/3022681",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
+        },
+        {
+          "title": "特朗普：美联储新主席将会认同大幅降息",
+          "url": "https://flash.jin10.com/detail/20251218104117576800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国财政部长贝森特连续两天谈论股市，称：特朗普账户（Trump Accounts）能够帮助确保所有人持股。 38％的美国人不持有股票，目标是将这一比例降至零。",
@@ -376,6 +411,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "美国总统特朗普：将很快宣布下一任美联储主席。新任美联储主席将会主张大幅降低利率。明年将宣布住房改革大动作。",
+          "url": "https://wallstreetcn.com/livenews/3022761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "美国联邦上诉法院推翻先前裁决，允许美国总统特朗普政府恢复在美国消费者金融保护局的大规模裁员。",
           "url": "https://flash.jin10.com/detail/20251218050143269800",
           "source": "金十数据",
@@ -398,6 +444,39 @@
           "time_info": "02时23分"
         },
         {
+          "title": "分析师：规模相对较小，特朗普的“战士红利”不太可能具有宏观意义",
+          "url": "https://flash.jin10.com/detail/20251218103148746800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美国总统特朗普：药品价格下调将于1月开始。",
+          "url": "https://wallstreetcn.com/livenews/3022758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "特朗普宣布为100万美国军人提供1776美元/人“战士红利”",
+          "url": "https://flash.jin10.com/detail/20251218102827985800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉把我们的公司赶走了，我们要把它们拿回来。",
           "url": "https://flash.jin10.com/detail/20251218050033008800",
           "source": "金十数据",
@@ -407,6 +486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
+        },
+        {
+          "title": "美国总统特朗普：工资增长速度远超通胀。 明年会看到减税的成效。",
+          "url": "https://wallstreetcn.com/livenews/3022755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉“非法夺取”了美国资产。",
@@ -445,8 +535,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时15分 ~ 11时16分]"
+        },
+        {
+          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
+          "url": "https://www.cls.cn/detail/2232828",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[06时15分 ~ 09时05分]"
+          "time_info": "[07时14分 ~ 11时16分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -459,18 +561,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时19分 ~ 05时15分]"
-        },
-        {
-          "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
-          "url": "https://www.cls.cn/detail/2232828",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 09时05分]"
         },
         {
           "title": "甲骨文带崩美股大盘",
@@ -622,7 +712,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌发布效率更高的Gemini 3 AI模型。",
@@ -672,6 +762,28 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
+          "url": "https://www.cls.cn/detail/2232894",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -681,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "白银成全球第四大资产 市值超越谷歌",
+          "url": "https://flash.jin10.com/detail/20251218105307391800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -699,6 +822,59 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "我们的恋爱游戏已通关",
+          "url": "https://www.douyin.com/hot/2339482",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时16分]"
+        },
+        {
+          "title": "美国11月游戏机销量骤降，创二十年来同期最惨淡的表现",
+          "url": "https://wallstreetcn.com/livenews/3022573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 05时15分]"
+        },
+        {
+          "title": "广州首个扶持游戏电竞产业发展专项政策近期出台",
+          "url": "https://wallstreetcn.com/livenews/3022767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "33号远征队是TGA年度游戏范本吗",
+          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E6%98%AFTGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E8%8C%83%E6%9C%AC%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -728,7 +904,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
         },
@@ -750,51 +926,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "我们的恋爱游戏已通关",
-          "url": "https://www.douyin.com/hot/2339482",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时05分]"
-        },
-        {
-          "title": "美国11月游戏机销量骤降，创二十年来同期最惨淡的表现",
-          "url": "https://wallstreetcn.com/livenews/3022573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时17分 ~ 05时15分]"
-        },
-        {
-          "title": "33号远征队是TGA年度游戏范本吗",
-          "url": "https://search.bilibili.com/all?keyword=33%E5%8F%B7%E8%BF%9C%E5%BE%81%E9%98%9F%E6%98%AFTGA%E5%B9%B4%E5%BA%A6%E6%B8%B8%E6%88%8F%E8%8C%83%E6%9C%AC%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
         }
       ]
     },
@@ -815,8 +949,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 09时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 11时16分]"
         },
         {
           "title": "伊朗外交部：谴责美国对委内瑞拉的非法行径。美国奉行武力胁迫和系统性霸凌的政策，公然违反了国际法和《联合国宪章》的既定原则和规则，包括航行自由、海上安全和国际贸易自由。",
@@ -828,6 +962,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
+          "url": "https://flash.jin10.com/detail/20251218110237653800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },

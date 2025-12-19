@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-19T19:14:46.437510+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2025-12-19T20:29:07.491632+08:00",
+  "total_titles_processed": 2000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 89,
       "titles": [
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时17分 ~ 20时29分]"
+        },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
           "url": "https://www.cls.cn/detail/2234192",
@@ -18,19 +31,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时19分 ~ 16时22分]"
-        },
-        {
-          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
-          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时08分 ~ 19时14分]"
+          "appearance_count": 17,
+          "time_info": "[09时08分 ~ 20时29分]"
         },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -109,8 +109,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 20时29分]"
         },
         {
           "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
@@ -123,8 +123,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时08分 ~ 19时14分]"
+          "appearance_count": 17,
+          "time_info": "[09时08分 ~ 20时29分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -155,6 +155,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时19分 ~ 14时23分]"
+        },
+        {
+          "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3023959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -207,7 +218,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -229,7 +240,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -251,9 +262,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时16分 ~ 20时29分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -304,6 +328,18 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -314,18 +350,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -483,6 +507,17 @@
           "time_info": "[06时15分 ~ 07时15分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
           "title": "特朗普18分钟全国电视讲话说了什么",
           "url": "https://www.toutiao.com/trending/7585366067095014931/",
           "source": "今日头条",
@@ -503,6 +538,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时30分 ~ 12时31分]"
+        },
+        {
+          "title": "沃勒获特朗普面试 重点讨论就业市场 鲍曼疑似出局",
+          "url": "https://flash.jin10.com/detail/20251219201628845800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
@@ -538,15 +584,15 @@
           "time_info": "04时16分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
+          "title": "据CNBC：特朗普和美联储理事沃勒讨论了劳动力市场。",
+          "url": "https://flash.jin10.com/detail/20251219200708179800",
+          "source": "金十数据",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时14分"
+          "time_info": "20时29分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -580,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "据CNBC：美国总统特朗普似乎正将关注点转向就业市场。",
+          "url": "https://flash.jin10.com/detail/20251219200442362800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "特朗普威胁夺取委内瑞拉石油资源",
@@ -646,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "据CNBC：美联储理事沃勒与美国总统特朗普进行了“一次强有力的美联储主席面试”。",
+          "url": "https://flash.jin10.com/detail/20251219200400455800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "据AXIOS：美国总统特朗普考虑宣布平安夜和12月26日为假日。",
@@ -857,6 +925,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "俄罗斯总统普京：（谈BBC诉讼案）美国总统特朗普是对的。",
+          "url": "https://flash.jin10.com/detail/20251219194958548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
           "title": "美国总统特朗普：（关于美联储面试）昨天见了美联储理事沃勒，他很棒。正在与三四个人交谈。",
           "url": "https://flash.jin10.com/detail/20251219031012439800",
           "source": "金十数据",
@@ -874,7 +953,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1007,8 +1086,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 20时29分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1506,6 +1585,102 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "Steam冬促新史低游戏推荐",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E5%86%AC%E4%BF%83%E6%96%B0%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            13,
+            10,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时23分 ~ 19时14分]"
+        },
+        {
+          "title": "玩游戏能治病还可走医保",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            28,
+            27,
+            20,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
+          "url": "https://www.zhihu.com/question/1984678445846897903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时23分]"
+        },
+        {
+          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
+          "url": "https://www.zhihu.com/question/1984330626023835573",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "Steam冬促新史低游戏推荐",
+          "url": "https://www.douyin.com/hot/2341231",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "支持游戏产业发展 上海首次发布“游十条”",
+          "url": "https://wallstreetcn.com/livenews/3023943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "2025年国内游戏市场收入3507.89亿元，同比增长7.68%创新高",
+          "url": "https://wallstreetcn.com/livenews/3023894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -1591,91 +1766,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "Steam冬促新史低游戏推荐",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E5%86%AC%E4%BF%83%E6%96%B0%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            13,
-            10,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时23分 ~ 19时14分]"
-        },
-        {
-          "title": "玩游戏能治病还可走医保",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23,
-            28,
-            27,
-            20,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
-          "url": "https://www.zhihu.com/question/1984678445846897903",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时23分]"
-        },
-        {
-          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
-          "url": "https://www.zhihu.com/question/1984330626023835573",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "Steam冬促新史低游戏推荐",
-          "url": "https://www.douyin.com/hot/2341231",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "2025年国内游戏市场收入3507.89亿元，同比增长7.68%创新高",
-          "url": "https://wallstreetcn.com/livenews/3023894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         }
       ]
     },
@@ -1821,7 +1911,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
@@ -1855,6 +1945,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "中联部部长刘海星会见伊朗驻华大使法兹里",
+          "url": "https://wallstreetcn.com/livenews/3023912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         }
       ]
     },

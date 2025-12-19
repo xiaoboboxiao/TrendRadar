@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T12:31:13.282318+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-12-19T13:17:40.969688+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
@@ -41,8 +41,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时22分 ~ 12时31分]"
+          "appearance_count": 14,
+          "time_info": "[02时22分 ~ 13时17分]"
         },
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 13时17分]"
         },
         {
           "title": "特朗普再次向乌克兰施压",
@@ -65,8 +65,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -76,8 +76,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -124,6 +124,19 @@
           "time_info": "09时08分"
         },
         {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 13时17分]"
+        },
+        {
           "title": "特朗普下令要求美国人2028年登月",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA2028%E5%B9%B4%E7%99%BB%E6%9C%88%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -146,16 +159,15 @@
           "time_info": "09时08分"
         },
         {
-          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
-          "url": "https://wallstreetcn.com/articles/3761652",
-          "source": "华尔街见闻",
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
           "ranks": [
-            8,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时31分]"
+          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
@@ -194,17 +206,6 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
-        },
-        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -239,6 +240,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
+          "url": "https://wallstreetcn.com/livenews/3023559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时17分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -371,15 +384,15 @@
           "time_info": "[12时30分 ~ 12时31分]"
         },
         {
-          "title": "特朗普将于美国东部时间周五晚上9点（北京时间周六上午10点）就经济问题发表讲话。",
-          "url": "https://wallstreetcn.com/livenews/3023559",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国土安全部部长诺姆：应特朗普总统指示，已立即指示美国公民及移民服务局（USCIS）暂停DV-1计划（多元化移民签证）。",
+          "url": "https://flash.jin10.com/detail/20251219123531783800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时31分"
+          "time_info": "13时17分"
         },
         {
           "title": "据华盛顿邮报：美国总统特朗普将动用军用住房资金为美国国防部发放奖金。",
@@ -402,6 +415,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -827,8 +851,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时31分]"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 13时17分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -863,6 +887,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
+        },
+        {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "金十图示：2025年12月18日（周四）美股热门股票行情一览（美股收盘）",
@@ -935,18 +971,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "半导体ETF收涨超2.3%，领跑美股行业ETF，标普能源板块跌超1.4%",
@@ -1086,11 +1110,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时17分]"
         },
         {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
@@ -1502,7 +1527,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         }
@@ -1530,6 +1555,18 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
+          "url": "https://www.zhihu.com/question/1984678445846897903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时30分 ~ 13时17分]"
+        },
+        {
           "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
           "url": "https://www.zhihu.com/question/1984330626023835573",
           "source": "知乎",
@@ -1540,17 +1577,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
-          "url": "https://www.zhihu.com/question/1984678445846897903",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时30分 ~ 12时31分]"
         }
       ]
     },

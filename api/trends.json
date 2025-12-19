@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T21:30:09.232695+08:00",
-  "total_titles_processed": 2105,
+  "generated_at": "2025-12-19T22:16:14.061574+08:00",
+  "total_titles_processed": 2198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 94,
       "titles": [
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -124,8 +124,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时08分 ~ 21时30分]"
+          "appearance_count": 21,
+          "time_info": "[09时08分 ~ 22时16分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -164,11 +164,25 @@
           "ranks": [
             16,
             15,
-            13
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时16分 ~ 22时16分]"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            25,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时30分]"
+          "time_info": "[19时14分 ~ 22时16分]"
         },
         {
           "title": "特朗普和美联储理事沃勒讨论了劳动力市场。贝莱德高管Rieder将在海湖庄园接受美联储主席职位面试。（CNBC）",
@@ -182,6 +196,18 @@
           "time_info": "20时29分"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时28分 ~ 22时16分]"
+        },
+        {
           "title": "特朗普：美国将在月球部署核反应堆",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
           "source": "百度热搜",
@@ -193,6 +219,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "白宫新闻秘书莱维特：总统特朗普将于周五宣布更多“将降低药品和制药产品价格的协议”。",
+          "url": "https://flash.jin10.com/detail/20251219215016593800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
           "url": "https://flash.jin10.com/detail/20251219035207198800",
           "source": "金十数据",
@@ -202,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：总统特朗普下午1点的活动将聚焦于药品和制药业。",
+          "url": "https://flash.jin10.com/detail/20251219214948801800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "特朗普将签署命令，重新归类大麻",
@@ -281,19 +329,6 @@
           "time_info": "19时14分"
         },
         {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时30分]"
-        },
-        {
           "title": "美国总统特朗普签署行政令，放宽联邦政府对大麻的管制措施。",
           "url": "https://flash.jin10.com/detail/20251219030836021800",
           "source": "金十数据",
@@ -342,18 +377,6 @@
           "time_info": "[02时23分 ~ 03时15分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时28分 ~ 21时30分]"
-        },
-        {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
           "url": "https://www.cls.cn/detail/2233997",
           "source": "财联社热门",
@@ -364,6 +387,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时19分 ~ 12时31分]"
+        },
+        {
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -596,6 +630,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时29分"
+        },
+        {
+          "title": "美国白宫新闻秘书Leavitt：特朗普下午1点的活动将涉及药品和制药行业。",
+          "url": "https://wallstreetcn.com/livenews/3024008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -967,7 +1012,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1052,7 +1097,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1100,8 +1145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时19分 ~ 21时30分]"
+          "appearance_count": 20,
+          "time_info": "[11时19分 ~ 22时16分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1244,6 +1289,17 @@
           "time_info": "17时20分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3024010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
           "url": "https://wallstreetcn.com/livenews/3023371",
           "source": "华尔街见闻-快讯",
@@ -1261,7 +1317,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1286,6 +1342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219213803746800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "KB Home第四财季营收16.9亿美元，分析师预期16.6亿美元。 第四财季EPS为1.55美元，分析师预期1.79美元。 第四财季交付3619（套），分析师预期3511。 预计2026年住房营收51.0亿-61.0亿美元，分析师预期58.3亿美元。 KB Home美股盘后跌4%。",
@@ -1316,7 +1383,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -1524,6 +1591,113 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "Steam冬促新史低游戏推荐",
+          "url": "https://search.bilibili.com/all?keyword=Steam%E5%86%AC%E4%BF%83%E6%96%B0%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            13,
+            10,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时23分 ~ 19时14分]"
+        },
+        {
+          "title": "玩游戏能治病还可走医保",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            28,
+            27,
+            20,
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 07时15分]"
+        },
+        {
+          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
+          "url": "https://www.zhihu.com/question/1984678445846897903",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时30分 ~ 14时23分]"
+        },
+        {
+          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
+          "url": "https://www.zhihu.com/question/1984330626023835573",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "游戏入侵超长动漫解说",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%85%A5%E4%BE%B5%E8%B6%85%E9%95%BF%E5%8A%A8%E6%BC%AB%E8%A7%A3%E8%AF%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 22时16分]"
+        },
+        {
+          "title": "Steam冬促新史低游戏推荐",
+          "url": "https://www.douyin.com/hot/2341231",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "支持游戏产业发展 上海首次发布“游十条”",
+          "url": "https://wallstreetcn.com/livenews/3023943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "2025年国内游戏市场收入3507.89亿元，同比增长7.68%创新高",
+          "url": "https://wallstreetcn.com/livenews/3023894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 8,
       "titles": [
@@ -1617,102 +1791,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "Steam冬促新史低游戏推荐",
-          "url": "https://search.bilibili.com/all?keyword=Steam%E5%86%AC%E4%BF%83%E6%96%B0%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            13,
-            10,
-            27,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时23分 ~ 19时14分]"
-        },
-        {
-          "title": "玩游戏能治病还可走医保",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%83%BD%E6%B2%BB%E7%97%85%E8%BF%98%E5%8F%AF%E8%B5%B0%E5%8C%BB%E4%BF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23,
-            28,
-            27,
-            20,
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "我们是国产独游《溯光行》制作组，游戏发售后的销量比较低迷，问题出在哪里？",
-          "url": "https://www.zhihu.com/question/1984678445846897903",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时30分 ~ 14时23分]"
-        },
-        {
-          "title": "《天国：拯救 2》设计师谈游戏前期难度高，称先吃瘪后面变强才爽，你如何评价先苦后甜这种游戏设计？",
-          "url": "https://www.zhihu.com/question/1984330626023835573",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "Steam冬促新史低游戏推荐",
-          "url": "https://www.douyin.com/hot/2341231",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时17分]"
-        },
-        {
-          "title": "支持游戏产业发展 上海首次发布“游十条”",
-          "url": "https://wallstreetcn.com/livenews/3023943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时29分"
-        },
-        {
-          "title": "2025年国内游戏市场收入3507.89亿元，同比增长7.68%创新高",
-          "url": "https://wallstreetcn.com/livenews/3023894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
         }
       ]
     },
@@ -1947,8 +2025,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://wallstreetcn.com/livenews/3024016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
         {
           "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
           "url": "https://flash.jin10.com/detail/20251219170952082800",

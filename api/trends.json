@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T09:03:57.500626+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-20T11:11:54.741494+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -131,7 +131,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -142,7 +142,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -158,6 +158,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时16分 ~ 09时03分]"
+        },
+        {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         },
         {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
@@ -283,6 +294,29 @@
           "time_info": "[04时16分 ~ 05时14分]"
         },
         {
+          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
+          "url": "https://wallstreetcn.com/livenews/3024204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
+        },
+        {
+          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
+          "url": "https://wallstreetcn.com/articles/3761733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
+        },
+        {
           "title": "美国总统特朗普：政府工作人员将继续精简。 4.5%的失业率是“出色的数字”。",
           "url": "https://wallstreetcn.com/livenews/3024134",
           "source": "华尔街见闻-快讯",
@@ -328,28 +362,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 00时19分]"
-        },
-        {
-          "title": "特朗普称美军正对叙利亚境内“伊斯兰国”进行猛烈打击",
-          "url": "https://wallstreetcn.com/livenews/3024204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "沃勒在美联储主席面试中表现“出色”，特朗普或将关注重点转向就业市场",
-          "url": "https://wallstreetcn.com/articles/3761733",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
         },
         {
           "title": "九家制药商与特朗普签署价格协议，以避免关税。 其中包括罗氏、Merck、百时美施贵宝、葛兰素史克、诺华、吉利德科学、安进、赛诺菲。 协议内容与之前和辉瑞、阿斯利康的类似。 艾伯维、强生、再生元制药还没有与特朗普宣布协议。",
@@ -454,7 +466,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -487,9 +499,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -518,6 +530,17 @@
           "time_info": "[06时15分 ~ 09时03分]"
         },
         {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
+        },
+        {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
           "url": "https://wallstreetcn.com/livenews/3024062",
           "source": "华尔街见闻-快讯",
@@ -530,15 +553,15 @@
           "time_info": "[00时19分 ~ 01时15分]"
         },
         {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
+          "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
+          "url": "https://wallstreetcn.com/livenews/3024223",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时03分"
+          "time_info": "11时11分"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨近4%",
@@ -547,7 +570,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -558,7 +581,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -569,7 +592,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
         },
@@ -643,6 +666,46 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3024168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -657,19 +720,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 09时03分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 11时11分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -680,8 +732,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 09时03分]"
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 11时11分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
         }
       ]
     },
@@ -721,40 +785,12 @@
           "url": "https://www.zhihu.com/question/1918243705258751137",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
-          "url": "https://wallstreetcn.com/livenews/3024048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "[09时03分 ~ 11时11分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:27:10.670688+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-12-21T21:24:16.948935+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时15分 ~ 20时27分]"
+          "appearance_count": 12,
+          "time_info": "[13时15分 ~ 21时24分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 21时24分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -87,17 +98,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时17分 ~ 07时14分]"
-        },
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
         },
         {
           "title": "美联储主席之争白热化，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -183,11 +183,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时27分]"
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 21时24分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -239,6 +240,159 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美媒爆以色列准备再次打击伊朗",
+          "url": "https://news.ifeng.com/c/8pGLAZe3Fgx",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[12时33分 ~ 21时24分]"
+        },
+        {
+          "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
+          "url": "https://flash.jin10.com/detail/20251221195815576800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时27分 ~ 21时24分]"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://flash.jin10.com/detail/20251221203127694800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "伊朗外长谴责美国对委内瑞拉动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3024435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
+        },
+        {
+          "title": "以色列拟告知美方或再次打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3024378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时19分]"
+        },
+        {
+          "title": "以色列拟告知美方或再次打击伊朗",
+          "url": "https://www.toutiao.com/trending/7586190944370950207/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 14时22分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 15时15分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 11时25分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时17分 ~ 09时12分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
@@ -281,8 +435,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 20时27分]"
+          "appearance_count": 10,
+          "time_info": "[14时22分 ~ 21时24分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -367,127 +521,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时26分 ~ 20时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 14时22分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时17分 ~ 15时15分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时17分 ~ 11时25分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 09时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美媒爆以色列准备再次打击伊朗",
-          "url": "https://news.ifeng.com/c/8pGLAZe3Fgx",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 20时27分]"
-        },
-        {
-          "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
-          "url": "https://flash.jin10.com/detail/20251221195815576800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时27分"
-        },
-        {
-          "title": "以色列拟告知美方或再次打击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3024378",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            18,
-            23
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时16分 ~ 16时19分]"
-        },
-        {
-          "title": "以色列拟告知美方或再次打击伊朗",
-          "url": "https://www.toutiao.com/trending/7586190944370950207/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "[20时26分 ~ 21时24分]"
         }
       ]
     },
@@ -560,6 +595,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 05时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "「韧」和「深度求索（DeepSeek）」当选 2025 年度字词，你觉得准确吗？你心中年度字词是什么？",
+          "url": "https://www.zhihu.com/question/1985299550479542062",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时23分 ~ 21时24分]"
         }
       ]
     }

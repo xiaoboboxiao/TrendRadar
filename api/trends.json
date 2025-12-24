@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T19:14:44.213891+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-12-24T20:30:19.447866+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 19时14分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 20时30分]"
         },
         {
           "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
@@ -107,11 +107,12 @@
             23,
             26,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 19时14分]"
+          "appearance_count": 27,
+          "time_info": "[00时19分 ~ 20时30分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -142,6 +143,18 @@
           "time_info": "[09时07分 ~ 14时24分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 20时30分]"
+        },
+        {
           "title": "布林肯为何对特朗普发出严厉警告",
           "url": "https://www.toutiao.com/trending/7587029251379957291/",
           "source": "今日头条",
@@ -170,18 +183,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时16分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -282,6 +283,17 @@
           "time_info": "[11时19分 ~ 12时32分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 20时30分]"
+        },
+        {
           "title": "克林顿大尺度照被公布 特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -315,6 +327,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实",
+          "url": "https://wallstreetcn.com/livenews/3026175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时30分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -376,26 +400,15 @@
           "time_info": "[15时19分 ~ 15时20分]"
         },
         {
-          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
-          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
-          "source": "凤凰网",
+          "title": "评论员：特朗普级战舰可能造不出来",
+          "url": "https://www.toutiao.com/trending/7587325146696781348/",
+          "source": "今日头条",
           "ranks": [
-            7
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "新公布爱泼斯坦案文件涉特朗普 美司法部：部分内容不实",
-          "url": "https://wallstreetcn.com/livenews/3026175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 20时30分]"
         },
         {
           "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
@@ -459,7 +472,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -514,7 +527,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -577,7 +590,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -700,6 +713,17 @@
           "time_info": "[06时15分 ~ 07时14分]"
         },
         {
+          "title": "英特尔美股盘前跌幅扩大至4%，消息称英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
+        },
+        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
@@ -720,6 +744,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "英特尔美股盘前跌近1%，据报道，英伟达测试了英特尔的18A工艺，但已暂缓推进。",
+          "url": "https://wallstreetcn.com/livenews/3026192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时30分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -793,8 +828,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 19时14分]"
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 20时30分]"
         },
         {
           "title": "2025我的游戏二次元回顾",
@@ -804,11 +839,12 @@
             17,
             16,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "appearance_count": 7,
+          "time_info": "[16时21分 ~ 20时30分]"
         },
         {
           "title": "33号远征队获IGN年度游戏",
@@ -1030,6 +1066,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时30分]"
+        },
+        {
           "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
           "url": "https://www.toutiao.com/trending/7587300342778301988/",
           "source": "今日头条",
@@ -1053,18 +1102,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 11时20分]"
-        },
-        {
-          "title": "伊朗代表：感谢中俄",
-          "url": "https://www.douyin.com/hot/2345871",
-          "source": "抖音",
-          "ranks": [
-            17,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "联合国安理会将于十分钟后就伊朗核计划举行会议；美国12月谘商会消费者信心指数及里奇蒙德联储制造业指数将于十分钟后公布。",
@@ -1091,8 +1128,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时07分 ~ 19时14分]"
+          "appearance_count": 17,
+          "time_info": "[09时07分 ~ 20时30分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",

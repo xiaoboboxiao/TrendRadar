@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T20:29:28.656072+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-12-25T21:29:13.050508+08:00",
+  "total_titles_processed": 1746,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "高市早苗：想尽快与特朗普会晤",
+          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时29分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 21时29分]"
         },
         {
           "title": "特朗普要“确保太空优势”，美国“太空股”会成为下一个“量子科技”吗？",
@@ -34,18 +58,6 @@
           "time_info": "[00时19分 ~ 13时20分]"
         },
         {
-          "title": "高市早苗：想尽快与特朗普会晤",
-          "url": "https://news.ifeng.com/c/8pNHf17pGd9",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时29分]"
-        },
-        {
           "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
           "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
           "source": "凤凰网",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 20时29分]"
         },
         {
           "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
@@ -239,6 +239,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "俄罗斯外交部：我们希望美国总统特朗普的务实与理性有助于在国际法框架内找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20251225202508685800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "“特朗普”级战列舰来了",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9D%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -264,8 +275,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时07分 ~ 20时29分]"
+          "appearance_count": 18,
+          "time_info": "[09时07分 ~ 21时29分]"
         },
         {
           "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
@@ -279,8 +290,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时22分 ~ 20时29分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 21时29分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -484,6 +495,20 @@
           "time_info": "[00时19分 ~ 17时17分]"
         },
         {
+          "title": "广州首个游戏电竞产业专项扶持政策发布",
+          "url": "https://www.cls.cn/detail/2239755",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 21时29分]"
+        },
+        {
           "title": "魔兽世界之类的游戏中为什么要设计这么多无用的白装甚至灰色装备？",
           "url": "https://www.zhihu.com/question/26718229",
           "source": "知乎",
@@ -510,20 +535,6 @@
           "time_info": "[19时13分 ~ 19时14分]"
         },
         {
-          "title": "广州首个游戏电竞产业专项扶持政策发布",
-          "url": "https://www.cls.cn/detail/2239755",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 19时14分]"
-        },
-        {
           "title": "A股游戏板块午后走强，名臣健康、顺网科技双双涨超2%。广州印发《广州市扶持游戏电竞产业发展的十八条措施》。",
           "url": "https://wallstreetcn.com/livenews/3026542",
           "source": "华尔街见闻-快讯",
@@ -541,11 +552,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时14分 ~ 20时29分]"
+          "appearance_count": 3,
+          "time_info": "[19时14分 ~ 21时29分]"
+        },
+        {
+          "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
+          "url": "https://www.zhihu.com/question/1985274385993573570",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时29分]"
         },
         {
           "title": "广州首个游戏电竞产业专项扶持政策发布",
@@ -558,17 +581,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时24分]"
-        },
-        {
-          "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
-          "url": "https://www.zhihu.com/question/1985274385993573570",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
         }
       ]
     },
@@ -600,6 +612,19 @@
           "time_info": "15时18分"
         },
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时13分 ~ 21时29分]"
+        },
+        {
           "title": "金价狂飙 千元内几乎买不到金饰",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E5%8D%83%E5%85%83%E5%86%85%E5%87%A0%E4%B9%8E%E4%B9%B0%E4%B8%8D%E5%88%B0%E9%87%91%E9%A5%B0",
           "source": "百度热搜",
@@ -611,18 +636,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 13时20分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            14,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时13分 ~ 20时29分]"
         },
         {
           "title": "金价又创历史新高",
@@ -814,11 +827,12 @@
           "url": "https://wallstreetcn.com/articles/3762036",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时29分 ~ 21时29分]"
         },
         {
           "title": "OpenAI考虑在ChatGPT内植入广告。 该公司计划在用户查询时优先展示推广内容。 据悉，OpenAI已设计多种广告设计样稿，旨在打造全新的数字广告形式，而非简单模仿现有模式。（The Information）",

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T15:18:41.558810+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-12-25T16:21:48.822109+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -169,6 +169,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "高市早苗为何要赶在特朗普访华前访美",
+          "url": "https://www.toutiao.com/trending/7587680478346350143/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
           "title": "特朗普挑战纽约“绿灯法”受挫",
           "url": "https://flash.jin10.com/detail/20251225101921805800",
           "source": "金十数据",
@@ -204,8 +215,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 16时21分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -278,6 +289,17 @@
           "time_info": "[02时21分 ~ 05时14分]"
         },
         {
+          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
+          "url": "https://wallstreetcn.com/articles/3762016",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时22分 ~ 16时21分]"
+        },
+        {
           "title": "周三（12月24日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.33%，报87400美元，北京时间22:38曾跌至86380美元刷新日低。 CME以太币期货DCR主力合约跌0.99%，报2942.50美元，22:38也曾刷新日低至2886.50美元。 美股加密货币与加密货币关联指数涨0.14%，报62.35点。 最近24小时，MarketVector数字资产100小盘指数跌0.37%，暂报3509.62点，整体呈现出V形走势。 MarketVector数字资产100小盘指数跌0.24%，暂报17923.99点。",
           "url": "https://wallstreetcn.com/livenews/3026354",
           "source": "华尔街见闻-快讯",
@@ -288,17 +310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
-        },
-        {
-          "title": "英特尔美股盘前大跌5%，报道：英伟达暂缓推进测试英特尔18A工艺",
-          "url": "https://wallstreetcn.com/articles/3762016",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时22分 ~ 15时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超0.5%，英伟达跌超0.3%",
@@ -363,7 +374,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "为什么国产 3A 游戏不喜欢做《赛博 2077》《死亡搁浅》等末世科幻题材，而喜欢做古代题材？",
@@ -456,6 +467,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时20分 ~ 14时24分]"
+        },
+        {
+          "title": "广州首个游戏电竞产业专项扶持政策发布",
+          "url": "https://www.cls.cn/detail/2239755",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -482,7 +504,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -587,6 +609,48 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
+          "url": "https://wallstreetcn.com/articles/3761906",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时19分 ~ 07时15分]"
+        },
+        {
+          "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
+          "url": "https://wallstreetcn.com/livenews/3026345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美债抛售潮背后的地缘金融信号",
+          "url": "https://www.toutiao.com/trending/7587662581184073257/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -624,37 +688,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股助标普收创新高，金银铜再新高，人民币强势逼近7.0，GDP强劲打击美债",
-          "url": "https://wallstreetcn.com/articles/3761906",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时19分 ~ 07时15分]"
-        },
-        {
-          "title": "美债收益率跌约3个基点，北美时段打破沉寂并逐步走低",
-          "url": "https://wallstreetcn.com/livenews/3026345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时15分]"
         }
       ]
     },

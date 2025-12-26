@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:17:54.926734+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2025-12-26T14:23:36.702980+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时18分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时23分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -46,19 +59,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
-          "url": "https://wallstreetcn.com/articles/3762107",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时17分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -109,6 +109,17 @@
           "time_info": "[02时21分 ~ 06时14分]"
         },
         {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时23分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -121,17 +132,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时14分 ~ 04时17分]"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时17分]"
         },
         {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
@@ -167,6 +167,17 @@
           "time_info": "09时08分"
         },
         {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
           "title": "专家：特朗普或在2026“压榨”美联储",
           "url": "https://www.toutiao.com/trending/7587727738132270635/",
           "source": "今日头条",
@@ -181,7 +192,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -221,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时23分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -259,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -311,8 +333,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 14时23分]"
         },
         {
           "title": "电商把“文字游戏”玩出了新高度",
@@ -468,8 +490,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 13时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 14时23分]"
         }
       ]
     },

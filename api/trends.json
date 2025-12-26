@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:16:53.981148+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2025-12-26T19:14:26.355372+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 19时14分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -141,8 +141,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "特朗普人事强震引爆新争议",
@@ -162,7 +162,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         },
@@ -272,6 +272,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 19时14分]"
+        },
+        {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
           "url": "https://www.zhihu.com/question/1987171318681068732",
           "source": "知乎",
@@ -286,19 +299,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 09时08分]"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 18时16分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
@@ -400,7 +400,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
@@ -498,6 +498,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "游戏擦边设计是舍本逐末",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E6%93%A6%E8%BE%B9%E8%AE%BE%E8%AE%A1%E6%98%AF%E8%88%8D%E6%9C%AC%E9%80%90%E6%9C%AB%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         }
       ]
     },
@@ -618,7 +629,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时16分"
         }

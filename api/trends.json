@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T09:08:49.460419+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-12-26T11:20:41.473653+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -59,6 +59,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "金银亚盘暴力拉升，现货白银一度上破75美元/盎司；特朗普宣称美军打击尼日利亚ISIS恐怖分子，此前曾警告美国将“火力全开”进入尼日利亚……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251226104958577800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美国总统特朗普：今晚，美国对尼日利亚西北部的ISIS恐怖分子发动了强大而致命的打击。",
           "url": "https://flash.jin10.com/detail/20251226070308886800",
           "source": "金十数据",
@@ -99,6 +110,28 @@
           "time_info": "[01时14分 ~ 04时17分]"
         },
         {
+          "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
+          "url": "https://wallstreetcn.com/articles/3762107",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -116,7 +149,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -127,7 +160,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         },
@@ -138,69 +171,15 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
-          "url": "https://www.zhihu.com/question/1985274385993573570",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 07时14分]"
-        },
-        {
-          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
-          "url": "https://www.cls.cn/detail/2240453",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "电商把“文字游戏”玩出了新高度",
-          "url": "https://www.toutiao.com/trending/7587761238898118186/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 02时21分]"
-        },
-        {
-          "title": "当边牧玩纸巾萝卜游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%BE%B9%E7%89%A7%E7%8E%A9%E7%BA%B8%E5%B7%BE%E8%90%9D%E5%8D%9C%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时21分 ~ 03时12分]"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -233,15 +212,48 @@
           "time_info": "[00时18分 ~ 04时17分]"
         },
         {
+          "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3026999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
           "url": "https://wallstreetcn.com/livenews/3026903",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
+          "url": "https://flash.jin10.com/detail/20251226101958346800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "中金：建议淡化黄金价格点位预测 更关注资产趋势改变时点",
@@ -250,9 +262,76 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "拳头游戏回应『英雄联盟 2』传闻，称其非续作但皮肤可继承，这是出于怎样的商业考量？",
+          "url": "https://www.zhihu.com/question/1985274385993573570",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时20分]"
+        },
+        {
+          "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
+          "url": "https://www.cls.cn/detail/2240453",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时20分]"
+        },
+        {
+          "title": "电商把“文字游戏”玩出了新高度",
+          "url": "https://www.toutiao.com/trending/7587761238898118186/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 02时21分]"
+        },
+        {
+          "title": "当边牧玩纸巾萝卜游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%93%E8%BE%B9%E7%89%A7%E7%8E%A9%E7%BA%B8%E5%B7%BE%E8%90%9D%E5%8D%9C%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时21分 ~ 03时12分]"
+        },
+        {
+          "title": "如何评价游戏《宝可梦传说 Z-A》的大型 DLC《超次元爆涌》？",
+          "url": "https://www.zhihu.com/question/1987178927509231034",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -326,11 +405,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时18分 ~ 11时20分]"
         }
       ]
     },

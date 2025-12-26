@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T15:17:53.223905+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2025-12-26T16:21:21.280746+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时21分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -59,6 +59,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时12分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时21分]"
         },
         {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时17分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -151,7 +151,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -162,7 +162,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -173,7 +173,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -220,6 +220,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "泽连斯基称近期将与美总统特朗普会面",
+          "url": "https://wallstreetcn.com/livenews/3027103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "特朗普人事强震引爆新争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         }
       ]
     },
@@ -244,27 +266,28 @@
           "time_info": "[00时18分 ~ 09时08分]"
         },
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时20分 ~ 16时21分]"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
           "url": "https://flash.jin10.com/detail/20251226150518760800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时20分 ~ 15时17分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -302,8 +325,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时23分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时23分 ~ 16时21分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -389,7 +412,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
@@ -445,7 +468,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗天然气停供致伊拉克发电量损失约4500兆瓦",
@@ -489,6 +512,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 04时17分]"
+        },
+        {
+          "title": "伊朗称在海湾扣押一艘运载走私燃料的外国油轮",
+          "url": "https://flash.jin10.com/detail/20251226154852421800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
+        },
+        {
+          "title": "伊朗国营媒体：伊朗在海湾扣押一艘运载走私燃料的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251226154344656800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时21分"
         },
         {
           "title": "以色列国防军：今天早些时候，以色列国防军与辛贝特在黎巴嫩纳萨里耶地区击毙了“圣城旅”第840作战单位的关键分子哈辛·马哈茂德·马尔沙德·阿勒-乔哈利。过去数年，他一直参与推动在叙黎战区针对以色列国的恐怖行动。哈辛在伊朗革命卫队服役，参与了伊朗指挥的针对以色列国和安全部队的恐怖活动。",
@@ -547,8 +592,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时18分 ~ 15时17分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 16时21分]"
         }
       ]
     },
@@ -580,7 +625,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         }

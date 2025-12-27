@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T18:15:22.902240+08:00",
-  "total_titles_processed": 1191,
+  "generated_at": "2025-12-27T19:12:53.230507+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普圣诞夜动手！美国空袭尼日利亚，目标直指石油和稀土？",
@@ -40,11 +40,12 @@
             10,
             13,
             14,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 18时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 19时12分]"
         },
         {
           "title": "美媒：泽连斯基“准备”就特朗普停火计划举行公投",
@@ -87,6 +88,33 @@
           "time_info": "[11时19分 ~ 12时28分]"
         },
         {
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 19时12分]"
+        },
+        {
+          "title": "特朗普：未经我批准 泽连斯基一无所有",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            18,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 19时12分]"
+        },
+        {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
           "url": "https://news.ifeng.com/c/8pPc87WsghO",
           "source": "凤凰网",
@@ -98,16 +126,15 @@
           "time_info": "09时06分"
         },
         {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
+          "title": "乌克兰总统泽连斯基：正乘飞机前往美国会见美国总统特朗普，途中将先在加拿大停留，会见加拿大总理卡尼。",
+          "url": "https://flash.jin10.com/detail/20251227184915067800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 18时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普：认为与乌克兰总统泽连斯基的会谈将是“不错的”。 将在周末于海湖庄园接见泽连斯基和以色列总理内塔尼亚胡。 泽连斯基的任何提议都需要我的批准。 预计很快将与俄罗斯总统普京对话。（Politico）",
@@ -149,19 +176,16 @@
           "time_info": "[13时16分 ~ 16时19分]"
         },
         {
-          "title": "特朗普：未经我批准 泽连斯基一无所有",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
-          "source": "百度热搜",
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            22,
-            18,
-            12,
-            13
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时22分 ~ 18时15分]"
+          "time_info": "[15时14分 ~ 19时12分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -197,18 +221,6 @@
             13,
             21,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时14分 ~ 18时15分]"
-        },
-        {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -265,6 +277,28 @@
           "time_info": "[00时17分 ~ 01时13分]"
         },
         {
+          "title": "美军圣诞节突袭尼日利亚，特朗普政府有何考量？",
+          "url": "https://news.ifeng.com/c/8pQfSUcW5fL",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-27）",
+          "url": "https://flash.jin10.com/detail/20251227180421799800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "乌总统：乌美安全保障协议接近完成 签署取决于与特朗普会晤",
           "url": "https://flash.jin10.com/detail/20251226230113914800",
           "source": "金十数据",
@@ -311,8 +345,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 19时12分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -323,8 +357,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 19时12分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -362,11 +396,12 @@
             11,
             9,
             10,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 18时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 19时12分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -502,7 +537,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "恋与深空云游戏公测",
@@ -527,6 +562,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 12时28分]"
+        },
+        {
+          "title": "游戏中瞬间回血和持续回血有何区别，纯粹是为了区分技能吗？",
+          "url": "https://www.zhihu.com/question/1985993166076268656",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "在采用冰雪 / 低温技能的游戏英雄中，你觉得哪位角色最为强力，是《守望先锋》的小美吗？",

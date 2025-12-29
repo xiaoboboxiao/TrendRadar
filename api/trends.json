@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T16:23:17.586560+08:00",
-  "total_titles_processed": 1239,
+  "generated_at": "2025-12-29T17:24:43.245692+08:00",
+  "total_titles_processed": 1347,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -28,8 +28,23 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时43分 ~ 16时23分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 17时24分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            20,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时43分 ~ 17时24分]"
         },
         {
           "title": "美国住房部长：将在佛罗里达州会见特朗普，讨论关于楼市的若干想法。需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -43,20 +58,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时14分]"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时43分 ~ 16时23分]"
         },
         {
           "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
@@ -167,6 +168,18 @@
           "time_info": "[00时17分 ~ 05时14分]"
         },
         {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
           "url": "https://wallstreetcn.com/livenews/3027691",
           "source": "华尔街见闻-快讯",
@@ -192,18 +205,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 05时14分]"
-        },
-        {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时23分]"
         },
         {
           "title": "美银CEO：预计特朗普关税局势将开始降温",
@@ -339,6 +340,18 @@
           "time_info": "13时24分"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时21分 ~ 17时24分]"
+        },
+        {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
           "url": "https://flash.jin10.com/detail/20251229044011791800",
           "source": "金十数据",
@@ -401,16 +414,16 @@
           "time_info": "[04时16分 ~ 07时14分]"
         },
         {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
+          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
+          "url": "https://www.cls.cn/detail/2242304",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            18
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时21分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 17时24分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -435,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时14分]"
-        },
-        {
-          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
-          "url": "https://www.cls.cn/detail/2242304",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
@@ -613,6 +615,17 @@
           "time_info": "06时14分"
         },
         {
+          "title": "泽连斯基：特朗普告诉我，他曾与普京讨论过20点计划。 在特朗普和欧洲领导人就文件达成同意后，与俄罗斯举行会晤是可能的。 希望乌克兰在和平计划签署的同时获得安全保障。 20点计划应提交公投，至少需要60天的停火才能举行公投。",
+          "url": "https://wallstreetcn.com/livenews/3028029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
           "url": "https://flash.jin10.com/detail/20251229062816964800",
           "source": "金十数据",
@@ -622,6 +635,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "泽连斯基请求特朗普提供30-50年的安全保障。泽连斯基称，特朗普告诉他会考虑这一请求。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3028027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：在美国总统特朗普和欧洲领导人就文件达成一致后，与俄罗斯举行会晤是可能的。",
+          "url": "https://flash.jin10.com/detail/20251229164800052800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
@@ -723,6 +758,17 @@
           "time_info": "11时44分"
         },
         {
+          "title": "乌克兰总统泽连斯基：我告诉美国总统特朗普，我们非常愿意考虑30年、40年、50年（安全保障）的可能性。那将是特朗普做出的一个历史性决定。特朗普表示他会考虑一下。",
+          "url": "https://flash.jin10.com/detail/20251229164216864800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "法国总统马克龙：今晚，我与其他欧洲领导人一同参与了与泽连斯基总统、特朗普总统的交流。随后我又与泽连斯基进行了交谈。 我们在安全保障方面正取得进展，这些保障将是构建公正持久和平的核心要素。",
           "url": "https://wallstreetcn.com/livenews/3027744",
           "source": "华尔街见闻-快讯",
@@ -743,6 +789,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国总统特朗普表示，他曾与俄罗斯总统普京讨论过一项20点计划。",
+          "url": "https://flash.jin10.com/detail/20251229164104471800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "特朗普称，若有助于达成俄乌和平协议，不排除访问乌克兰的可能性",
@@ -814,7 +871,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -827,6 +884,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时17分 ~ 11时44分]"
+        },
+        {
+          "title": "机构：金价在投资者锁定利润的背景下回落",
+          "url": "https://flash.jin10.com/detail/20251229170742878800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "金十图示：2025年12月29日（周一）上海金午盘价为1001.63元/克，较国际金价(1004.09元/克)，低2.46元/克",
@@ -862,12 +930,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时44分"
+        },
+        {
+          "title": "瑞银：2026年前三个季度黄金目标价为每盎司5,000美元（此前预计为每盎司4500美元）。 预计到2026年底，黄金价格将小幅下跌至每盎司4,800美元。",
+          "url": "https://wallstreetcn.com/livenews/3028031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
+          "url": "https://flash.jin10.com/detail/20251229164025888800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251229104659948800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "瑞银集团：目标在2026年前三个季度将黄金目标价格定为每盎司5000美元。",
+          "url": "https://flash.jin10.com/detail/20251229164251013800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "国内黄金饰品价格多数小幅回落",
+          "url": "https://www.toutiao.com/trending/7588362782216880134/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -892,12 +1021,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美股三大股指期货走低，标普500指数期货下跌0.3%，纳斯达克100指数期货下跌0.5%，道琼斯指数期货下跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20251229170123670800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗：从俄罗斯发射三颗卫星到太空",
@@ -926,6 +1066,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时26分 ~ 15时22分]"
+        },
+        {
+          "title": "阿联酋和伊朗两国外长通电话 就也门局势交换意见",
+          "url": "https://flash.jin10.com/detail/20251229164423041800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2025热门电竞游戏成绩汇总",
+          "url": "https://search.bilibili.com/all?keyword=2025%E7%83%AD%E9%97%A8%E7%94%B5%E7%AB%9E%E6%B8%B8%E6%88%8F%E6%88%90%E7%BB%A9%E6%B1%87%E6%80%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -960,23 +1128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时13分 ~ 13时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货白银周一开盘暴力拉升至83.8美元/盎司后迅速回吐涨幅，日内宽幅震荡；现货黄金亚盘走低，但价格得以维持在4500美元上方，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251229104659948800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
         }
       ]
     }

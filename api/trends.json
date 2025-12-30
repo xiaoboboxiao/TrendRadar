@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T19:14:51.482821+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-12-30T20:31:28.530436+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 20时31分]"
+        },
+        {
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时21分 ~ 20时31分]"
         },
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -52,19 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时14分]"
-        },
-        {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时31分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -94,8 +94,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时34分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 20时31分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 20时31分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -111,20 +125,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时18分 ~ 12时34分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时24分 ~ 19时14分]"
         },
         {
           "title": "解放军封岛军演，特朗普表态",
@@ -184,6 +184,43 @@
           "time_info": "05时14分"
         },
         {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时31分]"
+        },
+        {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时31分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 20时31分]"
+        },
+        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -228,6 +265,19 @@
           "time_info": "03时12分"
         },
         {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            5,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时31分]"
+        },
+        {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
           "url": "https://flash.jin10.com/detail/20251230045611670800",
           "source": "金十数据",
@@ -237,53 +287,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
-        },
-        {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时14分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -360,6 +363,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时21分 ~ 17时20分]"
+        },
+        {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -495,17 +509,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时34分 ~ 14时24分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -672,6 +675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时16分 ~ 18时17分]"
+        },
+        {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 20时31分]"
         },
         {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
@@ -981,17 +995,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "伊朗、哈马斯强硬回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
           "url": "https://flash.jin10.com/detail/20251230045300641800",
           "source": "金十数据",
@@ -1042,7 +1045,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1280,8 +1283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时14分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时31分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1330,8 +1333,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 19时14分]"
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 20时31分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -1408,7 +1411,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1419,7 +1422,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1449,7 +1452,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "你是什么时候意识到打游戏对于普通人无意义的？",
@@ -1523,11 +1526,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时16分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[18时16分 ~ 20时31分]"
         },
         {
           "title": "游戏里的「篝火 / 壁炉」场景为何能带来强烈治愈感？",
@@ -1539,6 +1543,91 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 07时15分]"
+        },
+        {
+          "title": "为什么很多游戏厂商在读取时光明正大的写「着色器编译中」，而不是委婉的换个措辞？",
+          "url": "https://www.zhihu.com/question/1989087265755001803",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "伊朗将加拿大皇家海军列为“恐怖组织”",
+          "url": "https://flash.jin10.com/detail/20251230200457541800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3028272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 03时12分]"
+        },
+        {
+          "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
+          "url": "https://flash.jin10.com/detail/20251230172626201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "伊朗总统表示，德黑兰对任何“侵略”的回应都将是“严厉的”。",
+          "url": "https://flash.jin10.com/detail/20251230184753344800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "市场消息：伊朗德黑兰和伊斯法罕发生学生抗议活动。",
+          "url": "https://flash.jin10.com/detail/20251230193448582800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时31分"
+        },
+        {
+          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
+          "url": "https://flash.jin10.com/detail/20251230015948375800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         }
       ]
     },
@@ -1606,58 +1695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
-          "url": "https://wallstreetcn.com/livenews/3028272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时12分]"
-        },
-        {
-          "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
-          "url": "https://flash.jin10.com/detail/20251230172626201800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "伊朗总统表示，德黑兰对任何“侵略”的回应都将是“严厉的”。",
-          "url": "https://flash.jin10.com/detail/20251230184753344800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "伊朗央行行长已于周一辞职，此前该国货币兑美元汇率跌至历史新低，引发自2022年以来规模最大的抗议活动，席卷德黑兰及其他多个城市。",
-          "url": "https://flash.jin10.com/detail/20251230015948375800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
         }
       ]
     },

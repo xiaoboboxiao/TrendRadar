@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T14:24:43.850353+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2025-12-31T15:19:54.683556+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -89,11 +89,12 @@
           "ranks": [
             13,
             12,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时22分 ~ 15时19分]"
         },
         {
           "title": "特朗普为何称不担心解放军绕台军演",
@@ -178,6 +179,18 @@
           "time_info": "[00时20分 ~ 01时16分]"
         },
         {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时19分]"
+        },
+        {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
           "url": "https://wallstreetcn.com/livenews/3028855",
           "source": "华尔街见闻-快讯",
@@ -190,26 +203,26 @@
           "time_info": "[01时16分 ~ 02时22分]"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
           "url": "https://flash.jin10.com/detail/20251231131511777800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
+          "url": "https://wallstreetcn.com/livenews/3029129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
         },
         {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
@@ -305,8 +318,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时09分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[09时09分 ~ 15时19分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -672,6 +685,57 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为什么很多游戏厂商在读取时光明正大的写「着色器编译中」，而不是委婉的换个措辞？",
+          "url": "https://www.zhihu.com/question/1989087265755001803",
+          "source": "知乎",
+          "ranks": [
+            6,
+            5,
+            10,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时19分 ~ 09时10分]"
+        },
+        {
+          "title": "LOL是音乐游戏",
+          "url": "https://search.bilibili.com/all?keyword=LOL%E6%98%AF%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            8,
+            7,
+            5,
+            6,
+            11,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时19分 ~ 13时24分]"
+        },
+        {
+          "title": "轿车侧翻 司机车内淡定打游戏：暖和",
+          "url": "https://www.baidu.com/s?wd=%E8%BD%BF%E8%BD%A6%E4%BE%A7%E7%BF%BB+%E5%8F%B8%E6%9C%BA%E8%BD%A6%E5%86%85%E6%B7%A1%E5%AE%9A%E6%89%93%E6%B8%B8%E6%88%8F%EF%BC%9A%E6%9A%96%E5%92%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -712,46 +776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么很多游戏厂商在读取时光明正大的写「着色器编译中」，而不是委婉的换个措辞？",
-          "url": "https://www.zhihu.com/question/1989087265755001803",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            10,
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 09时10分]"
-        },
-        {
-          "title": "LOL是音乐游戏",
-          "url": "https://search.bilibili.com/all?keyword=LOL%E6%98%AF%E9%9F%B3%E4%B9%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            8,
-            7,
-            5,
-            6,
-            11,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时19分 ~ 13时24分]"
         }
       ]
     },
@@ -797,11 +821,12 @@
           "ranks": [
             18,
             24,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 15时19分]"
         }
       ]
     }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T12:43:06.531078+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-01-01T13:22:47.348125+08:00",
+  "total_titles_processed": 1002,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时22分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -46,6 +46,19 @@
           "time_info": "05时14分"
         },
         {
+          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
+          "url": "https://flash.jin10.com/detail/20260101113737125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时22分]"
+        },
+        {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
           "url": "https://flash.jin10.com/detail/20260101043557341800",
           "source": "金十数据",
@@ -56,18 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时14分 ~ 06时16分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 12时43分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -250,8 +251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时22分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -413,8 +414,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 12时43分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 13时22分]"
         }
       ]
     },

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:19:00.656757+08:00",
-  "total_titles_processed": 1110,
+  "generated_at": "2026-01-01T16:21:45.612824+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
@@ -251,8 +251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时21分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -415,8 +415,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时16分 ~ 15时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时16分 ~ 16时21分]"
         }
       ]
     },

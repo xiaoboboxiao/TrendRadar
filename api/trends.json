@@ -1,13 +1,11 @@
 {
-  "generated_at": "2026-01-05T20:33:19.880077+08:00",
-  "total_titles_processed": 1661,
-  "failed_sources": [
-    "douyin"
-  ],
+  "generated_at": "2026-01-05T21:37:21.214879+08:00",
+  "total_titles_processed": 1768,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 104,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -56,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时50分 ~ 20时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时50分 ~ 21时37分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -73,6 +71,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[11时50分 ~ 17时27分]"
+        },
+        {
+          "title": "中方回应特朗普谈格陵兰岛涉华言论",
+          "url": "https://www.toutiao.com/trending/7591783882828431398/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            1,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 21时37分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不正确行事 将付出更惨痛代价",
@@ -116,19 +128,6 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
-          "title": "中方回应特朗普谈格陵兰岛涉华言论",
-          "url": "https://www.toutiao.com/trending/7591783882828431398/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 20时33分]"
-        },
-        {
           "title": "“如果她不做正确的事，可能比马杜罗更惨”！特朗普警告委内瑞拉“代总统”：必须听美国的",
           "url": "https://wallstreetcn.com/articles/3762521",
           "source": "华尔街见闻",
@@ -138,8 +137,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时50分 ~ 20时33分]"
+          "appearance_count": 16,
+          "time_info": "[11时50分 ~ 21时37分]"
         },
         {
           "title": "特朗普威胁委代理总统，还称“绝对需要格陵兰岛”",
@@ -166,8 +165,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时50分 ~ 20时33分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 21时37分]"
         },
         {
           "title": "特朗普威胁古巴哥伦比亚",
@@ -194,6 +193,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时17分 ~ 11时50分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时37分]"
         },
         {
           "title": "外交部回应特朗普谈格陵兰岛时涉华言论",
@@ -276,17 +287,6 @@
           "time_info": "[00时17分 ~ 12时52分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 20时33分]"
-        },
-        {
           "title": "美国国务卿卢比奥：石油对委内瑞拉的未来具有至关重要的意义。 （特朗普政府）在委内瑞拉（军事行动的）目标包括不再发生毒品输送，并切断与伊朗的联系。 （对于总统马杜罗）政府官员，我们已经虏获最高目标。 不在委内瑞拉陆地展开数日行动，是无法掳走更多人员的。 委内瑞拉并不存在美国的地面部队。 （对于占领委内瑞拉）总统特朗普保留这样的选项。 委内瑞拉实现民主过渡需要时间，不可能在几个小时内发生。 我将深度介入委内瑞拉的政权过渡。 将判断副总统Rodriguez的行动。 预计委内瑞拉将发生变化。 石油禁运是美国在委内瑞拉一个主要的杠杆。 需要再投资委内瑞拉石油，需要私人公司参与。 委内瑞拉的大多数机会在其国家之外。",
           "url": "https://wallstreetcn.com/livenews/3030342",
           "source": "华尔街见闻-快讯",
@@ -299,6 +299,19 @@
           "time_info": "[00时17分 ~ 07时15分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时26分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普：委内瑞拉是一个“死掉的国家”，美国“正在掌权”",
           "url": "https://news.ifeng.com/c/8pf4IXU084i",
           "source": "凤凰网",
@@ -309,18 +322,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 16时25分]"
-        },
-        {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时26分 ~ 20时33分]"
         },
         {
           "title": "如何看待特朗普每天服用过量阿司匹林",
@@ -368,6 +369,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时17分 ~ 06时15分]"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：不相信所谓的乌克兰袭击俄罗斯总统普京住所的事件真的发生过。",
@@ -438,17 +450,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 20时33分]"
         },
         {
           "title": "美国总统特朗普：马杜罗举起双手投降了。",
@@ -623,6 +624,18 @@
           "time_info": "[17时26分 ~ 18时19分]"
         },
         {
+          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
+          "url": "https://www.cls.cn/detail/2247951",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 21时37分]"
+        },
+        {
           "title": "格陵兰岛总理回应特朗普",
           "url": "https://www.baidu.com/s?wd=%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%80%BB%E7%90%86%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -751,17 +764,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时52分 ~ 14时31分]"
-        },
-        {
-          "title": "特朗普再度警告委政府：若不配合，或进行第二次军事打击！",
-          "url": "https://www.cls.cn/detail/2247951",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 20时33分]"
         },
         {
           "title": "特朗普政府要求美国石油公司投资委内瑞拉",
@@ -897,6 +899,17 @@
           "time_info": "09时16分"
         },
         {
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "特朗普又改口：不相信乌克兰袭击普京官邸",
           "url": "https://news.ifeng.com/c/8pfVwlEUPcV",
           "source": "凤凰网",
@@ -906,6 +919,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：如果我们重返战场，我们将动用国民警卫队。我正在考虑在任何地方启用叛乱法。",
@@ -991,7 +1015,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1218,6 +1242,90 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260105171032331800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
+          "url": "https://flash.jin10.com/detail/20260105170758179800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
+          "url": "https://flash.jin10.com/detail/20260105212007984800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3030750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时19分]"
+        },
+        {
+          "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
+          "url": "https://wallstreetcn.com/livenews/3030899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
+          "url": "https://wallstreetcn.com/articles/3762526",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
+          "url": "https://flash.jin10.com/detail/20260105170146355800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 7,
       "titles": [
@@ -1338,6 +1446,18 @@
           "time_info": "[12时52分 ~ 18时19分]"
         },
         {
+          "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
+          "url": "https://www.zhihu.com/question/1991477233487983330",
+          "source": "知乎",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时14分 ~ 21时37分]"
+        },
+        {
           "title": "从过剩到短缺？储能成为锂业“游戏规则改变者” 大摩预警8万吨缺口",
           "url": "https://www.cls.cn/detail/2247587",
           "source": "财联社热门",
@@ -1348,18 +1468,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时26分 ~ 19时15分]"
-        },
-        {
-          "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
-          "url": "https://www.zhihu.com/question/1991477233487983330",
-          "source": "知乎",
-          "ranks": [
-            16,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时14分 ~ 20时33分]"
         },
         {
           "title": "盘点2026值得期待的电子游戏",
@@ -1375,68 +1483,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260105171032331800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美股石油股盘前走强，雪佛龙(CVX.N)涨约9%，康菲石油(COP.N)涨8.6%，哈利伯顿(HAL.N)涨11.25%，斯伦贝谢(SLB.N)涨10.7%。",
-          "url": "https://flash.jin10.com/detail/20260105170758179800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3030750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 18时19分]"
-        },
-        {
-          "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
-          "url": "https://wallstreetcn.com/articles/3762526",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "分析师：委内瑞拉局势或成美股美元长期利好",
-          "url": "https://flash.jin10.com/detail/20260105170146355800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -1447,7 +1493,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         },
@@ -1458,7 +1504,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时33分"
         }
@@ -1495,6 +1541,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY短线走低约10点，现报98.80。欧元兑美元EUR/USD日内跌幅达0.50%，现报1.1661。",
+          "url": "https://flash.jin10.com/detail/20260105210959234800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     }

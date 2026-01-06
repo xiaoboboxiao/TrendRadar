@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T22:17:40.832276+08:00",
-  "total_titles_processed": 2022,
+  "generated_at": "2026-01-06T23:17:02.861347+08:00",
+  "total_titles_processed": 2121,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时20分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 23时17分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -112,6 +112,24 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            29,
+            15,
+            17,
+            18,
+            16,
+            13,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普向多个国家发出威胁",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
           "source": "bilibili 热搜",
@@ -125,8 +143,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时20分 ~ 22时17分]"
+          "appearance_count": 30,
+          "time_info": "[00时20分 ~ 23时17分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -192,23 +210,6 @@
           "time_info": "[11时24分 ~ 15时22分]"
         },
         {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            29,
-            15,
-            17,
-            18,
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 22时17分]"
-        },
-        {
           "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
           "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
           "source": "凤凰网",
@@ -218,6 +219,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时24分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            6,
+            26,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 23时17分]"
         },
         {
           "title": "特朗普对印度买俄石油发出最后通牒",
@@ -356,20 +371,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时17分]"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，委内瑞拉在未来30天内不会举行新选举。",
           "url": "https://flash.jin10.com/detail/20260106070034158800",
           "source": "金十数据",
@@ -500,6 +501,19 @@
           "time_info": "[09时09分 ~ 11时25分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时17分]"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -579,18 +593,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 09时10分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时17分]"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -699,7 +701,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -743,7 +745,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -886,7 +888,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -908,7 +910,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -949,7 +951,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -960,8 +962,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时15分 ~ 22时17分]"
+          "appearance_count": 19,
+          "time_info": "[07时15分 ~ 23时17分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1002,17 +1004,6 @@
           "time_info": "[00时20分 ~ 13时20分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260106050521518800",
           "source": "金十数据",
@@ -1047,6 +1038,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时15分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
+          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
         },
         {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
@@ -1118,15 +1143,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时17分"
+          "time_info": "23时17分"
         },
         {
           "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
@@ -1138,6 +1163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260106223855995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
@@ -1157,11 +1193,12 @@
             9,
             10,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时24分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[14时24分 ~ 23时17分]"
         },
         {
           "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
@@ -1282,7 +1319,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -1352,6 +1389,18 @@
           "time_info": "15时22分"
         },
         {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时17分]"
+        },
+        {
           "title": "瑞银上调金价目标至5000美元",
           "url": "https://www.toutiao.com/trending/7592024699937230379/",
           "source": "今日头条",
@@ -1394,17 +1443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        },
-        {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
@@ -1521,8 +1559,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时24分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[11时24分 ~ 23时17分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1584,6 +1622,61 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
+          "url": "https://www.zhihu.com/question/1991477233487983330",
+          "source": "知乎",
+          "ranks": [
+            7,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 04时19分]"
+        },
+        {
+          "title": "《三国杀》已经有 447 个武将了，现在还在玩这款游戏的玩家是如何记住这么多武将技能的？",
+          "url": "https://www.zhihu.com/question/14469494951",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时17分]"
+        },
+        {
+          "title": "游戏里有哪些看似外表寒酸但却很实用的神装？",
+          "url": "https://www.zhihu.com/question/1979436641585231125",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时21分 ~ 18时17分]"
+        },
+        {
+          "title": "《空洞骑士：丝之歌》夺得 2025 年 Steam 年度最佳游戏奖，它为何能获得此殊荣？",
+          "url": "https://www.zhihu.com/question/1991065417901425546",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时16分 ~ 23时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -1635,51 +1728,8 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么有些游戏在更新时版本号会从「1.9」跳到「1.10」，而不是「2.0」？",
-          "url": "https://www.zhihu.com/question/1991477233487983330",
-          "source": "知乎",
-          "ranks": [
-            7,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 04时19分]"
-        },
-        {
-          "title": "游戏里有哪些看似外表寒酸但却很实用的神装？",
-          "url": "https://www.zhihu.com/question/1979436641585231125",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时17分]"
-        },
-        {
-          "title": "《三国杀》已经有 447 个武将了，现在还在玩这款游戏的玩家是如何记住这么多武将技能的？",
-          "url": "https://www.zhihu.com/question/14469494951",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "三星今年将为8亿设备配备谷歌AI",
@@ -1702,6 +1752,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T12:35:44.071203+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-01-07T13:20:53.679058+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普不到1年对7国动武",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时20分 ~ 09时10分]"
+        },
+        {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -33,28 +55,6 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
-          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
-          "url": "https://www.cls.cn/detail/2249909",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
-          "url": "https://news.ifeng.com/c/8piFwnPic7a",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
-        },
-        {
           "title": "特朗普支持格陵兰岛独立",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%AF%E6%8C%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E7%8B%AC%E7%AB%8B%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -66,6 +66,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时17分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
+          "url": "https://www.cls.cn/detail/2249902",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -100,6 +113,18 @@
           "time_info": "[00时20分 ~ 07时15分]"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
+        },
+        {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
           "source": "bilibili 热搜",
@@ -109,31 +134,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "特朗普政府正在讨论获取格陵兰岛的方案 北欧五国外长发表联合声明 | 环球市场",
-          "url": "https://www.cls.cn/detail/2249902",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
         },
         {
           "title": "布油期货开盘跌1%至每桶60.09美元，此前特朗普表示委内瑞拉将把受制裁的石油交给美国。",
@@ -158,6 +158,17 @@
           "time_info": "00时20分"
         },
         {
+          "title": "特朗普不满马杜罗：他学我跳舞",
+          "url": "https://v.ifeng.com/c/8piYm7L0u6z",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
           "title": "美国总统特朗普重申对国防承包商的批评。",
           "url": "https://flash.jin10.com/detail/20260107000144682800",
           "source": "金十数据",
@@ -178,6 +189,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
+        },
+        {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -204,6 +227,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时12分 ~ 05时16分]"
+        },
+        {
+          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
+          "url": "https://www.cls.cn/detail/2249952",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时20分]"
+        },
+        {
+          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
+          "url": "https://www.zhihu.com/question/1992144765781840551",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时20分]"
         },
         {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
@@ -254,17 +301,6 @@
           "time_info": "[04时17分 ~ 05时16分]"
         },
         {
-          "title": "特朗普向印度发出新警告",
-          "url": "https://news.ifeng.com/c/8piCojZXRGw",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
-        },
-        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -275,29 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
-        },
-        {
-          "title": "特朗普声称美国已“掌控”委内瑞拉？委代总统：未受外部势力统治",
-          "url": "https://www.cls.cn/detail/2249952",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
-          "url": "https://www.zhihu.com/question/1992144765781840551",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时35分]"
         },
         {
           "title": "美国高院更新日程表 最早于9日宣布特朗普关税案裁决",
@@ -889,8 +902,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 12时35分]"
+          "appearance_count": 6,
+          "time_info": "[07时15分 ~ 13时20分]"
         },
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -901,8 +914,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 12时35分]"
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时20分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
@@ -1068,7 +1081,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "怕清算?伊朗领袖携950亿开溜",
@@ -1079,8 +1092,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 12时35分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 13时20分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
@@ -1105,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 05时16分]"
+        },
+        {
+          "title": "据伊朗SNN通讯社：伊朗处决一名被指控为以色列从事间谍活动的男子。",
+          "url": "https://flash.jin10.com/detail/20260107122916154800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时20分"
         },
         {
           "title": "伊朗非政府人权组织称，镇压伊朗抗议活动至少造成27人死亡。",
@@ -1189,7 +1213,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时35分"
         },

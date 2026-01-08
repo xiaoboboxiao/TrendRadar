@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:16:23.334937+08:00",
-  "total_titles_processed": 1765,
+  "generated_at": "2026-01-08T20:32:30.004632+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时34分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时34分 ~ 20时32分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -78,11 +78,12 @@
             13,
             14,
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时25分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时25分 ~ 20时32分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -194,6 +195,18 @@
           "time_info": "16时22分"
         },
         {
+          "title": "特朗普一口气退出了哪66个国际组织？",
+          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时22分 ~ 20时32分]"
+        },
+        {
           "title": "美中期选举结果会如何影响特朗普",
           "url": "https://www.toutiao.com/trending/7592759487010750506/",
           "source": "今日头条",
@@ -204,17 +217,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时20分 ~ 17时23分]"
-        },
-        {
-          "title": "特朗普一口气退出了哪66个国际组织？",
-          "url": "https://news.ifeng.com/c/8pkMcl4Io9K",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 19时16分]"
         },
         {
           "title": "特朗普发表涉住房言论 住宅租赁股遭重创 地产股上涨",
@@ -665,6 +667,17 @@
           "time_info": "14时25分"
         },
         {
+          "title": "特朗普“炮轰”美国军火商",
+          "url": "https://news.ifeng.com/c/8pkhjJcbtz4",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "美国总统特朗普：采购的设备将改善委内瑞拉的电网和能源设施。",
           "url": "https://flash.jin10.com/detail/20260108060632294800",
           "source": "金十数据",
@@ -924,7 +937,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1075,7 +1088,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1176,6 +1189,17 @@
           "time_info": "[09时09分 ~ 09时10分]"
         },
         {
+          "title": "伊朗外长：伊朗已做好准备应对任何情况",
+          "url": "https://news.ifeng.com/c/8pkiRXgYNTC",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗外交部就美干涉主义立场发表声明",
           "url": "https://wallstreetcn.com/livenews/3032735",
           "source": "华尔街见闻-快讯",
@@ -1193,9 +1217,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
+          "url": "https://www.zhihu.com/question/1992559906939696772",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
         },
         {
           "title": "以色列总理内塔尼亚胡：真主党在伊朗支持下努力重整旗鼓并重建其恐怖主义基础设施，这已得到证实。",
@@ -1204,7 +1239,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -1390,7 +1425,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         }
@@ -1662,8 +1697,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 19时16分]"
+          "appearance_count": 14,
+          "time_info": "[09时09分 ~ 20时32分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",

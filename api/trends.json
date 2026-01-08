@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T21:37:05.450075+08:00",
-  "total_titles_processed": 1979,
+  "generated_at": "2026-01-08T22:20:31.464717+08:00",
+  "total_titles_processed": 2066,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时34分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[12时34分 ~ 22时20分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -59,6 +59,23 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            12,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时25分 ~ 22时20分]"
+        },
+        {
           "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
           "url": "https://www.zhihu.com/question/1991444028256907311",
           "source": "知乎",
@@ -69,22 +86,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时34分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时25分 ~ 21时37分]"
         },
         {
           "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
@@ -120,8 +121,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时22分 ~ 21时37分]"
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 22时20分]"
+        },
+        {
+          "title": "特朗普退出联合国机构一览表",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 22时20分]"
         },
         {
           "title": "特朗普提出将美军费提至1.5万亿美元",
@@ -151,26 +166,13 @@
           "time_info": "[11时25分 ~ 16时22分]"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时22分]"
-        },
-        {
           "title": "美国最高法院即将裁决特朗普关税案 或引发进口商“讨钱大战”",
           "url": "https://flash.jin10.com/detail/20260108211933533800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -298,8 +300,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时20分]"
         },
         {
           "title": "黑石集团跌9.3%，美国总统特朗普声称要禁止机构投资者购买独栋住宅。 American Home 4 Rent股票恢复交易，跌幅收窄至6%。",
@@ -1100,7 +1102,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "英媒称伊朗抗议席卷全国一半省份，至少36人死亡",
@@ -1149,7 +1151,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1189,22 +1191,22 @@
           "time_info": "[02时23分 ~ 03时17分]"
         },
         {
-          "title": "伊朗外长：伊朗已做好准备应对任何情况",
-          "url": "https://news.ifeng.com/c/8pkiRXgYNTC",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时37分]"
-        },
-        {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
           "url": "https://www.zhihu.com/question/1992559906939696772",
           "source": "知乎",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时20分]"
+        },
+        {
+          "title": "伊朗外长：伊朗已做好准备应对任何情况",
+          "url": "https://news.ifeng.com/c/8pkiRXgYNTC",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1251,7 +1253,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1265,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
+        },
+        {
+          "title": "美国能源部长：预计雪佛龙在委内瑞拉的业务将快速增长。 预计康菲石油、埃克森美孚等公司将寻求发挥建设性作用。 目前没有在伊朗采取任何行动的计划。",
+          "url": "https://wallstreetcn.com/livenews/3033368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "以色列总理内塔尼亚胡：真主党在伊朗支持下努力重整旗鼓并重建其恐怖主义基础设施，这已得到证实。",
@@ -1287,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "伊朗外长称做好准备应对战争",
+          "url": "https://www.toutiao.com/trending/7592934897070227519/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "伊朗外交部长：德黑兰仍准备在相互尊重和共同利益的基础上与华盛顿展开谈判。",
@@ -1325,7 +1349,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
@@ -1353,15 +1377,38 @@
           "time_info": "17时23分"
         },
         {
+          "title": "派拉蒙天舞重申对华纳兄弟探索（WBD）美股30美元的现金收购要约。",
+          "url": "https://wallstreetcn.com/livenews/3033382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3033381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2252232",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时20分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -1385,6 +1432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108214805611800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -1536,7 +1594,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1547,7 +1605,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1753,7 +1811,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
@@ -1764,8 +1822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时09分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[09时09分 ~ 22时20分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -1802,6 +1860,17 @@
           "time_info": "[05时14分 ~ 06时15分]"
         },
         {
+          "title": "特朗普要加军费，全球军工股大涨，纳指期货盘前跌0.5%，美债强势，金银继续回调，白银失守75美元",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "10年期美债收益率跌约4个基点",
           "url": "https://wallstreetcn.com/livenews/3032682",
           "source": "华尔街见闻-快讯",
@@ -1822,6 +1891,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数7日上涨",
+          "url": "https://flash.jin10.com/detail/20260108055003294800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时15分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
+          "url": "https://wallstreetcn.com/livenews/3032613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时23分]"
+        },
+        {
+          "title": "美元指数涨0.1%",
+          "url": "https://wallstreetcn.com/livenews/3032675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "在美国贸易帐等数据公布后，现货黄金短线下跌8美元，报4427美元/盎司；美元指数DXY小幅走高8点，报98.81。",
+          "url": "https://flash.jin10.com/detail/20260108213531999800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         }
       ]
     },
@@ -1867,50 +1988,20 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数7日上涨",
-          "url": "https://flash.jin10.com/detail/20260108055003294800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时15分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.98%，刷新期内低点至4056.70点。 MarketVectorTM数字资产100中盘指数跌2.54%，报3826.43点。 MarketVector数字资产100指数跌1.86%，报19003.78点。 目前，比特币跌1.45%，报91163.91美元；以太坊跌2.66%，报3156.10美元。 Solana跌2.34%，狗狗币涨0.21%，XRP跌2.60%。",
-          "url": "https://wallstreetcn.com/livenews/3032613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时23分]"
-        },
-        {
-          "title": "美元指数涨0.1%",
-          "url": "https://wallstreetcn.com/livenews/3032675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "20页→86页！DeepSeek“爆更”论文",
+          "url": "https://wallstreetcn.com/livenews/3033376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
         {
           "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
           "url": "https://wallstreetcn.com/livenews/3033026",

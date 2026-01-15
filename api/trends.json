@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-15T22:19:57.731235+08:00",
-  "total_titles_processed": 2153,
+  "generated_at": "2026-01-15T23:19:32.476648+08:00",
+  "total_titles_processed": 2251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 89,
+      "match_count": 92,
       "titles": [
+        {
+          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
+          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 23时19分]"
+        },
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
           "url": "https://news.ifeng.com/c/8pvmkwWCoVQ",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时35分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普：我会去委内瑞拉，委代总统将访美",
-          "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 22时19分]"
         },
         {
           "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
@@ -65,8 +65,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 23时19分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -91,8 +91,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时19分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -114,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时19分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 23时19分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -152,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "特朗普预计将于三月初敲定2026年生物燃料掺混配额",
+          "url": "https://flash.jin10.com/detail/20260115225958433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
@@ -204,7 +215,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -442,6 +453,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        },
+        {
+          "title": "贝莱德CEO芬克：下周我将在达沃斯与特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260115225240448800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
@@ -928,6 +950,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "特朗普直播打瞌睡被小女孩发现",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%B4%E6%92%AD%E6%89%93%E7%9E%8C%E7%9D%A1%E8%A2%AB%E5%B0%8F%E5%A5%B3%E5%AD%A9%E5%8F%91%E7%8E%B0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
           "url": "https://flash.jin10.com/detail/20260115043632565800",
           "source": "金十数据",
@@ -1019,7 +1052,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 80,
+      "match_count": 82,
       "titles": [
         {
           "title": "美军机沿伊朗边界飞行",
@@ -1066,8 +1099,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 23时19分]"
         },
         {
           "title": "伊朗：骚乱事件主要幕后人员落网",
@@ -1156,6 +1189,17 @@
           "time_info": "[00时22分 ~ 07时14分]"
         },
         {
+          "title": "王毅同伊朗外长通话，连说3个“反对”",
+          "url": "https://news.ifeng.com/c/8pwK9ZHpt9w",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时19分]"
+        },
+        {
           "title": "凤凰直击丨伊朗举行大规模公开葬礼，民众高喊打倒美以口号",
           "url": "https://news.ifeng.com/c/8pv5H7n3Wrv",
           "source": "凤凰网",
@@ -1178,17 +1222,6 @@
           "time_info": "[05时15分 ~ 07时14分]"
         },
         {
-          "title": "王毅同伊朗外长通话，连说3个“反对”",
-          "url": "https://news.ifeng.com/c/8pwK9ZHpt9w",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
-        },
-        {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
           "source": "澎湃新闻",
@@ -1197,11 +1230,27 @@
             14,
             12,
             11,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时22分 ~ 23时19分]"
+        },
+        {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15,
+            12,
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[17时22分 ~ 22时19分]"
+          "time_info": "[18时17分 ~ 23时19分]"
         },
         {
           "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
@@ -1213,6 +1262,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 11时26分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "伊朗宣布暂时关闭领空",
@@ -1237,21 +1298,6 @@
           "time_info": "09时08分"
         },
         {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15,
-            12,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时19分]"
-        },
-        {
           "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
           "url": "https://flash.jin10.com/detail/20260115040940398800",
           "source": "金十数据",
@@ -1263,16 +1309,15 @@
           "time_info": "04时15分"
         },
         {
-          "title": "王毅同伊朗外长通电话",
-          "url": "https://www.douyin.com/hot/2368882",
-          "source": "抖音",
+          "title": "美国财政部发布与伊朗相关的制裁措施。 对多家伊朗公司和若干个人实施制裁。",
+          "url": "https://wallstreetcn.com/livenews/3038104",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
@@ -1355,6 +1400,20 @@
           "time_info": "[09时08分 ~ 14时24分]"
         },
         {
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时15分 ~ 23时19分]"
+        },
+        {
           "title": "王毅同伊朗外长通电话",
           "url": "https://www.toutiao.com/trending/7595543467804069412/",
           "source": "今日头条",
@@ -1378,6 +1437,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "印度驻伊朗大使馆：建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗",
@@ -1404,31 +1476,6 @@
           "time_info": "[04时15分 ~ 05时16分]"
         },
         {
-          "title": "美航母打击群调往中东 伊朗最高战备",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E6%AF%85%E5%90%8C%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
-        },
-        {
           "title": "伊朗外长：政府已完全掌控局面",
           "url": "https://www.toutiao.com/trending/7595402470608621094/",
           "source": "今日头条",
@@ -1451,6 +1498,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时31分 ~ 22时19分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时19分]"
         },
         {
           "title": "美军机沿伊朗边界飞行",
@@ -1548,18 +1608,6 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时19分]"
-        },
-        {
           "title": "伊朗密集展开外交沟通",
           "url": "https://wallstreetcn.com/livenews/3037255",
           "source": "华尔街见闻-快讯",
@@ -1645,7 +1693,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1659,6 +1707,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "加拿大外交部长：一名加拿大公民在伊朗遇害。",
+          "url": "https://flash.jin10.com/detail/20260115224719134800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "市场消息：西班牙要求公民离开伊朗。",
@@ -1961,7 +2020,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1971,8 +2030,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 23时19分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -2046,6 +2105,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "网络股指数ETF收跌约1.7%，领跌美股行业ETF，标普能源板块涨超2.2%",
           "url": "https://wallstreetcn.com/livenews/3037301",
           "source": "华尔街见闻-快讯",
@@ -2112,7 +2182,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -2126,6 +2196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时15分"
+        },
+        {
+          "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "美股盘前，明星科技股走强，阿斯麦(ASML.O)涨超5%、台积电(TSM.N)涨超3%、美光科技(MU.O)涨超2%。",
@@ -2156,9 +2237,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
+        },
+        {
+          "title": "美股集体高开 半导体板块领涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E9%A2%86%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -2183,6 +2275,17 @@
           "time_info": "19时15分"
         },
         {
+          "title": "中概指数美股盘初跌超1%，世纪互联跌7%，万国数据跌约3%，小马智行涨约3%，富时A50回吐涨幅",
+          "url": "https://wallstreetcn.com/livenews/3038083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260115013047739800",
           "source": "金十数据",
@@ -2192,6 +2295,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260115223844779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，半导体ETF涨3.26%，科技行业ETF、全球科技股指数ETF至少涨1.57%，网络股指数ETF涨0.67%，能源业ETF跌1.29%。",
+          "url": "https://wallstreetcn.com/livenews/3038075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
+          "title": "美股开盘，道指涨100点、标普500指数涨0.64%、纳指涨0.88%。明星科技股普涨，阿斯麦(ASML.O)涨6.8%，总市值突破5200亿美元；台积电(TSM.N)涨4%和美光科技(MU.O)涨3%。纳斯达克中国金龙指数涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20260115223034290800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "摩根士丹利：第四季度净营收178.9亿美元，市场预估176.2亿美元。 第四季度每股收益2.68美元。 第四季度财富管理净营收84.3亿美元，同比增长13%，市场预估83.4亿美元。 第四季度股票销售和交易业务营收36.7亿美元，同比增长10%，市场预估35.5亿美元。 第四季度FICC业务销售和交易营收17.6亿美元，市场预估19.2亿美元。 摩根士丹利美股盘前涨近1.4%。",
@@ -2231,8 +2367,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "金价上涨 银行保管箱“一箱难求”",
@@ -2252,11 +2388,12 @@
           "source": "微博",
           "ranks": [
             6,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时19分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金早盘价为1033.61元/克，较国际金价（1031.08元/克）高2.53元/克",
@@ -2316,8 +2453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时19分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 23时19分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -2413,11 +2550,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 23时19分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -2545,7 +2683,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         }
@@ -2568,11 +2706,12 @@
             9,
             19,
             23,
-            24
+            24,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时35分 ~ 23时19分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",

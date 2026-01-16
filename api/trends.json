@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T16:22:07.617307+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-01-16T17:21:19.220465+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时15分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时25分 ~ 17时21分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -53,28 +66,17 @@
           "time_info": "[09时10分 ~ 16时22分]"
         },
         {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时25分 ~ 16时22分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时24分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[14时24分 ~ 17时21分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -82,11 +84,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 17时21分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -98,6 +101,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 05时16分]"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 17时21分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -153,18 +169,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 16时22分]"
         },
         {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
@@ -287,6 +291,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时25分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 17时21分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -431,17 +446,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
-          "url": "https://www.zhihu.com/question/1995430633518944539",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
@@ -730,6 +734,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
           "title": "美国总统特朗普称赞低油气价格。",
           "url": "https://flash.jin10.com/detail/20260116052721995800",
           "source": "金十数据",
@@ -794,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "房贷利率跌至三年新低 特朗普2000亿购债计划初见成效",
@@ -887,7 +913,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -909,11 +935,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时27分 ~ 16时22分]"
+          "appearance_count": 18,
+          "time_info": "[01时27分 ~ 17时21分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -925,11 +952,12 @@
             7,
             17,
             13,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时27分 ~ 16时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时27分 ~ 17时21分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -943,8 +971,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时27分 ~ 16时22分]"
+          "appearance_count": 20,
+          "time_info": "[00时27分 ~ 17时21分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1085,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时25分 ~ 15时20分]"
+        },
+        {
+          "title": "中方代表就伊朗局势发声：呼吁美方放下武力执念",
+          "url": "https://news.ifeng.com/c/8pxoIN8xmXt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美国财政部宣布对伊朗实施新制裁",
@@ -1328,7 +1367,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1351,8 +1390,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时10分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[09时10分 ~ 17时21分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -1367,18 +1406,6 @@
           "time_info": "[00时27分 ~ 06时16分]"
         },
         {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时15分 ~ 13时20分]"
-        },
-        {
           "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
           "url": "https://www.cls.cn/detail/2259861",
           "source": "财联社热门",
@@ -1389,8 +1416,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 17时21分]"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 13时20分]"
         },
         {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
@@ -1463,6 +1502,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时15分]"
+        },
+        {
+          "title": "美股盘前，明星科技股走强，美光科技(MU.O)涨超3%、AMD(AMD.O)涨超2%、台积电(TSM.N)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260116170410342800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 大型金融股走强",
@@ -1570,11 +1631,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时35分 ~ 16时22分]"
+          "appearance_count": 8,
+          "time_info": "[12时35分 ~ 17时21分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1621,6 +1683,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "盘点2025停服的游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            26,
+            25,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时16分]"
+        },
+        {
+          "title": "财政部发布关于中国福利彩票发行管理中心变更中国福利彩票双色球游戏规则的审批意见",
+          "url": "https://wallstreetcn.com/livenews/3038623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时21分]"
+        },
+        {
+          "title": "米哈游被曝正招聘写实射击项目，或将开发撤离类游戏，这对其游戏布局意味着什么？",
+          "url": "https://www.zhihu.com/question/1994492483091059546",
+          "source": "知乎",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时20分]"
+        },
+        {
+          "title": "《逆战未来》会不会挑战《三角洲行动》等游戏地位？",
+          "url": "https://www.zhihu.com/question/1994266666851377812",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "财政部：同意国家体育总局体育彩票管理中心变更中国体育彩票超级大乐透游戏规则",
+          "url": "https://wallstreetcn.com/livenews/3038635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -1681,61 +1810,6 @@
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "盘点2025停服的游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%81%9C%E6%9C%8D%E7%9A%84%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            26,
-            25,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时16分]"
-        },
-        {
-          "title": "财政部发布关于中国福利彩票发行管理中心变更中国福利彩票双色球游戏规则的审批意见",
-          "url": "https://wallstreetcn.com/livenews/3038623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "米哈游被曝正招聘写实射击项目，或将开发撤离类游戏，这对其游戏布局意味着什么？",
-          "url": "https://www.zhihu.com/question/1994492483091059546",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
-        },
-        {
-          "title": "《逆战未来》会不会挑战《三角洲行动》等游戏地位？",
-          "url": "https://www.zhihu.com/question/1994266666851377812",
-          "source": "知乎",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,

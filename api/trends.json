@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T17:15:11.143706+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-01-17T18:15:24.512798+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 71,
       "titles": [
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -26,11 +26,25 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时15分]"
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 18时15分]"
+        },
+        {
+          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 18时15分]"
         },
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -58,6 +72,20 @@
           "time_info": "[00时21分 ~ 14时22分]"
         },
         {
+          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
+          "url": "https://wallstreetcn.com/articles/3763493",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 18时15分]"
+        },
+        {
           "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
           "url": "https://wallstreetcn.com/articles/3763411",
           "source": "华尔街见闻",
@@ -70,33 +98,6 @@
           "time_info": "[00时21分 ~ 07时15分]"
         },
         {
-          "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32403340",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时15分]"
-        },
-        {
-          "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
-          "url": "https://wallstreetcn.com/articles/3763493",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 17时15分]"
-        },
-        {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
@@ -107,6 +108,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时21分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
+          "url": "https://www.cls.cn/detail/2260948",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时07分 ~ 18时15分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -148,20 +163,6 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
-          "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
-          "url": "https://www.cls.cn/detail/2260948",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时07分 ~ 17时15分]"
-        },
-        {
           "title": "挪威诺贝尔研究所：诺贝尔和平奖始终与挪威诺贝尔委员会指定的获奖者或组织密不可分。（此前委内瑞拉反对派领导人马查多向特朗普递交了诺贝尔和平奖奖章）",
           "url": "https://flash.jin10.com/detail/20260117010550534800",
           "source": "金十数据",
@@ -184,6 +185,39 @@
           "time_info": "04时16分"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：伊朗认为美国总统特朗普应对抗议期间对伊朗人造成的伤亡、损失和诽谤负责。",
+          "url": "https://flash.jin10.com/detail/20260117174453624800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
+          "url": "https://flash.jin10.com/detail/20260117174020851800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "美国财长贝森特：美联储主席候选人减少一位，至四人。 贝莱德分析师Rick Rieder昨天会见总统特朗普。 对于美联储理事鲍曼，最合适的安排就是继续担任现在的职务。",
           "url": "https://wallstreetcn.com/livenews/3039015",
           "source": "华尔街见闻-快讯",
@@ -204,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "埃及总统塞西：重视特朗普关于调解埃及与埃塞俄比亚在复兴大坝问题上争端的提议。",
+          "url": "https://flash.jin10.com/detail/20260117173914674800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "以关税换领土？ 特朗普拟动用关税武器敲开北极门户",
@@ -268,6 +313,19 @@
           "time_info": "[09时07分 ~ 13时16分]"
         },
         {
+          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时15分]"
+        },
+        {
           "title": "媒体调查：民众对美国总统特朗普的经济管理不满",
           "url": "https://flash.jin10.com/detail/20260117080445022800",
           "source": "金十数据",
@@ -292,6 +350,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时15分 ~ 09时07分]"
+        },
+        {
+          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
+          "url": "https://wallstreetcn.com/articles/3763499",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
@@ -345,18 +415,6 @@
           "time_info": "[02时23分 ~ 04时16分]"
         },
         {
-          "title": "特朗普自曝：我说服了自己，暂缓打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32406442",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时15分]"
-        },
-        {
           "title": "美国总统特朗普在致埃及总统塞西的信中表示，美国已准备好重启在埃及与埃塞俄比亚之间的调解工作，以期“一劳永逸”地解决尼罗河水分配问题。",
           "url": "https://flash.jin10.com/detail/20260117042328558800",
           "source": "金十数据",
@@ -390,17 +448,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普首次提及：可能对不支持美获得格陵兰岛计划的国家加征关税",
-          "url": "https://wallstreetcn.com/articles/3763499",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "美国总统特朗普：如果无法在最高法院赢得关税官司，将是“国家的”耻辱。",
@@ -833,11 +880,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 17时15分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 18时15分]"
         },
         {
           "title": "上海合作组织发表关于伊朗局势的声明",
@@ -879,22 +927,12 @@
             2,
             5,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时15分]"
-        },
-        {
-          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
-          "url": "https://flash.jin10.com/detail/20260117164104796800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "伊朗全境已恢复互联网服务",
@@ -906,8 +944,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 17时15分]"
+          "appearance_count": 6,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "伊朗手机用户发送短信功能恢复",
@@ -943,11 +981,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "欧洲航空安全局：伊朗存在以及可能使用多种武器和防空系统，对在各高度运行的民用航班构成高风险。",
@@ -997,6 +1036,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 04时16分]"
+        },
+        {
+          "title": "巴基斯坦外长和伊朗外长通电话 呼吁保持地区和平稳定",
+          "url": "https://flash.jin10.com/detail/20260117164104796800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时15分]"
         },
         {
           "title": "惠誉：全球石油供应过剩可抵消伊朗和委内瑞拉的产量不确定性。",
@@ -1156,11 +1207,12 @@
             12,
             3,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时15分 ~ 17时15分]"
+          "appearance_count": 11,
+          "time_info": "[07时15分 ~ 18时15分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -1323,8 +1375,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时15分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -1643,6 +1695,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }

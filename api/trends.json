@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T17:15:39.057196+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2026-01-24T18:16:14.202297+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称将于4月访问中国，外交部回应",
@@ -74,6 +74,19 @@
           "time_info": "[11时22分 ~ 17时15分]"
         },
         {
+          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
+          "url": "https://wallstreetcn.com/articles/3764066",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 18时16分]"
+        },
+        {
           "title": "没想到特朗普这样侮辱人，英国气炸了",
           "url": "https://news.ifeng.com/c/8qAYkEI9nB9",
           "source": "凤凰网",
@@ -101,17 +114,27 @@
           "time_info": "[00时22分 ~ 09时08分]"
         },
         {
-          "title": "格陵兰岛开启，随后是日债崩盘、特朗普TACO，日元干预收尾--“头条主宰市场”的一周结束了",
-          "url": "https://wallstreetcn.com/articles/3764066",
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            5,
-            3
+            6,
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[12时31分 ~ 17时15分]"
+          "time_info": "[14时22分 ~ 18时16分]"
+        },
+        {
+          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
+          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时22分 ~ 18时16分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -167,27 +190,29 @@
           "time_info": "[12时31分 ~ 15时16分]"
         },
         {
-          "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
-          "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时22分 ~ 17时15分]"
-        },
-        {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时08分 ~ 18时16分]"
+        },
+        {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[14时22分 ~ 17时15分]"
+          "time_info": "[15时15分 ~ 18时16分]"
         },
         {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
@@ -218,18 +243,6 @@
           "time_info": "[09时08分 ~ 15时16分]"
         },
         {
-          "title": "为何特朗普想要格陵兰岛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时15分]"
-        },
-        {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
           "url": "https://flash.jin10.com/detail/20260124023137303800",
           "source": "金十数据",
@@ -243,16 +256,18 @@
           "time_info": "[03时21分 ~ 09时08分]"
         },
         {
-          "title": "报道：特朗普要求格陵兰全面放开军事限制",
-          "url": "https://wallstreetcn.com/articles/3764043",
-          "source": "华尔街见闻",
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            10
+            20,
+            17,
+            14,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时08分 ~ 17时15分]"
+          "time_info": "[15时15分 ~ 18时16分]"
         },
         {
           "title": "深度解析特朗普365天赢学",
@@ -266,15 +281,15 @@
           "time_info": "16时19分"
         },
         {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时16分"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -390,6 +405,18 @@
           "time_info": "[06时14分 ~ 07时16分]"
         },
         {
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时16分]"
+        },
+        {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
           "url": "https://flash.jin10.com/detail/20260124090807365800",
           "source": "金十数据",
@@ -402,19 +429,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时22分 ~ 14时23分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时15分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图",
@@ -454,6 +468,17 @@
           "time_info": "[11时22分 ~ 13时17分]"
         },
         {
+          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
+          "url": "https://www.cls.cn/detail/2268566",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时16分]"
+        },
+        {
           "title": "英国首相呼吁特朗普就北约言论道歉",
           "url": "https://www.toutiao.com/trending/7598350271315836934/",
           "source": "今日头条",
@@ -465,6 +490,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时17分]"
+        },
+        {
+          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
+          "url": "https://flash.jin10.com/detail/20260124164256739800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时15分 ~ 18时16分]"
         },
         {
           "title": "英国首相：特朗普应就北约盟友“脱离前线”言论道歉",
@@ -573,15 +610,15 @@
           "time_info": "[14时22分 ~ 14时23分]"
         },
         {
-          "title": "欧洲央行管委内格尔：特朗普关税政策的最大受害者是美国消费者。",
-          "url": "https://flash.jin10.com/detail/20260124164256739800",
-          "source": "金十数据",
+          "title": "意总理私下劝欧盟别和特朗普对抗",
+          "url": "https://www.toutiao.com/trending/7598077409648820287/",
+          "source": "今日头条",
           "ranks": [
-            7
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "英首相说特朗普言论极具侮辱性",
@@ -604,17 +641,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
-        },
-        {
-          "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
-          "url": "https://www.cls.cn/detail/2268566",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时19分"
         },
         {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
@@ -866,11 +892,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时16分]"
+        },
+        {
+          "title": "土耳其外长说以色列正伺机攻击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3043253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
             18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时15分]"
+          "time_info": "[17时15分 ~ 18时16分]"
         },
         {
           "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
@@ -883,17 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时22分]"
-        },
-        {
-          "title": "土耳其外长说以色列正伺机攻击伊朗",
-          "url": "https://wallstreetcn.com/livenews/3043253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时15分"
         },
         {
           "title": "美国对伊朗又一轮新制裁",
@@ -942,8 +970,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 17时15分]"
+          "appearance_count": 12,
+          "time_info": "[09时08分 ~ 18时16分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -955,8 +983,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时15分 ~ 17时15分]"
+          "appearance_count": 14,
+          "time_info": "[07时15分 ~ 18时16分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",

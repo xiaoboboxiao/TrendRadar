@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T18:22:39.003229+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2026-01-28T19:19:29.787048+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普：将很快宣布新的美联储主席人选",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 19时19分]"
         },
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -55,6 +55,19 @@
           "time_info": "[09时11分 ~ 13时23分]"
         },
         {
+          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
+          "url": "https://wallstreetcn.com/articles/3764257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时23分 ~ 19时19分]"
+        },
+        {
           "title": "为抛售美元打开“绿灯”？特朗普声称：不担心美元贬值！",
           "url": "https://www.cls.cn/detail/2271977",
           "source": "财联社热门",
@@ -69,17 +82,15 @@
           "time_info": "[11时40分 ~ 17时29分]"
         },
         {
-          "title": "特朗普：若遭暗杀，将把伊朗“从地球上抹去”！美航母已抵达中东，建国250年只有16年没打仗，美国的“武力执念”为何这么强？",
-          "url": "https://wallstreetcn.com/articles/3764257",
-          "source": "华尔街见闻",
+          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
+          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时23分 ~ 18时22分]"
+          "appearance_count": 2,
+          "time_info": "[18时22分 ~ 19时19分]"
         },
         {
           "title": "特朗普，两天内动手？",
@@ -92,17 +103,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 14时28分]"
-        },
-        {
-          "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
-          "url": "https://news.ifeng.com/c/8qHmjbQngoK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时22分"
         },
         {
           "title": "美国总统特朗普：我很快就会宣布美联储主席人选。",
@@ -571,9 +571,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-28）",
+          "url": "https://flash.jin10.com/detail/20260128183238468800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普称国土安全部部长诺姆不会辞职",
@@ -777,7 +788,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "以色列女子看电视发现自己死在伊朗",
@@ -805,8 +816,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 19时19分]"
         },
         {
           "title": "美航母打击群逼近，伊朗：不回避谈判，但对侵略将果断回应",
@@ -988,6 +999,28 @@
           "time_info": "[03时22分 ~ 04时17分]"
         },
         {
+          "title": "伊朗军方：提升国内能力令对伊行动代价高昂",
+          "url": "https://wallstreetcn.com/livenews/3045541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "土耳其破获与伊朗有关联的间谍网络 6人被捕",
+          "url": "https://flash.jin10.com/detail/20260128184612027800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美国被曝向以色列通报对伊朗行动准备进展",
           "url": "https://wallstreetcn.com/livenews/3044969",
           "source": "华尔街见闻-快讯",
@@ -1063,6 +1096,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "伊朗外长：没有对美国提出谈判请求",
+          "url": "https://wallstreetcn.com/livenews/3045524",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "伊朗与卡塔尔两国外长通话 强调推进外交努力维护地区稳定",
@@ -1167,7 +1211,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -1330,6 +1374,17 @@
           "time_info": "14时28分"
         },
         {
+          "title": "特朗普乐见贬值，美元跌至四年低位，美股盘前芯片股集体上涨，现货黄金站上5300，银、铜、铝集体上涨",
+          "url": "https://wallstreetcn.com/articles/3764338",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "美股七巨头收盘播报｜亚马逊涨超2.6%，该公司拟将生鲜超市及无人便利店改造为全食超市门店",
           "url": "https://wallstreetcn.com/livenews/3044996",
           "source": "华尔街见闻-快讯",
@@ -1365,6 +1420,171 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
+          "url": "https://www.cls.cn/detail/2271933",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时11分 ~ 15时21分]"
+        },
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时22分 ~ 19时19分]"
+        },
+        {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[02时29分 ~ 18时22分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时27分 ~ 19时19分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            7,
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 16时23分]"
+        },
+        {
+          "title": "黄金价格暴涨暴跌 是走还是留",
+          "url": "https://www.toutiao.com/trending/7600200790535310911/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            24,
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时40分 ~ 17时29分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时19分]"
+        },
+        {
+          "title": "四川黄金：若未来黄金价格大幅波动，将给经营业绩带来较大影响",
+          "url": "https://wallstreetcn.com/livenews/3045543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
+          "url": "https://wallstreetcn.com/livenews/3045007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "专家谈国际金价加速上涨的背后逻辑",
+          "url": "https://www.toutiao.com/trending/7600335568035122738/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
+          "url": "https://wallstreetcn.com/livenews/3045204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
+          "url": "https://wallstreetcn.com/livenews/3045069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
+          "url": "https://flash.jin10.com/detail/20260128110216256800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 12,
       "titles": [
@@ -1377,8 +1597,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时11分 ~ 18时22分]"
+          "appearance_count": 11,
+          "time_info": "[09时11分 ~ 19时19分]"
         },
         {
           "title": "英国竞争和市场管理局（CMA）就谷歌相关措施征求意见，截止日期为2月25日。",
@@ -1387,7 +1607,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1457,7 +1677,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1468,7 +1688,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1479,7 +1699,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -1501,7 +1721,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         }
@@ -1650,148 +1870,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "【早报】特朗普最新表态！美元跌至近四年新低、金价再攀新高；多家半导体公司芯片涨价",
-          "url": "https://www.cls.cn/detail/2271933",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时11分 ~ 15时21分]"
-        },
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 18时22分]"
-        },
-        {
-          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
-          "url": "https://wallstreetcn.com/articles/3764255",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时29分 ~ 18时22分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时27分 ~ 18时22分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%A5%B3%E5%AD%90%E5%8D%96300%E5%85%8B%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B030%E4%B8%87%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            7,
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时40分 ~ 16时23分]"
-        },
-        {
-          "title": "黄金价格暴涨暴跌 是走还是留",
-          "url": "https://www.toutiao.com/trending/7600200790535310911/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时40分 ~ 17时29分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时22分]"
-        },
-        {
-          "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
-          "url": "https://wallstreetcn.com/livenews/3045007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
-          "url": "https://wallstreetcn.com/livenews/3045204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "德意志银行表示，如果美元持续疲软，投资者将增加对非美元资产和实体资产的配置，那么2026年黄金价格可能会达到每盎司6000美元。",
-          "url": "https://wallstreetcn.com/livenews/3045069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时11分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）上海金早盘价为1168.09元/克，较国际金价(1167.41元/克)，高0.68元/克",
-          "url": "https://flash.jin10.com/detail/20260128110216256800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 8,
       "titles": [
@@ -1804,11 +1882,12 @@
             4,
             3,
             2,
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 19时19分]"
         },
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",

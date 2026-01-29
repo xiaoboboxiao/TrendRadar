@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:38:40.129451+08:00",
-  "total_titles_processed": 1364,
+  "generated_at": "2026-01-29T15:36:55.174273+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
@@ -93,8 +93,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时36分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -104,11 +104,26 @@
             9,
             7,
             6,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时21分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时21分 ~ 14时38分]"
+          "time_info": "[12时02分 ~ 15时36分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -120,19 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -207,6 +209,18 @@
           "time_info": "[01时28分 ~ 02时30分]"
         },
         {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时38分 ~ 15时36分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -217,18 +231,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时03分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时38分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -636,17 +638,6 @@
           "time_info": "12时03分"
         },
         {
-          "title": "伊朗接收俄罗斯装备",
-          "url": "https://www.toutiao.com/trending/7600325965138886662/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "伊朗外交部长阿拉奇：德黑兰始终欢迎一项公平的核协议，该协议应确保伊朗的权利并保证不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260129015303460800",
           "source": "金十数据",
@@ -680,6 +671,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 01时28分]"
+        },
+        {
+          "title": "伊朗接收俄罗斯装备",
+          "url": "https://www.toutiao.com/trending/7600325965138886662/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时36分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -716,6 +719,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时38分 ~ 14时38分]"
+        },
+        {
+          "title": "以色列总理称若遭伊朗袭击必将回击",
+          "url": "https://www.toutiao.com/trending/7600028353815674922/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时38分 ~ 15时36分]"
         },
         {
           "title": "中国代表：支持伊朗国家稳定",
@@ -817,17 +832,6 @@
           "time_info": "03时22分"
         },
         {
-          "title": "以色列总理称若遭伊朗袭击必将回击",
-          "url": "https://www.toutiao.com/trending/7600028353815674922/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时38分"
-        },
-        {
           "title": "美国国务卿鲁比奥：伊朗的抗议活动可能已经平息，但未来还会再次爆发。",
           "url": "https://flash.jin10.com/detail/20260129000336275800",
           "source": "金十数据",
@@ -837,6 +841,205 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "渣打：金价出现任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "金价屡创历史新高意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时21分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时21分 ~ 14时38分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6,
+            27,
+            7,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 09时21分]"
+        },
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            21,
+            23,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时29分 ~ 15时36分]"
+        },
+        {
+          "title": "金价暴涨女子卖300克黄金变现30万",
+          "url": "https://www.toutiao.com/trending/7600256243789627398/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 07时21分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时29分 ~ 07时21分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时36分]"
+        },
+        {
+          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20260129151543362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时21分]"
+        },
+        {
+          "title": "金价飙涨消费者把黄金变现",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 13时39分]"
+        },
+        {
+          "title": "金价银价暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
+          "url": "https://flash.jin10.com/detail/20260129085233565800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
+          "url": "https://wallstreetcn.com/livenews/3045814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
+          "url": "https://flash.jin10.com/detail/20260129041316561800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "渣打：金价任何回调都是买入机会",
+          "url": "https://www.toutiao.com/trending/7600387008329944595/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     },
@@ -1029,188 +1232,43 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 15,
+      "keyword_group": "游戏 动漫",
+      "match_count": 3,
       "titles": [
         {
-          "title": "渣打：金价出现任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "金价屡创历史新高意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%B1%A1%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "title": "3D偶像游戏V Project首曝",
+          "url": "https://search.bilibili.com/all?keyword=3D%E5%81%B6%E5%83%8F%E6%B8%B8%E6%88%8FV%20Project%E9%A6%96%E6%9B%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            30,
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时21分]"
-        },
-        {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时21分 ~ 14时38分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            6,
-            27,
-            7,
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时29分 ~ 09时21分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
+            11,
             21,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 14时38分]"
-        },
-        {
-          "title": "金价暴涨女子卖300克黄金变现30万",
-          "url": "https://www.toutiao.com/trending/7600256243789627398/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时29分 ~ 07时21分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时38分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时21分]"
-        },
-        {
-          "title": "金价飙涨消费者把黄金变现",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E6%B6%88%E8%B4%B9%E8%80%85%E6%8A%8A%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        },
-        {
-          "title": "金价银价暴涨原因",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "分析师：金价的任何回调都成为具有吸引力的买入机会",
-          "url": "https://flash.jin10.com/detail/20260129085233565800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
-          "url": "https://wallstreetcn.com/livenews/3045814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
-          "url": "https://flash.jin10.com/detail/20260129041316561800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时24分"
-        },
-        {
-          "title": "渣打：金价任何回调都是买入机会",
-          "url": "https://www.toutiao.com/trending/7600387008329944595/",
-          "source": "今日头条",
-          "ranks": [
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时02分 ~ 15时36分]"
+        },
+        {
+          "title": "手办厂 Myethos 遭人为纵火致周边出货延迟，对动漫周边行业有何影响？",
+          "url": "https://www.zhihu.com/question/1999568114719942246",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "2025年国产游戏销量榜",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E9%94%80%E9%87%8F%E6%A6%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -1254,35 +1312,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3D偶像游戏V Project首曝",
-          "url": "https://search.bilibili.com/all?keyword=3D%E5%81%B6%E5%83%8F%E6%B8%B8%E6%88%8FV%20Project%E9%A6%96%E6%9B%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时02分 ~ 14时38分]"
-        },
-        {
-          "title": "手办厂 Myethos 遭人为纵火致周边出货延迟，对动漫周边行业有何影响？",
-          "url": "https://www.zhihu.com/question/1999568114719942246",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1296,8 +1325,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时02分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时36分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
@@ -1334,7 +1363,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }

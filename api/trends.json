@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T22:20:51.068744+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2026-02-01T23:18:52.124222+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
@@ -30,11 +30,12 @@
             4,
             3,
             1,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 22时20分]"
+          "appearance_count": 16,
+          "time_info": "[09时44分 ~ 23时18分]"
         },
         {
           "title": "伊朗北部一地司法部门逮捕300名参与骚乱人员",
@@ -169,8 +170,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时42分 ~ 22时20分]"
+          "appearance_count": 12,
+          "time_info": "[14时42分 ~ 23时18分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
@@ -185,8 +186,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时25分 ~ 22时20分]"
+          "appearance_count": 15,
+          "time_info": "[12时25分 ~ 23时18分]"
         },
         {
           "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
@@ -375,30 +376,6 @@
           "time_info": "[16时25分 ~ 21时39分]"
         },
         {
-          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
-          "url": "https://flash.jin10.com/detail/20260201210033131800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
-        },
-        {
-          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3047820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
-        },
-        {
           "title": "海军司令遭刺杀？多地爆炸？伊朗：都是假的",
           "url": "https://news.ifeng.com/c/8qOQkr7NP1F",
           "source": "凤凰网",
@@ -409,6 +386,44 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时19分 ~ 20时34分]"
+        },
+        {
+          "title": "伊朗官员：有关伊斯兰革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。伊斯兰革命卫队并未就将在霍尔木兹海峡举行军事演习发布任何官方公告。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3047820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
+        },
+        {
+          "title": "据路透社：伊朗官员表示，有关伊朗革命卫队计划在霍尔木兹海峡举行军事演习的媒体报道是错误的。革命卫队尚未就霍尔木兹海峡军演事宜发布官方声明。",
+          "url": "https://flash.jin10.com/detail/20260201210033131800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
+        },
+        {
+          "title": "伊朗阿巴斯港一楼房发生爆炸，已致1死14伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508070",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时33分 ~ 23时18分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
@@ -452,16 +467,18 @@
           "time_info": "[15时33分 ~ 19时17分]"
         },
         {
-          "title": "伊朗阿巴斯港一楼房发生爆炸，已致1死14伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508070",
-          "source": "澎湃新闻",
+          "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260201193037958800",
+          "source": "金十数据",
           "ranks": [
-            20,
-            19
+            3,
+            8,
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时33分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时34分 ~ 23时18分]"
         },
         {
           "title": "以美军方高层被曝本周末密集会谈，讨论对伊朗打击行动",
@@ -469,11 +486,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
         },
         {
           "title": "伊朗布什尔省阿萨卢耶附近发生5.2级地震",
@@ -489,29 +507,17 @@
           "time_info": "[16时25分 ~ 18时19分]"
         },
         {
-          "title": "伊朗革命卫队海军司令：伊朗人民将继续坚定不移地抵御敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260201193037958800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时34分 ~ 22时20分]"
-        },
-        {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
           "url": "https://flash.jin10.com/detail/20260201204212000800",
           "source": "金十数据",
           "ranks": [
             4,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
         },
         {
           "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
@@ -669,6 +675,17 @@
           "time_info": "12时25分"
         },
         {
+          "title": "伊朗军方：我们的手始终放在扳机上",
+          "url": "https://www.toutiao.com/trending/7601336798447140918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伊朗总统称战争不符合伊美两国利益",
           "url": "https://www.toutiao.com/trending/7601496044257886234/",
           "source": "今日头条",
@@ -683,7 +700,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -710,6 +727,19 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时24分 ~ 23时18分]"
+        },
+        {
           "title": "沃什的三大挑战：美联储、通胀和特朗普",
           "url": "https://wallstreetcn.com/articles/3764667",
           "source": "华尔街见闻",
@@ -723,19 +753,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[12时25分 ~ 20时34分]"
-        },
-        {
-          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时24分 ~ 22时20分]"
         },
         {
           "title": "美国或迎首次人口负增长：特朗普上台1年，赶跑近300万移民",
@@ -854,6 +871,17 @@
           "time_info": "[13时57分 ~ 18时19分]"
         },
         {
+          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
+          "url": "https://news.ifeng.com/c/8qOFedymx0W",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
+        },
+        {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
           "url": "https://wallstreetcn.com/livenews/3047726",
           "source": "华尔街见闻-快讯",
@@ -906,15 +934,19 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
-          "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
-          "url": "https://news.ifeng.com/c/8qOFedymx0W",
-          "source": "凤凰网",
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
+          "url": "https://flash.jin10.com/detail/20260201190247560800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1,
+            6,
+            11,
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时18分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -947,31 +979,6 @@
           "time_info": "[12时25分 ~ 17时24分]"
         },
         {
-          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。",
-          "url": "https://wallstreetcn.com/livenews/3047823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
-          "url": "https://flash.jin10.com/detail/20260201190247560800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时20分]"
-        },
-        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：在美国总统特朗普领导下，与美国的接触已变得高效得多。在所谓“特朗普混乱”背后，他是一位高效且富有创造力的美国领导人。",
           "url": "https://flash.jin10.com/detail/20260201190211010800",
           "source": "金十数据",
@@ -979,11 +986,23 @@
             3,
             8,
             13,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时18分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-01）",
@@ -993,11 +1012,23 @@
             5,
             10,
             15,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时20分]"
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时18分]"
+        },
+        {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "特朗普：希望沃什能降低利率。",
@@ -1012,6 +1043,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时25分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普：美委将“分享”石油收益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时33分 ~ 23时18分]"
         },
         {
           "title": "特朗普称美伊正谈判",
@@ -1103,16 +1147,26 @@
           "time_info": "[19时17分 ~ 22时20分]"
         },
         {
-          "title": "特朗普：美委将“分享”石油收益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
-          "source": "澎湃新闻",
+          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
+          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时33分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
+          "url": "https://news.ifeng.com/c/8qOLT943YcA",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
         },
         {
           "title": "特朗普放风：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -1139,17 +1193,6 @@
           "time_info": "[20时33分 ~ 20时34分]"
         },
         {
-          "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
-          "url": "https://news.ifeng.com/c/8qOL2MAnXO8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
-        },
-        {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
           "url": "https://flash.jin10.com/detail/20260201102818944800",
           "source": "金十数据",
@@ -1160,17 +1203,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时57分]"
-        },
-        {
-          "title": "特朗普给自己提名的美联储主席下马威：小心被起诉",
-          "url": "https://news.ifeng.com/c/8qOLT943YcA",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
         },
         {
           "title": "特朗普称正与伊朗进行对话",
@@ -1329,11 +1361,26 @@
           "ranks": [
             21,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时25分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时25分 ~ 23时18分]"
+        },
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 23时18分]"
         },
         {
           "title": "金价下跌是否值得入手",
@@ -1348,20 +1395,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时19分 ~ 07时16分]"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 22时20分]"
         },
         {
           "title": "金价下跌 多品牌设退货手续费",
@@ -1563,6 +1596,22 @@
           "time_info": "[00时20分 ~ 07时16分]"
         },
         {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            10,
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 23时18分]"
+        },
+        {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
@@ -1573,21 +1622,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时18分 ~ 09时44分]"
-        },
-        {
-          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
-          "url": "https://wallstreetcn.com/livenews/3047808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            10,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 22时20分]"
         },
         {
           "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
@@ -1647,6 +1681,17 @@
           "time_info": "[13时56分 ~ 19时17分]"
         },
         {
+          "title": "第一批游戏主播开始演戏了",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时20分 ~ 23时18分]"
+        },
+        {
           "title": "2月重磅游戏盘点",
           "url": "https://search.bilibili.com/all?keyword=2%E6%9C%88%E9%87%8D%E7%A3%85%E6%B8%B8%E6%88%8F%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
@@ -1656,17 +1701,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时33分 ~ 20时34分]"
-        },
-        {
-          "title": "第一批游戏主播开始演戏了",
-          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%89%B9%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD%E5%BC%80%E5%A7%8B%E6%BC%94%E6%88%8F%E4%BA%86&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时20分"
         }
       ]
     },
@@ -1697,8 +1731,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时39分 ~ 22时20分]"
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 23时18分]"
         }
       ]
     },

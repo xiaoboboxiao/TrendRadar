@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T15:43:03.767474+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-02-06T16:34:41.758401+08:00",
+  "total_titles_processed": 1454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 16时34分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -49,11 +49,23 @@
           "ranks": [
             11,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时43分]"
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时34分]"
+        },
+        {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普称支持高市早苗赢得日本大选，外交部：不作评论",
@@ -62,7 +74,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -269,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时40分]"
+        },
+        {
+          "title": "外交部回应特朗普支持高市赢得大选",
+          "url": "https://www.toutiao.com/trending/7603649349884759562/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
@@ -496,8 +519,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时34分]"
+        },
+        {
+          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
+          "url": "https://www.cls.cn/detail/2282466",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时09分 ~ 16时34分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -509,18 +545,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
-        },
-        {
-          "title": "美政府发布安全警告：敦促美国公民尽快离开伊朗",
-          "url": "https://www.cls.cn/detail/2282466",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 15时43分]"
         },
         {
           "title": "伊朗外交部发言人：我们有责任不放过任何利用外交手段维护伊朗国家利益、维护地区和平与稳定的机遇。",
@@ -545,6 +569,18 @@
           "time_info": "13时49分"
         },
         {
+          "title": "中方阐明在伊朗问题上的原则立场",
+          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时42分 ~ 16时34分]"
+        },
+        {
           "title": "伊朗外交部发言人：希望美方也能“以负责任、务实和严肃的态度”参与其中。",
           "url": "https://flash.jin10.com/detail/20260206022835465800",
           "source": "金十数据",
@@ -562,7 +598,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -623,17 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时09分 ~ 13时49分]"
-        },
-        {
-          "title": "中方阐明在伊朗问题上的原则立场",
-          "url": "https://news.ifeng.com/c/8qWWGUvFTRt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "伊朗外长阿拉格齐抵达阿曼。",
@@ -702,7 +727,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },
@@ -867,7 +892,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1237,8 +1262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 16时34分]"
         }
       ]
     },
@@ -1254,8 +1279,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 16时34分]"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -1288,7 +1313,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         }
@@ -1305,11 +1330,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 15时43分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 16时34分]"
         },
         {
           "title": "存储荒烧向英伟达？业内曝新游戏显卡将全面跳票 30年来首次“断更”",
@@ -1317,11 +1343,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时48分 ~ 15时43分]"
+          "appearance_count": 6,
+          "time_info": "[13时48分 ~ 16时34分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -1348,7 +1375,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
         },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T16:35:46.871548+08:00",
-  "total_titles_processed": 1404,
+  "generated_at": "2026-02-13T17:37:19.698866+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -49,8 +49,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 17时37分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 17时37分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -79,8 +79,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 16时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 17时37分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -91,8 +91,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时35分]"
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时37分]"
         },
         {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
@@ -107,6 +107,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时29分 ~ 15时46分]"
+        },
+        {
+          "title": "特朗普称期待4月访华",
+          "url": "https://www.douyin.com/hot/2398935",
+          "source": "抖音",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时37分]"
         },
         {
           "title": "中方回应“特朗普将于4月初访华”",
@@ -125,6 +138,17 @@
           "time_info": "[01时53分 ~ 06时25分]"
         },
         {
+          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
+          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时37分]"
+        },
+        {
           "title": "美国总统特朗普：环保署废除了美国气候监管的基础，此举将消除1.3 万亿美元的监管成本。",
           "url": "https://flash.jin10.com/detail/20260213024705661800",
           "source": "金十数据",
@@ -136,17 +160,18 @@
           "time_info": "02时53分"
         },
         {
-          "title": "特朗普称期待4月访华",
-          "url": "https://www.douyin.com/hot/2398935",
-          "source": "抖音",
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
           "ranks": [
-            11,
+            13,
+            12,
             10,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时35分]"
+          "time_info": "[13时55分 ~ 17时37分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -175,17 +200,6 @@
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "市场消息：特朗普领导下的美国环境保护署采取行动，推翻了前总统拜登此前制定的汽车尾气排放规定，这些规定原本旨在推动电动汽车产量提升。",
           "url": "https://flash.jin10.com/detail/20260213023947090800",
           "source": "金十数据",
@@ -206,19 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时35分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -621,6 +622,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美国参议院民主党成员Warren发函给证券交易委员会（SEC）主席Paul Atkins。 Warren质询SEC对总统特朗普2025年围绕代理顾问们签署的一项命令的执行情况。 Warren认为，特朗普的命令“似乎意在削弱股东们的权益，让管理层掌握更大的权力”。 Warren询问，SEC已经采取了哪些行动、或者打算如何执行特朗普的命令。",
           "url": "https://wallstreetcn.com/livenews/3054616",
           "source": "华尔街见闻-快讯",
@@ -723,8 +735,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
+          "url": "https://wallstreetcn.com/articles/3765629",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 17时37分]"
+        },
         {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2289051",
@@ -749,18 +773,6 @@
           "time_info": "[09时29分 ~ 16时35分]"
         },
         {
-          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
-          "url": "https://wallstreetcn.com/articles/3765629",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 16时35分]"
-        },
-        {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2288812",
           "source": "财联社热门",
@@ -773,6 +785,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 09时30分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时55分 ~ 17时37分]"
         },
         {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
@@ -788,16 +812,17 @@
           "time_info": "[09时29分 ~ 14时52分]"
         },
         {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
+          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
+          "url": "https://wallstreetcn.com/articles/3765624",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            5
+            8,
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时55分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[12时14分 ~ 17时37分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -809,19 +834,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 02时53分]"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 16时35分]"
         },
         {
           "title": "美国CPI前夕，美股指盘中转跌，盘中纳指跌超1%、思科跌超10%",
@@ -844,6 +856,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "Rivian美股盘前大涨19%，公司第四季度业绩超预期，且预计2026年交付量将激增53%。",
+          "url": "https://wallstreetcn.com/livenews/3055070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时52分 ~ 17时37分]"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股收盘）",
@@ -894,18 +929,6 @@
           "time_info": "[04时28分 ~ 05时28分]"
         },
         {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时52分 ~ 16时35分]"
-        },
-        {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
           "url": "https://flash.jin10.com/detail/20260213050029671800",
           "source": "金十数据",
@@ -930,6 +953,17 @@
           "time_info": "[06时25分 ~ 07时23分]"
         },
         {
+          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
+          "url": "https://www.zhihu.com/question/2005568531748648323",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 17时37分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
           "url": "https://wallstreetcn.com/livenews/3054725",
           "source": "华尔街见闻-快讯",
@@ -941,17 +975,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 07时23分]"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时35分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -1258,8 +1281,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 17时37分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -1276,8 +1299,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时51分 ~ 16时35分]"
+          "appearance_count": 19,
+          "time_info": "[00时51分 ~ 17时37分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -1315,8 +1338,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时35分]"
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 17时37分]"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时45分 ~ 17时37分]"
         },
         {
           "title": "OpenAI指责DeepSeek“抄袭”背后",
@@ -1329,18 +1365,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时52分 ~ 15时46分]"
-        },
-        {
-          "title": "DeepSeek回应被指冷淡",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 16时35分]"
         }
       ]
     },
@@ -1592,6 +1616,67 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "PlayStation游戏发布会",
+          "url": "https://search.bilibili.com/all?keyword=PlayStation%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 09时30分]"
+        },
+        {
+          "title": "据路透社：消息人士称，字节跳动正就出售其游戏子公司上海沐瞳科技进行深入谈判，交易金额或达60亿至70亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213172346857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
+          "title": "报告：1月中国国内游戏市场实际销售收入324.68亿元，同比增长4.47%",
+          "url": "https://wallstreetcn.com/livenews/3055012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "你会担心孩子玩游戏上瘾吗",
+          "url": "https://www.toutiao.com/trending/7605624775784448050/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "法国游戏公司育碧娱乐第三财季销售3.184亿欧元，上年同期3.181亿欧元。 第三财季净预定3.377亿欧元，分析师预期3.293亿欧元。 仍然预计全年净预定大约15亿欧元，分析师预期15.8亿欧元。 预计全年非IFRS EBIT亏损大约10亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3054636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 5,
       "titles": [
@@ -1614,8 +1699,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时29分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时29分 ~ 17时37分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -1649,56 +1734,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "游戏 动漫",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "PlayStation游戏发布会",
-          "url": "https://search.bilibili.com/all?keyword=PlayStation%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
-          "title": "报告：1月中国国内游戏市场实际销售收入324.68亿元，同比增长4.47%",
-          "url": "https://wallstreetcn.com/livenews/3055012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "你会担心孩子玩游戏上瘾吗",
-          "url": "https://www.toutiao.com/trending/7605624775784448050/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "法国游戏公司育碧娱乐第三财季销售3.184亿欧元，上年同期3.181亿欧元。 第三财季净预定3.377亿欧元，分析师预期3.293亿欧元。 仍然预计全年净预定大约15亿欧元，分析师预期15.8亿欧元。 预计全年非IFRS EBIT亏损大约10亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3054636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
         }
       ]
     },

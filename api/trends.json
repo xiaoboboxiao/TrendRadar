@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T21:41:00.453677+08:00",
-  "total_titles_processed": 1531,
+  "generated_at": "2026-02-14T22:21:40.370715+08:00",
+  "total_titles_processed": 1576,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时04分 ~ 21时41分]"
+          "appearance_count": 15,
+          "time_info": "[12时04分 ~ 22时21分]"
         },
         {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时30分 ~ 21时41分]"
+          "appearance_count": 12,
+          "time_info": "[15时30分 ~ 22时21分]"
         },
         {
           "title": "特朗普证实美军将向中东派第二艘航母",
@@ -128,6 +128,18 @@
           "time_info": "[03时38分 ~ 07时25分]"
         },
         {
+          "title": "特朗普下令第二艘航母前往中东",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 22时21分]"
+        },
+        {
           "title": "美国总统特朗普：希望与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260214030526351800",
           "source": "金十数据",
@@ -177,15 +189,15 @@
           "time_info": "[12时04分 ~ 16时24分]"
         },
         {
-          "title": "特朗普下令第二艘航母前往中东",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D%E5%89%8D%E5%BE%80%E4%B8%AD%E4%B8%9C",
-          "source": "bilibili 热搜",
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 22时21分]"
         },
         {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时37分 ~ 03时38分]"
-        },
-        {
-          "title": "特朗普：北约看在我的份上付了5%国防支出",
-          "url": "https://news.ifeng.com/c/8qk233NwWlu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 21时41分]"
         },
         {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
@@ -402,6 +403,19 @@
           "time_info": "[03时38分 ~ 05时29分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
+          "url": "https://flash.jin10.com/detail/20260214195624100800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
+        },
+        {
           "title": "特朗普：不知道商务部长去过爱泼斯坦岛，反正我没去过",
           "url": "https://m.thepaper.cn/newsDetail_forward_32601087",
           "source": "澎湃新闻",
@@ -411,6 +425,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时36分 ~ 15时31分]"
+        },
+        {
+          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
+          "url": "https://wallstreetcn.com/livenews/3055534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "特朗普：在俄乌冲突问题上，乌总统“必须行动起来”",
@@ -426,16 +453,17 @@
           "time_info": "[02时38分 ~ 04时30分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
-          "url": "https://flash.jin10.com/detail/20260214195624100800",
-          "source": "金十数据",
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
+            16,
+            21,
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
         },
         {
           "title": "美国总统特朗普：美国是北约内强大的一部分。",
@@ -474,18 +502,6 @@
           "time_info": "[01时37分 ~ 02时38分]"
         },
         {
-          "title": "美国州长：特朗普只是个过客，加州是稳定可靠的伙伴",
-          "url": "https://wallstreetcn.com/livenews/3055534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
-        },
-        {
           "title": "美国总统特朗普谈及伊朗，称：如果我们达成一份协议，它们（美军航母打击群）将会迅速离开（中东地区）。",
           "url": "https://wallstreetcn.com/livenews/3055306",
           "source": "华尔街见闻-快讯",
@@ -520,18 +536,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时37分 ~ 02时38分]"
-        },
-        {
-          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
-          "url": "https://wallstreetcn.com/livenews/3055527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "日媒披露特朗普拒绝在中日间力挺日本",
@@ -978,8 +982,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 22时21分]"
         },
         {
           "title": "美股：金银大涨 英伟达蒸发6900亿元",
@@ -1115,19 +1119,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时40分 ~ 21时41分]"
-        },
-        {
-          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3055546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时41分"
+          "appearance_count": 14,
+          "time_info": "[13时40分 ~ 22时21分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -1156,6 +1149,18 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3055546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时41分 ~ 22时21分]"
+        },
+        {
           "title": "谷歌 Gemini 3 Deep Think 深度思考大模型升级，相比前代有哪些提升？",
           "url": "https://www.zhihu.com/question/2005579925827130176",
           "source": "知乎",
@@ -1181,6 +1186,19 @@
           "time_info": "[07时25分 ~ 09时22分]"
         },
         {
+          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
+          "url": "https://wallstreetcn.com/livenews/3055539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时32分 ~ 22时21分]"
+        },
+        {
           "title": "13F报告显示：巴克莱四季度增持美光科技、谷歌C、吉利德科学、应用材料、Kenvue。 减持英伟达、微软、摩根大通、百事、苹果。 重仓英伟达、微软、苹果、亚马逊、谷歌A。",
           "url": "https://wallstreetcn.com/livenews/3055390",
           "source": "华尔街见闻-快讯",
@@ -1203,18 +1221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "提醒：谷歌母公司Alphabet的首席执行官（CEO）桑达尔·皮查伊（Sundar Pichai）和OpenAI的CEOSam Altman将参加下周举办的“2026印度AI影响力峰会”。",
-          "url": "https://wallstreetcn.com/livenews/3055539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时41分]"
         },
         {
           "title": "13F报告显示：Harvard Management四季度建仓做多Union Pacifit/isha以太坊信托ETF、以及Figma。 增持谷歌A、博通、台积电、Booking、以及Meta。 清仓Lighter & Wonder、PureCycle、以及Maze Therapeutics。 减持iShares比特币信托ETF、微软、亚马逊、英伟达、以及SPDR黄金Shares。 重仓资产包括iShares比特币信托ETF、谷歌A、SPDR黄金Shares、微软、以及Booking。",
@@ -1415,11 +1421,12 @@
           "ranks": [
             15,
             1,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时36分 ~ 21时41分]"
+          "appearance_count": 13,
+          "time_info": "[14时36分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1432,8 +1439,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时36分 ~ 21时41分]"
+          "appearance_count": 11,
+          "time_info": "[14时36分 ~ 22时21分]"
         },
         {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
@@ -1531,8 +1538,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时22分 ~ 21时41分]"
+          "appearance_count": 16,
+          "time_info": "[09时22分 ~ 22时21分]"
         },
         {
           "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
@@ -1545,8 +1552,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时25分 ~ 21时41分]"
+          "appearance_count": 8,
+          "time_info": "[17时25分 ~ 22时21分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1670,7 +1677,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "为何说《双影奇境》或《双人成行》可能是最适合春节情人节期间，两人一起玩的游戏？你有何游玩故事值得分享？",
@@ -1694,6 +1701,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时17分 ~ 19时18分]"
+        },
+        {
+          "title": "各位大佬目前准大一想未来进入游戏研发行业，主要想从事客户端开发或者引擎之类的，能不能给点建议或规划?",
+          "url": "https://www.zhihu.com/question/1921339403743233420",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
@@ -1722,8 +1740,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时32分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[20时32分 ~ 22时21分]"
         }
       ]
     },

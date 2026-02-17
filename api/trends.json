@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T03:43:23.943362+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2026-02-18T04:31:03.684060+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时31分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时48分 ~ 04时31分]"
         },
         {
           "title": "美国纽约市市长：美国总统特朗普政府再次解冻了7700万美元的纽约隧道资金。",
@@ -55,15 +55,30 @@
           "time_info": "01时56分"
         },
         {
+          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
+          "url": "https://wallstreetcn.com/livenews/3056077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时56分 ~ 04时31分]"
+        },
+        {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
           "url": "https://wallstreetcn.com/livenews/3056103",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时31分]"
         },
         {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
@@ -78,17 +93,26 @@
           "time_info": "[01时10分 ~ 01时56分]"
         },
         {
-          "title": "侨民抢在特朗普新税生效前寄钱回家，菲律宾12月海外汇款创纪录",
-          "url": "https://wallstreetcn.com/livenews/3056077",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普涉台最新表态，台当局和日本都慌了",
+          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            13,
-            26
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时56分 ~ 03时43分]"
+          "time_info": "[03时43分 ~ 04时31分]"
+        },
+        {
+          "title": "特朗普称希拉里精神错乱",
+          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时43分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普：由于“大而美法案”，今年的退税额远超以往。在某些情况下，估计有超过20%的税款将退还给纳税人。",
@@ -139,26 +163,26 @@
           "time_info": "[01时10分 ~ 01时56分]"
         },
         {
-          "title": "特朗普涉台最新表态，台当局和日本都慌了",
-          "url": "https://news.ifeng.com/c/8qpOucjNxj3",
-          "source": "凤凰网",
+          "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
+          "url": "https://flash.jin10.com/detail/20260218042000423800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时31分"
         },
         {
-          "title": "特朗普称希拉里精神错乱",
-          "url": "https://news.ifeng.com/c/8qp8XbNLUh0",
-          "source": "凤凰网",
+          "title": "美国副总统万斯：但伊朗人尚未愿意承认特朗普设定的某些红线。",
+          "url": "https://flash.jin10.com/detail/20260218041935194800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时43分"
+          "time_info": "04时31分"
         },
         {
           "title": "哈梅内伊：如今我要说，特朗普也做不到",
@@ -178,7 +202,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         },
@@ -189,7 +213,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
         }
@@ -197,7 +221,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -207,8 +231,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -219,8 +243,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "伊朗外长披露与美方谈判结果",
@@ -230,8 +254,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 03时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 04时31分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -250,11 +274,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时48分 ~ 03时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时48分 ~ 04时31分]"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -304,6 +329,17 @@
           "time_info": "[02时48分 ~ 03时43分]"
         },
         {
+          "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260218041904754800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://flash.jin10.com/detail/20260218010446612800",
           "source": "金十数据",
@@ -321,9 +357,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "市场消息：伊朗外交部召见德国大使。",
+          "url": "https://flash.jin10.com/detail/20260218032808122800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -351,7 +398,7 @@
     },
     {
       "keyword_group": "游戏 动漫",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "手机游戏性能大横评",
@@ -362,8 +409,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
@@ -373,11 +420,23 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
+        },
+        {
+          "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
+          "url": "https://www.zhihu.com/question/2006713868894901535",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 04时31分]"
         },
         {
           "title": "美债的信用游戏会崩溃吗",
@@ -397,6 +456,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
+          "url": "https://wallstreetcn.com/livenews/3056102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时31分]"
+        },
+        {
           "title": "Gemini Space Station（GEMI）：本公司美国IPO之后，首席财务官（CFO）Dan Chen、首席运营官（COO）Marshall Beard、首席法务官（CLO）Tyler Meade离职。",
           "url": "https://wallstreetcn.com/livenews/3056053",
           "source": "华尔街见闻-快讯",
@@ -407,17 +478,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 01时56分]"
-        },
-        {
-          "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
-          "url": "https://wallstreetcn.com/livenews/3056102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
         },
         {
           "title": "Alphabet旗下谷歌公司计划从可再生能源公司Ormat Technologies获取电力供应，来支持自家在美国内华达州的一系列数据中心的运作。 根据协议，Ormat将向谷歌供应至多150 MW的电力。",
@@ -441,11 +501,12 @@
           "url": "https://wallstreetcn.com/livenews/3056104",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时43分 ~ 04时31分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.08%，暂报2843.67点。 MarketVectorTM数字资产100中盘指数涨1.59%，报2818.30点。 MarketVector数字资产100指数涨0.03%，报13671.22点。 目前，Solana跌0.55%，狗狗币涨1.70%，XRP涨0.41%。 比特币跌0.68%，暂报67741美元；以太坊涨0.25%，暂报1988.09美元。",
@@ -485,8 +546,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "金价银价直线跳水",
@@ -495,11 +556,12 @@
           "ranks": [
             27,
             28,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时31分]"
         }
       ]
     },
@@ -515,19 +577,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时09分 ~ 04时31分]"
         }
       ]
     }

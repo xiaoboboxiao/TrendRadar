@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:51:25.705778+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-17T15:47:39.889184+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 15时47分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -289,8 +289,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 15时47分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -317,8 +317,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时13分 ~ 14时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时13分 ~ 15时47分]"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -513,8 +513,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 14时51分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 15时47分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -578,8 +578,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时47分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -593,8 +593,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时51分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时47分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -633,8 +633,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 14时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 15时47分]"
         }
       ]
     },

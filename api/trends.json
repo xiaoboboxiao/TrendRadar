@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T13:57:18.371581+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-02-18T14:56:59.365024+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时48分 ~ 13时57分]"
+          "appearance_count": 13,
+          "time_info": "[02时48分 ~ 14时56分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -90,6 +90,17 @@
           "time_info": "12时15分"
         },
         {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时56分]"
+        },
+        {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
           "url": "https://flash.jin10.com/detail/20260218063655343800",
           "source": "金十数据",
@@ -113,17 +124,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时56分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时57分]"
         },
         {
           "title": "特朗普关税引发巨额亏损，企业纷纷加大汇率套期保值力度",
@@ -161,6 +161,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时23分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时56分]"
         },
         {
           "title": "美国副总统万斯：无论采取外交手段还是其他选项，特朗普都想找到解决方案。",
@@ -211,16 +224,16 @@
           "time_info": "[02时48分 ~ 03时43分]"
         },
         {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18,
-            14
+            12,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "time_info": "[13时57分 ~ 14时56分]"
         },
         {
           "title": "美国总统特朗普：马里兰、弗吉尼亚州和华盛顿特区应对波托马克河的污水泄漏负责，必须立即着手处理。如果他们无法完成工作，就必须礼貌地给我打电话，请我帮忙修复。",
@@ -325,17 +338,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
-          "url": "https://wallstreetcn.com/livenews/3056209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
           "title": "英媒：特朗普政府升级对美消费者金融保护局打击力度",
           "url": "https://flash.jin10.com/detail/20260218023219855800",
           "source": "金十数据",
@@ -427,8 +429,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时10分 ~ 13时57分]"
+          "appearance_count": 15,
+          "time_info": "[01时10分 ~ 14时56分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -450,8 +452,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时56分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -463,6 +465,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时09分"
+        },
+        {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时56分]"
         },
         {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
@@ -483,24 +499,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时56分]"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
           "ranks": [
-            14,
-            15,
-            13
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时56分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -511,19 +527,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时57分]"
-        },
-        {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时56分]"
         },
         {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
@@ -688,8 +693,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时09分 ~ 13时57分]"
+          "appearance_count": 16,
+          "time_info": "[01时09分 ~ 14时56分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -700,8 +705,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 14时56分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -782,8 +787,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 13时57分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 14时56分]"
         },
         {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
@@ -933,11 +938,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%B8%B8%E6%88%8F%E8%83%8C%E5%90%8E%E7%9A%84%E5%8D%9A%E5%BC%88%E8%AE%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时57分 ~ 14时56分]"
         },
         {
           "title": "《三国志》游戏里李儒智力能有 93 是不是高了?",

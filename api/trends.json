@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T04:19:30.218649+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-25T04:28:35.329774+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -37,41 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
-        },
-        {
-          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
-          "url": "https://flash.jin10.com/detail/20260225033807828800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
-          "url": "https://flash.jin10.com/detail/20260225033140480800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
-          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
-          "url": "https://flash.jin10.com/detail/20260225032658019800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
@@ -83,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -94,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "美国纽约州州长Hochul呼吁特朗普政府退还135亿美元关税款项",
@@ -104,9 +71,67 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
+          "url": "https://flash.jin10.com/detail/20260225041411754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "04时28分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
+          "url": "https://flash.jin10.com/detail/20260225041158111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
+        },
+        {
+          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
+          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
+        },
+        {
+          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
+          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
         },
         {
           "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
@@ -131,6 +156,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时57分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
         },
         {
           "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
@@ -178,17 +214,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        },
-        {
           "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
           "url": "https://wallstreetcn.com/livenews/3058233",
           "source": "华尔街见闻-快讯",
@@ -225,8 +250,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
@@ -237,8 +262,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
@@ -250,8 +275,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "WW3预热,美国对伊朗动手",
@@ -262,8 +287,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "伊朗一军用直升机坠毁",
@@ -275,8 +300,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
+        },
+        {
+          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
+          "url": "https://wallstreetcn.com/livenews/3058301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 04时28分]"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -292,27 +329,39 @@
         },
         {
           "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
-          "url": "https://wallstreetcn.com/livenews/3058301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时19分]"
-        },
-        {
-          "title": "伊朗外长：希望在最短时间内与美国达成公平协议",
           "url": "https://flash.jin10.com/detail/20260225025902265800",
           "source": "金十数据",
           "ranks": [
             8,
-            12
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 04时28分]"
+        },
+        {
+          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3058288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 04时28分]"
+        },
+        {
+          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
+          "url": "https://wallstreetcn.com/livenews/3058314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时19分]"
+          "time_info": "[04时19分 ~ 04时28分]"
         },
         {
           "title": "伊官员：若美国犯错 伊朗将对其造成重大伤亡",
@@ -327,18 +376,6 @@
           "time_info": "[00时59分 ~ 01时57分]"
         },
         {
-          "title": "据知情人士透露，美国中情局局长拉特克利夫将同国务卿鲁比奥一道，参加美东时间15:00“八人小组”进行的伊朗问题简报会。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3058288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时19分]"
-        },
-        {
           "title": "伊朗德黑兰一电子产品仓库发生火灾",
           "url": "https://wallstreetcn.com/livenews/3058245",
           "source": "华尔街见闻-快讯",
@@ -349,17 +386,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时59分 ~ 01时57分]"
-        },
-        {
-          "title": "英媒称美军仅能维持4至5天对伊朗高强度空袭",
-          "url": "https://wallstreetcn.com/livenews/3058314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
         },
         {
           "title": "伊朗副外长：伊方准备好与美方尽快达成协议",
@@ -397,8 +423,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -408,8 +434,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
@@ -419,8 +445,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
+        },
+        {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年02月24日（周二）美股热门股票行情一览（美股盘中）",
@@ -432,18 +470,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
         },
         {
           "title": "数字货币市场在美股早盘反弹",
@@ -504,11 +530,12 @@
           "ranks": [
             10,
             18,
-            4
+            4,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
@@ -520,8 +547,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "游戏机被没收,男孩枪杀养父",
@@ -532,8 +559,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 04时28分]"
         },
         {
           "title": "你有没有因为一款游戏，突然对某个历史时期或文化产生了浓厚的兴趣？",
@@ -559,11 +586,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时25分 ~ 04时28分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
@@ -602,9 +630,26 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "文件显示：美国法官驳回xAI针对OpenAI的商业机密诉讼。",
+          "url": "https://flash.jin10.com/detail/20260225040115362800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时19分"
+          "time_info": "04时28分"
         }
       ]
     }

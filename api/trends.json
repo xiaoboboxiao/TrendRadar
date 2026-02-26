@@ -1,33 +1,23 @@
 {
-  "generated_at": "2026-02-26T07:23:27.088140+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2026-02-26T09:23:50.764833+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时23分]"
-        },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
           "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时23分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -35,7 +25,19 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时23分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -51,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
+          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -128,6 +141,28 @@
           "time_info": "[06时31分 ~ 07时23分]"
         },
         {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
+          "title": "特朗普试戴冬奥金牌不还",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E6%88%B4%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E4%B8%8D%E8%BF%98%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
+        },
+        {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226021252791800",
           "source": "金十数据",
@@ -197,7 +232,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -206,7 +241,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -228,7 +263,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -239,7 +274,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -250,7 +285,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -333,6 +368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
+          "url": "https://wallstreetcn.com/livenews/3059133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },
@@ -361,8 +407,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 09时23分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -371,9 +417,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时23分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时23分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -412,24 +470,13 @@
           "time_info": "[05时30分 ~ 06时31分]"
         },
         {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
           "url": "https://wallstreetcn.com/livenews/3059092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -594,11 +641,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            5
+            5,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 07时23分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 09时23分]"
         },
         {
           "title": "波比的游戏时间第五章剧情讲解",
@@ -661,6 +709,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时23分"
         }
       ]
     },

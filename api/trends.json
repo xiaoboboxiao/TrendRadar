@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T14:41:41.377859+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-04-14T16:39:51.140140+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 94,
+      "match_count": 105,
       "titles": [
         {
           "title": "美军称“自4月13日起封锁伊朗港口海上交通”，报道称英国不参与，伊朗称“荒唐可笑”",
@@ -29,8 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 16时39分]"
         },
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 16时39分]"
         },
         {
           "title": "内塔尼亚胡：与伊朗的停火可能很快结束",
@@ -236,6 +236,19 @@
           "time_info": "[00时57分 ~ 06时51分]"
         },
         {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://www.cls.cn/detail/2342895",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
+        },
+        {
           "title": "中国计划向伊朗提供武器？外交部回应",
           "url": "https://www.cls.cn/detail/2342212",
           "source": "财联社热门",
@@ -273,18 +286,6 @@
           "time_info": "[13时04分 ~ 13时05分]"
         },
         {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://www.cls.cn/detail/2342895",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
-        },
-        {
           "title": "伊朗战争丨万斯：与伊朗的谈判取得很大进展",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -302,9 +303,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "伊朗战争丨美封锁进出伊朗港口船只，中方发声",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗驻印度大使：途经霍尔木兹海峡的印度油轮未向伊朗缴纳过通行费",
@@ -324,7 +336,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -342,6 +354,17 @@
           "time_info": "[00时57分 ~ 06时51分]"
         },
         {
+          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2027155979582666052",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：若冲突继续将启用新作战方法",
           "url": "https://flash.jin10.com/detail/20260414013059608800",
           "source": "金十数据",
@@ -351,6 +374,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "伊朗外交官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://flash.jin10.com/detail/20260414162316016800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "伊朗要求5个中东国家赔偿战争损失",
+          "url": "https://news.ifeng.com/c/8sJCH8ewfNf",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
         },
         {
           "title": "伊朗要求巴林、沙特阿拉伯等五个中东国家赔偿战争损失",
@@ -376,15 +422,29 @@
           "time_info": "[00时57分 ~ 05时41分]"
         },
         {
-          "title": "美军已开始对进出霍尔木兹海峡的船只进行阻截，封锁所有伊朗港口的船只，此举将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2027155979582666052",
-          "source": "知乎",
+          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
+          "url": "https://news.ifeng.com/c/8sJELruMtAL",
+          "source": "凤凰网",
           "ranks": [
-            6
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027200224586720879",
+          "source": "知乎",
+          "ranks": [
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
         },
         {
           "title": "美国与伊朗现在继续沟通。 在试图达成协议方面，两国取得进展。（Axios）",
@@ -397,18 +457,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时58分]"
-        },
-        {
-          "title": "伊朗要求5个中东国家赔偿战争损失",
-          "url": "https://news.ifeng.com/c/8sJCH8ewfNf",
-          "source": "凤凰网",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
         },
         {
           "title": "伊朗官员：全国20个省份约140处历史古迹受损",
@@ -472,16 +520,28 @@
           "time_info": "[04时45分 ~ 06时51分]"
         },
         {
-          "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
-          "url": "https://news.ifeng.com/c/8sJELruMtAL",
-          "source": "凤凰网",
+          "title": "超5万美军登陆伊朗系谣言",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
+          "time_info": "[13时04分 ~ 16时39分]"
+        },
+        {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时39分]"
         },
         {
           "title": "伊朗要求五个中东国家赔偿战争损失",
@@ -522,18 +582,6 @@
           "time_info": "[09时54分 ~ 14时41分]"
         },
         {
-          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027200224586720879",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
-        },
-        {
           "title": "伊朗要求五个中东国家赔偿战争损失",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E4%BA%94%E4%B8%AA%E4%B8%AD%E4%B8%9C%E5%9B%BD%E5%AE%B6%E8%B5%94%E5%81%BF%E6%88%98%E4%BA%89%E6%8D%9F%E5%A4%B1",
           "source": "百度热搜",
@@ -558,29 +606,6 @@
           "time_info": "[13时04分 ~ 14时41分]"
         },
         {
-          "title": "超5万美军登陆伊朗系谣言",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时41分]"
-        },
-        {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时41分]"
-        },
-        {
           "title": "伊朗：若冲突继续将启用新作战方法",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%8B%A5%E5%86%B2%E7%AA%81%E7%BB%A7%E7%BB%AD%E5%B0%86%E5%90%AF%E7%94%A8%E6%96%B0%E4%BD%9C%E6%88%98%E6%96%B9%E6%B3%95",
           "source": "百度热搜",
@@ -591,6 +616,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时54分 ~ 13时05分]"
+        },
+        {
+          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
+          "url": "https://wallstreetcn.com/articles/3769898",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 16时39分]"
         },
         {
           "title": "伊朗外交部强烈谴责以官员闯入阿克萨清真寺大院行为",
@@ -677,6 +714,18 @@
           "time_info": "[04时46分 ~ 05时41分]"
         },
         {
+          "title": "伊朗放重磅信号",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 16时39分]"
+        },
+        {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
           "url": "https://wallstreetcn.com/livenews/3087094",
           "source": "华尔街见闻-快讯",
@@ -689,13 +738,35 @@
           "time_info": "[01时58分 ~ 03时21分]"
         },
         {
+          "title": "中方回应美方封锁进出伊朗港口船只",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%96%B9%E5%B0%81%E9%94%81%E8%BF%9B%E5%87%BA%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E8%88%B9%E5%8F%AA",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "美封锁伊朗海上交通影响几何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "伊朗称石油出口一天也未中断",
           "url": "https://flash.jin10.com/detail/20260414142811493800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -722,15 +793,15 @@
           "time_info": "06时51分"
         },
         {
-          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
-          "url": "https://wallstreetcn.com/articles/3769898",
-          "source": "华尔街见闻",
+          "title": "外交部：美方若以涉伊朗为借口对华加征关税，中方必将坚决反制",
+          "url": "https://www.cls.cn/detail/2343446",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时41分"
+          "time_info": "16时39分"
         },
         {
           "title": "万斯透露谈判细节：谈判僵局在于伊朗授权不足",
@@ -750,7 +821,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -797,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时51分"
+        },
+        {
+          "title": "美以袭击已致伊朗损失2700亿美元",
+          "url": "https://www.toutiao.com/trending/7628206506252570148/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗要求五个中东国家赔偿损失",
@@ -876,6 +958,28 @@
           "time_info": "00时58分"
         },
         {
+          "title": "伊朗外交官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://wallstreetcn.com/livenews/3087556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "伊朗公布美以袭击造成的海上损失，提到导致包括 277 名学生在内的超 3000 名平民死亡，如何评价这一数据？",
+          "url": "https://www.zhihu.com/question/2027381581552055411",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "美媒：美国要求伊朗暂停铀浓缩20年 伊朗希望暂停期限更短",
           "url": "https://flash.jin10.com/detail/20260414001552288800",
           "source": "金十数据",
@@ -920,6 +1024,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "伊朗驻巴基斯坦大使馆官员表示，美伊新一轮谈判可能于本周或下周初举行。",
+          "url": "https://flash.jin10.com/detail/20260414161302873800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "据知情人士透露，刚果铜矿与钴矿行业降低化学品的使用量，美国和以色列发动的伊朗战争干扰到供应。（路透）",
           "url": "https://wallstreetcn.com/livenews/3087073",
           "source": "华尔街见闻-快讯",
@@ -959,7 +1074,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -992,7 +1107,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1052,17 +1167,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "伊朗放重磅信号",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E9%87%8D%E7%A3%85%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
-        },
-        {
           "title": "国际能源署署长比罗尔：伊朗战争已导致80多座石油和天然气设施受损，其中包括生产设施、终端和炼油厂。",
           "url": "https://flash.jin10.com/detail/20260414005409413800",
           "source": "金十数据",
@@ -1072,6 +1176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "IEA：原油需求或因伊朗战争而萎缩，出口恢复稳定需两个月",
+          "url": "https://flash.jin10.com/detail/20260414160930881800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "伊朗外交部：美方“不断变卦”，导致双方未能达成协议",
@@ -1102,16 +1217,39 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
+        },
+        {
+          "title": "美封锁伊朗海上交通 专家：风险高、难度大",
+          "url": "https://wallstreetcn.com/livenews/3087535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 67,
       "titles": [
+        {
+          "title": "特朗普：伊朗致电美方说希望达成协议",
+          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时45分 ~ 16时39分]"
+        },
         {
           "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
           "url": "https://wallstreetcn.com/articles/3769785",
@@ -1123,18 +1261,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普：伊朗致电美方说希望达成协议",
-          "url": "https://news.ifeng.com/c/8sIkl2LlAOK",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时45分 ~ 14时41分]"
         },
         {
           "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
@@ -1170,8 +1296,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 14时41分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 16时39分]"
         },
         {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
@@ -1253,6 +1379,18 @@
           "time_info": "[00时57分 ~ 07时37分]"
         },
         {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
+        },
+        {
           "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
           "url": "https://www.cls.cn/detail/2342301",
           "source": "财联社热门",
@@ -1279,18 +1417,6 @@
           "time_info": "[00时57分 ~ 06时51分]"
         },
         {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
-        },
-        {
           "title": "【早报】中办、国办：推动行业协会商会深化改革；特朗普：已对所有进出伊朗港口船只实施封锁",
           "url": "https://www.cls.cn/detail/2342892",
           "source": "财联社热门",
@@ -1301,6 +1427,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时37分 ~ 14时41分]"
+        },
+        {
+          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
+          "url": "https://www.cls.cn/detail/2342938",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
         },
         {
           "title": "伊朗强硬回应特朗普封锁威胁",
@@ -1350,6 +1489,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "特朗普发了一张图，让西方大吃一惊",
+          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时54分 ~ 16时39分]"
+        },
+        {
           "title": "美国财政部长贝森特在一份声明中表示，特朗普总统计划提名艾琳・布朗出任财政部国际事务副部长。布朗为现任太平洋投资管理公司董事总经理兼投资组合经理。",
           "url": "https://flash.jin10.com/detail/20260414071808772800",
           "source": "金十数据",
@@ -1371,17 +1521,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时57分 ~ 03时21分]"
-        },
-        {
-          "title": "特朗普发了一张图，让西方大吃一惊",
-          "url": "https://news.ifeng.com/c/8sJFcW7Qqjq",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
         },
         {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
@@ -1418,18 +1557,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时51分]"
-        },
-        {
-          "title": "特朗普“封锁令”已生效！资深交易员：美汽油价格或很快突破5美元",
-          "url": "https://www.cls.cn/detail/2342938",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 14时41分]"
         },
         {
           "title": "美联邦法官驳回特朗普对《华尔街日报》的诽谤诉讼",
@@ -1500,8 +1627,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时41分]"
+          "appearance_count": 4,
+          "time_info": "[13时04分 ~ 16时39分]"
         },
         {
           "title": "特朗普：伊朗“合适的人”致电说“希望达成协议”",
@@ -1526,6 +1653,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 01时58分]"
+        },
+        {
+          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2027301230691596085",
+          "source": "知乎",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 16时39分]"
         },
         {
           "title": "特朗普：伊朗致电美方说希望达成协议",
@@ -1561,6 +1700,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 16时39分]"
         },
         {
           "title": "特朗普：前一天有34艘船只通过霍尔木兹海峡",
@@ -1637,7 +1788,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },
@@ -1651,17 +1802,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
-        },
-        {
-          "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2027301230691596085",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "特朗普抨击纽约时报是假新闻。",
@@ -1686,6 +1826,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "伊朗官员：特朗普“摧毁”伊朗文明的言论是个“笑话”",
+          "url": "https://wallstreetcn.com/livenews/3087551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "特朗普再次威胁古巴",
           "url": "https://flash.jin10.com/detail/20260414021714668800",
           "source": "金十数据",
@@ -1695,17 +1846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普确认美军已开始封锁伊朗：美国不需要霍尔木兹海峡，是世界需要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964974",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
         },
         {
           "title": "伊朗媒体：特朗普声称“34艘船只通过霍尔木兹海峡”说法不实",
@@ -1763,6 +1903,17 @@
           "time_info": "01时58分"
         },
         {
+          "title": "特朗普在白宫摆拍点外卖",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E7%99%BD%E5%AE%AB%E6%91%86%E6%8B%8D%E7%82%B9%E5%A4%96%E5%8D%96%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "特朗普暗示停火结束后或继续对伊朗采取行动",
           "url": "https://flash.jin10.com/detail/20260414010217537800",
           "source": "金十数据",
@@ -1805,6 +1956,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "伊朗官员：特朗普“摧毁”伊朗文明的言论是个“笑话”",
+          "url": "https://flash.jin10.com/detail/20260414161007192800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "特朗普：不会接受任何允许伊朗拥有核武器的协议",
@@ -1857,7 +2019,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -2032,6 +2194,60 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "《王者荣耀世界》为什么刚开服就被大多数玩家吐槽，这款游戏的问题到底出在哪里？",
+          "url": "https://www.zhihu.com/question/2026328659154285282",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 07时37分]"
+        },
+        {
+          "title": "我发现其实挺多单机游戏通关后是没有新增什么内容的，为什么还有大量玩家愿意二周目、三周目重复游玩？",
+          "url": "https://www.zhihu.com/question/1992694701514564466",
+          "source": "知乎",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时54分 ~ 13时05分]"
+        },
+        {
+          "title": "识质存在游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时04分 ~ 13时05分]"
+        },
+        {
+          "title": "如何看待《炉石传说》职业选手 Brox 于线上开启付费游戏教学，标价 500 元每小时？",
+          "url": "https://www.zhihu.com/question/2025731217257951248",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -2084,49 +2300,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "《王者荣耀世界》为什么刚开服就被大多数玩家吐槽，这款游戏的问题到底出在哪里？",
-          "url": "https://www.zhihu.com/question/2026328659154285282",
-          "source": "知乎",
-          "ranks": [
-            13,
-            10,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时57分 ~ 07时37分]"
-        },
-        {
-          "title": "我发现其实挺多单机游戏通关后是没有新增什么内容的，为什么还有大量玩家愿意二周目、三周目重复游玩？",
-          "url": "https://www.zhihu.com/question/1992694701514564466",
-          "source": "知乎",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时54分 ~ 13时05分]"
-        },
-        {
-          "title": "识质存在游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%86%E8%B4%A8%E5%AD%98%E5%9C%A8%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时05分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -2149,7 +2322,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         },

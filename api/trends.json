@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T05:45:05.920157+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-04-23T06:41:49.270784+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普延长与伊朗停火，外交部回应",
@@ -15,20 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
-        },
-        {
-          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "据称特朗普将再给伊朗3至5天停火时间",
@@ -39,8 +27,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
+        },
+        {
+          "title": "“特朗普总是临阵脱逃”：TACO背后的股市反常繁荣和内幕交易争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33019660",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
@@ -65,6 +66,18 @@
           "time_info": "[04时45分 ~ 05时45分]"
         },
         {
+          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
+        },
+        {
           "title": "伊朗战争丨伊朗否认举行美伊新谈判：特朗普又说谎了",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -76,16 +89,17 @@
           "time_info": "[00时52分 ~ 01时55分]"
         },
         {
-          "title": "释新闻｜特朗普TACO实录：嘴硬说要打伊朗，身体又按了暂停键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33025797",
-          "source": "澎湃新闻",
+          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
+          "url": "https://wallstreetcn.com/articles/3770634",
+          "source": "华尔街见闻",
           "ranks": [
-            16,
-            17
+            9,
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 06时41分]"
         },
         {
           "title": "美媒：特朗普再给伊朗3至5天停火时间",
@@ -110,19 +124,6 @@
           "time_info": "[00时52分 ~ 00时53分]"
         },
         {
-          "title": "特朗普称最快周五或重启美伊和谈，伊朗称他“又说谎”，以媒称停火期26日结束",
-          "url": "https://wallstreetcn.com/articles/3770634",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 05时45分]"
-        },
-        {
           "title": "伊朗战争丨以媒：特朗普设定对伊停火期限26日结束",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -134,6 +135,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "伊朗战争丨特朗普：何时结束冲突，目前没有时间表",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "美国总统特朗普：“在理智和常识问题上，你不能妥协！”",
           "url": "https://flash.jin10.com/detail/20260423025533427800",
           "source": "金十数据",
@@ -143,17 +155,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
-          "url": "https://wallstreetcn.com/livenews/3092859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "据伊朗司法机构旗下网站Mizan News：伊朗否认特朗普关于停止处决女性囚犯的说法。",
@@ -173,9 +174,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "John Phelan已经从美国海军部长岗位被（特朗普政府）免职。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3092875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "SpaceX参与开发美国总统特朗普所谓“金穹”反导系统的操作系统。（彭博）",
@@ -211,6 +223,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时03分]"
+        },
+        {
+          "title": "特朗普：何时结束同伊朗冲突目前“没有时间表”",
+          "url": "https://wallstreetcn.com/livenews/3092859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
         },
         {
           "title": "美国总统特朗普：共和党必须团结一致，推动和解法案的通过。",
@@ -249,6 +273,18 @@
           "time_info": "[01时55分 ~ 03时03分]"
         },
         {
+          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
+          "url": "https://wallstreetcn.com/livenews/3092848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
           "title": "美国总统特朗普：昨晚在弗吉尼亚州发生了一场被操纵的选举！一整天共和党人都处于领先，势头令人难以置信，直到最后关头，果不其然，出现了大规模的“邮寄选票投递”！",
           "url": "https://flash.jin10.com/detail/20260423013625710800",
           "source": "金十数据",
@@ -269,17 +305,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "报道：特朗普特使企图寻求在世界杯中用意大利取代伊朗",
-          "url": "https://wallstreetcn.com/livenews/3092848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时45分"
         },
         {
           "title": "预测市场显示 特朗普面临弹劾的风险持续攀升",
@@ -324,6 +349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        },
+        {
+          "title": "五角大楼：美国海军部长John Phelan退出总统特朗普的政府，将由副部长Hung Cao接替。",
+          "url": "https://wallstreetcn.com/livenews/3092860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "据耶路撒冷邮报：以色列官员已接到美方官员通报，特朗普政府已将停火谈判的最后期限延长至周日。",
@@ -396,8 +432,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "伊朗议长：取消海上封锁，全面停火才有意义",
@@ -407,8 +443,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 06时41分]"
         },
         {
           "title": "泽连斯基：在伊朗问题解决前，乌克兰谈判不会取得任何进展",
@@ -418,8 +454,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时03分 ~ 05时45分]"
+          "appearance_count": 6,
+          "time_info": "[03时03分 ~ 06时41分]"
         },
         {
           "title": "伊朗代表团亮相亚沙会开幕式",
@@ -430,11 +466,34 @@
             9,
             16,
             22,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "伊朗基本物资供应为何不受封锁影响",
@@ -446,28 +505,6 @@
             17,
             18,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
-        },
-        {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -546,9 +583,22 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
+        },
+        {
+          "title": "伊朗同意暂停军事战斗",
+          "url": "https://www.toutiao.com/trending/7631352803570748954/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时45分 ~ 06时41分]"
         },
         {
           "title": "泽连斯基：在伊朗战事结束前俄乌和谈难有进展",
@@ -561,18 +611,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时03分]"
-        },
-        {
-          "title": "伊朗同意暂停军事战斗",
-          "url": "https://www.toutiao.com/trending/7631352803570748954/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时45分 ~ 05时45分]"
         },
         {
           "title": "白宫顾问哈塞特宣称：在美国和以色列挑起伊朗战争之前，美方获得关于伊朗正（谋求）获取11枚核弹的威胁。",
@@ -654,7 +692,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时45分"
         },
@@ -772,7 +810,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -784,8 +822,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "地缘缓和叠加强劲财报，美股指高开，费城半导体指数连续第16天上涨，布油重回100美元、黄金涨幅回落",
@@ -808,8 +846,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "IBM(IBM.N)美股盘后跌8%。",
@@ -872,6 +910,18 @@
           "time_info": "[04时46分 ~ 05时45分]"
         },
         {
+          "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
+          "url": "https://wallstreetcn.com/livenews/3092846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 06时41分]"
+        },
+        {
           "title": "特斯拉(TSLA.O)美股盘后涨3%。",
           "url": "https://flash.jin10.com/detail/20260423040428719800",
           "source": "金十数据",
@@ -895,6 +945,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美股收盘：纳指涨1.64%创历史新高 中东停火延长及稳健财报提振市场情绪",
+          "url": "https://www.cls.cn/detail/2352859",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
           "title": "金十图示：2026年04月22日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260423003117950800",
           "source": "金十数据",
@@ -906,15 +967,48 @@
           "time_info": "00时53分"
         },
         {
-          "title": "周三（4月22日），美股存储芯片与硬件供应链指数涨4.27%，报144.77点，创收盘历史新高。 信息科技指数涨2.79%，报333.55点，创收盘历史新高。 人工智能（AI）赢家指数涨3.38%，报351.50点。 AI软件先驱指数涨2.64%，报102.66点。",
-          "url": "https://wallstreetcn.com/livenews/3092846",
+          "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3092868",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时45分"
+          "time_info": "06时41分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)美股盘后涨幅被抹平，此前一度涨超4.5%。",
+          "url": "https://flash.jin10.com/detail/20260423060230487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "特斯拉美股盘后涨幅迅速收窄至1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3092865",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "德州仪器（TXN）美股盘后维持上涨大约11%的表现。",
+          "url": "https://wallstreetcn.com/livenews/3092864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时41分"
         },
         {
           "title": "美股收盘：标普500、纳指创收盘新高",
@@ -1038,8 +1132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "游戏厂商叫苦:离线版成本太高",
@@ -1049,8 +1143,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "游戏侵权案告破,嫌犯全部落网",
@@ -1060,8 +1154,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         }
       ]
     },
@@ -1120,8 +1214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 05时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 06时41分]"
         },
         {
           "title": "阿里等巨头洽谈投资DeepSeek",

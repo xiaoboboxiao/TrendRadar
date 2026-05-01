@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T18:18:52.293190+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-05-01T19:54:17.202376+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -45,8 +45,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时02分 ~ 18时18分]"
+          "appearance_count": 13,
+          "time_info": "[05时02分 ~ 19时54分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -85,6 +85,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时12分 ~ 14时10分]"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 19时54分]"
         },
         {
           "title": "还是不解气，特朗普又炮轰默茨",
@@ -141,18 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 01时13分]"
-        },
-        {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 18时18分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -278,6 +278,17 @@
           "time_info": "[05时52分 ~ 07时45分]"
         },
         {
+          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
+          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时54分]"
+        },
+        {
           "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
           "url": "https://wallstreetcn.com/livenews/3097712",
           "source": "华尔街见闻-快讯",
@@ -350,22 +361,23 @@
           "time_info": "[05时51分 ~ 06时45分]"
         },
         {
+          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗战争丨特朗普晒图：霍尔木兹海峡被更名为“特朗普海峡”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 18时18分]"
-        },
-        {
-          "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
-          "url": "https://news.ifeng.com/c/8slyIPscfsJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -440,6 +452,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
+        },
+        {
+          "title": "郑丽文拟访美盼见特朗普，黄国昌回应",
+          "url": "https://news.ifeng.com/c/8sm9eTtZoPK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
         },
         {
           "title": "特朗普：只有少数人知晓美伊谈判实际进展",
@@ -554,15 +577,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33084769",
-          "source": "澎湃新闻",
+          "title": "埃克森美孚和雪佛龙顶住美国总统特朗普施压，拒绝提高石油产量。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097875",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时18分"
+          "time_info": "19时54分"
         },
         {
           "title": "美国总统特朗普致电伊拉克总理提名人阿里·扎伊迪，邀请他在组建新政府后前往华盛顿。",
@@ -645,7 +668,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
@@ -656,8 +679,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 18时18分]"
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 19时54分]"
         },
         {
           "title": "伊朗最高领袖、总统、议长、外长、革命卫队密集发声",
@@ -667,8 +690,42 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 18时18分]"
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时54分]"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时09分 ~ 19时54分]"
+        },
+        {
+          "title": "土耳其外交消息人士：土耳其外交部长在与伊朗外长的通话中讨论了美伊谈判的最新情况。",
+          "url": "https://flash.jin10.com/detail/20260501192240316800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗外长与多国外长通话 通报结束战争最新立场",
+          "url": "https://wallstreetcn.com/livenews/3097890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
@@ -765,6 +822,19 @@
           "time_info": "[05时02分 ~ 05时52分]"
         },
         {
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗称最高领袖身体健康",
           "url": "https://wallstreetcn.com/livenews/3097843",
           "source": "华尔街见闻-快讯",
@@ -777,18 +847,6 @@
           "time_info": "[16时56分 ~ 18时18分]"
         },
         {
-          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时09分 ~ 18时18分]"
-        },
-        {
           "title": "伊朗战争丨美官员：伊朗战事成本或为官方披露的两倍",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -798,6 +856,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时45分 ~ 10时26分]"
+        },
+        {
+          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
+          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时54分]"
         },
         {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
@@ -833,6 +902,17 @@
           "time_info": "[14时09分 ~ 14时10分]"
         },
         {
+          "title": "伊朗战争丨伊朗司法部长：伊方从未离开谈判桌 但也不害怕战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时53分 ~ 19时54分]"
+        },
+        {
           "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
           "url": "https://news.ifeng.com/c/8slUlo0THc1",
           "source": "凤凰网",
@@ -842,18 +922,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 14时10分]"
-        },
-        {
-          "title": "伊朗总统：美国海上封锁“不可容忍”",
-          "url": "https://www.toutiao.com/trending/7633995165912465444/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 18时18分]"
         },
         {
           "title": "美辩称袭击伊朗系“自卫” 伊朗怒斥：赤裸裸的侵略",
@@ -956,7 +1024,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -978,18 +1046,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
-          "url": "https://news.ifeng.com/c/8sm4vXslE7P",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1022,7 +1079,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1033,7 +1090,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1066,7 +1123,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1077,7 +1134,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1099,7 +1156,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
@@ -1170,6 +1227,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "伊朗外交部：伊朗外交部长阿拉格齐与欧盟外交与安全政策高级代表拉斯于周五上午进行了电话交谈，就最新的地区和国际局势发展交换了意见。",
+          "url": "https://flash.jin10.com/detail/20260501184624753800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
           "url": "https://wallstreetcn.com/livenews/3097818",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1252,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "经济数据与财报提振市场情绪，美股高开，日元跳涨，油价高位回落，金银上涨",
@@ -1197,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时12分 ~ 05时52分]"
+        },
+        {
+          "title": "苹果美股盘前涨幅扩大至逾4%。",
+          "url": "https://wallstreetcn.com/livenews/3097892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "苹果公司第二财季营收1111.8亿美元，分析师预期1096.6亿美元。 第二财季产品营收802.1亿美元，分析师预期81.3亿美元。 第二财季iPhone营收569.9亿美元，创历史新高，分析师预期569.8亿美元。 第二财季iPad营收69.1亿美元，分析师预期66.5亿美元。 第二财季Mac营收84亿美元，分析师预期81.3亿美元。 第二财季可穿戴设备、居家、周边营收79亿美元，分析师预期77.2亿美元。 第二财季服务营收309.8亿美元，分析师预期303.7亿美元。 第二财季美国营收450.9亿美元，分析师预期458.2亿美元。 第二财季大中华区营收205亿美元，分析师预期189.1亿美元。 第二财季每股收益（EPS）为2.01美元，分析师预期1.96美元。 苹果美股盘后涨0.6%，瞬间转而跌超1.2%，随后又迅速转而涨超1%。",
@@ -1317,6 +1396,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "埃克森美孚第一季度收入及其他收益851.4亿美元。 第一季度调整后每股收益1.16美元，预估0.96美元。 埃克森美孚美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260501040538457800",
           "source": "金十数据",
@@ -1372,6 +1462,17 @@
           "time_info": "16时56分"
         },
         {
+          "title": "雪佛龙第一季度调整后每股收益1.41美元，预估为90美分。 第一季度营收及其他收入486.1亿美元，预期506.1亿美元。 雪佛龙美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3097869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "新闻交易员：油价都三位数了，美股还在笑，究竟谁在扛雷？",
           "url": "https://flash.jin10.com/detail/20260501084240798800",
           "source": "金十数据",
@@ -1381,6 +1482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "雅诗兰黛美股盘前涨超10%，公司第三财季财报好于预期",
+          "url": "https://wallstreetcn.com/livenews/3097866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "美股盘前，闪迪跌约5%，西部数据跌约7%，苹果涨约3%",
@@ -1409,8 +1521,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时45分 ~ 18时18分]"
+          "appearance_count": 10,
+          "time_info": "[06时45分 ~ 19时54分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时45分 ~ 19时54分]"
         },
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -1424,19 +1549,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时12分 ~ 07时45分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时45分 ~ 18时18分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1464,6 +1576,19 @@
           "time_info": "[01时12分 ~ 05时52分]"
         },
         {
+          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
+          "url": "https://wallstreetcn.com/articles/3771450",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时54分]"
+        },
+        {
           "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
@@ -1486,18 +1611,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时45分 ~ 10时26分]"
-        },
-        {
-          "title": "谷歌“历史最大涨幅”、英伟达反而大跌！高盛资深半导体分析师建议“做多云、减持芯片”",
-          "url": "https://wallstreetcn.com/articles/3771450",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 18时18分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -1558,11 +1671,12 @@
             3,
             7,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 18时18分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 19时54分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1803,6 +1917,19 @@
           "time_info": "[05时02分 ~ 07时45分]"
         },
         {
+          "title": "孙杨玩游戏真打了范明一耳光",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时56分 ~ 19时54分]"
+        },
+        {
           "title": "独立游戏会不会出现饱和状态?",
           "url": "https://www.zhihu.com/question/1973121218904355991",
           "source": "知乎",
@@ -1813,18 +1940,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 05时52分]"
-        },
-        {
-          "title": "孙杨玩游戏真打了范明一耳光",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 18时18分]"
         }
       ]
     },
@@ -1845,6 +1960,18 @@
           "time_info": "[01时12分 ~ 06时45分]"
         },
         {
+          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
+          "url": "https://wallstreetcn.com/articles/3771452",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 19时54分]"
+        },
+        {
           "title": "周四（4月30日）纽约尾盘，美国10年期基准国债收益率下跌6.11个基点，刷新日低至4.3686%，4月份累计上涨5.41个基点，整体交投于4.2243%-4.4339%区间，4月17日跳水至期内底部，随后持续回升。 两年期美债收益率下跌8.20个基点，刷新日低至3.8648%，4月份累涨7.59个基点，整体交投于3.6768%-3.9510%区间。",
           "url": "https://wallstreetcn.com/livenews/3097736",
           "source": "华尔街见闻-快讯",
@@ -1855,17 +1982,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时45分]"
-        },
-        {
-          "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
-          "url": "https://wallstreetcn.com/articles/3771452",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时18分"
         }
       ]
     },

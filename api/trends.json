@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T17:59:54.510201+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-05-02T18:54:30.795490+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 105,
+      "match_count": 106,
       "titles": [
         {
           "title": "根据53年前颁布的这项法案，今天以后特朗普还能继续打伊朗吗？",
@@ -30,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 17时59分]"
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 18时54分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -105,8 +105,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时54分]"
         },
         {
           "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
@@ -116,8 +116,33 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 18时54分]"
+        },
+        {
+          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://www.cls.cn/detail/2362026",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 18时54分]"
+        },
+        {
+          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
+          "url": "https://wallstreetcn.com/articles/3771461",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时03分 ~ 17时59分]"
+          "time_info": "[13时31分 ~ 18时54分]"
         },
         {
           "title": "特朗普称，伊朗最新方案让人不满意。WTI原油5分钟内上涨0.67美元/桶，报101.72美元/桶。",
@@ -131,16 +156,19 @@
           "time_info": "00时49分"
         },
         {
-          "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://www.cls.cn/detail/2362026",
-          "source": "财联社热门",
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            11
+            15,
+            12,
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时03分 ~ 17时59分]"
+          "time_info": "[13时31分 ~ 18时54分]"
         },
         {
           "title": "郑丽文希望去美国见特朗普，黄国昌回应",
@@ -198,6 +226,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-02）",
+          "url": "https://flash.jin10.com/detail/20260502182311552800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
+        },
+        {
           "title": "美国总统特朗普：我们正在考虑对精神航空进行救助。",
           "url": "https://flash.jin10.com/detail/20260502003026056800",
           "source": "金十数据",
@@ -231,18 +270,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时45分 ~ 10时03分]"
-        },
-        {
-          "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
-          "url": "https://wallstreetcn.com/articles/3771461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时59分]"
         },
         {
           "title": "美国总统特朗普：将会对那些想要拥有核武器的国家采取措施。",
@@ -301,18 +328,18 @@
           "time_info": "[03时01分 ~ 05时45分]"
         },
         {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
+          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
+          "url": "https://wallstreetcn.com/livenews/3098122",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            12,
-            11,
-            10
+            4,
+            17,
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时59分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 18时54分]"
         },
         {
           "title": "特朗普声称伊朗领导层“四分五裂” 但都想达成协议",
@@ -337,19 +364,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时53分 ~ 03时02分]"
-        },
-        {
-          "title": "特朗普支持率低迷 共和党冲刺“重划选区”",
-          "url": "https://wallstreetcn.com/livenews/3098122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 17时59分]"
         },
         {
           "title": "特朗普暗示不会就持续对伊朗军事行动寻求国会批准",
@@ -396,6 +410,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时43分 ~ 07时45分]"
+        },
+        {
+          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
+          "url": "https://news.ifeng.com/c/8snecDmwXXq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时54分]"
+        },
+        {
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时54分]"
         },
         {
           "title": "知情人士透露，特朗普政府与精神航空控股公司（Spirit Aviation Holdings Inc.）之间的谈判已经结束，未能达成救助这家陷入困境的航空公司的协议。上述人士表示，该航司正准备在纽约时间周六凌晨3点左右停止运营。（彭博）",
@@ -482,17 +519,6 @@
           "time_info": "[00时49分 ~ 01时53分]"
         },
         {
-          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
-          "url": "https://news.ifeng.com/c/8snecDmwXXq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
-        },
-        {
           "title": "特朗普称访华行程将会非常精彩",
           "url": "https://www.douyin.com/hot/2486273",
           "source": "抖音",
@@ -514,18 +540,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时31分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”，美军最大航母“福特”号离开中东",
@@ -1245,8 +1259,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 17时59分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 18时54分]"
         },
         {
           "title": "以军：如果不能移除伊朗的浓缩铀，就是“巨大的失败”",
@@ -1257,8 +1271,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[03时01分 ~ 17时59分]"
+          "appearance_count": 15,
+          "time_info": "[03时01分 ~ 18时54分]"
         },
         {
           "title": "美辩称袭击伊朗系“自卫”，伊朗怒斥",
@@ -1280,8 +1294,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时22分 ~ 17时59分]"
+          "appearance_count": 5,
+          "time_info": "[15时22分 ~ 18时54分]"
         },
         {
           "title": "美以袭击伊朗进入第 64 天，当前局势如何？还有哪些信息值得关注？",
@@ -1291,8 +1305,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时44分 ~ 17时59分]"
+          "appearance_count": 9,
+          "time_info": "[07时44分 ~ 18时54分]"
         },
         {
           "title": "伊朗递交最新谈判方案",
@@ -1440,6 +1454,20 @@
           "time_info": "[00时49分 ~ 01时53分]"
         },
         {
+          "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
+          "url": "https://wallstreetcn.com/livenews/3098119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 18时54分]"
+        },
+        {
           "title": "惠誉：确认阿布扎比评级为“AA”；展望稳定。 稳定的展望反映了石油出口收入在伊朗战争期间的韧性，这显著抵消了战争带来的负面影响。 伊朗战争结束后，我们预计政府将推出旨在振兴非石油经济的支持计划。",
           "url": "https://wallstreetcn.com/livenews/3098063",
           "source": "华尔街见闻-快讯",
@@ -1487,17 +1515,30 @@
           "time_info": "[00时49分 ~ 04时43分]"
         },
         {
-          "title": "伊朗高级军事官员：伊美间再次爆发军事冲突可能性很大",
-          "url": "https://wallstreetcn.com/livenews/3098119",
+          "title": "伊朗宣布处决两名向以色列提供情报的间谍",
+          "url": "https://wallstreetcn.com/livenews/3098131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            20,
-            23
+            8,
+            11,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时23分 ~ 17时59分]"
+          "time_info": "[16时59分 ~ 18时54分]"
+        },
+        {
+          "title": "伊朗透露最高领袖身体状况",
+          "url": "https://www.toutiao.com/trending/7634841070266368054/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时54分]"
         },
         {
           "title": "美国封锁给伊朗造成48亿美元代价。（Axios）",
@@ -1510,6 +1551,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时45分 ~ 07时45分]"
+        },
+        {
+          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时54分]"
         },
         {
           "title": "伊朗：外长与欧盟外交政策负责任通电话。",
@@ -1570,30 +1624,6 @@
           "time_info": "[03时02分 ~ 04时43分]"
         },
         {
-          "title": "伊朗宣布处决两名向以色列提供情报的间谍",
-          "url": "https://wallstreetcn.com/livenews/3098131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
-        },
-        {
-          "title": "伊朗透露最高领袖身体状况",
-          "url": "https://www.toutiao.com/trending/7634841070266368054/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
-        },
-        {
           "title": "据AXIOS：美国国防部估计美国封锁已使伊朗损失48亿美元。",
           "url": "https://flash.jin10.com/detail/20260502080556644800",
           "source": "金十数据",
@@ -1604,18 +1634,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时03分 ~ 13时31分]"
-        },
-        {
-          "title": "伊朗向巴基斯坦提交伊美谈判最新方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33090851",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
         },
         {
           "title": "伊朗外长称仍愿同美国外交对话",
@@ -1995,7 +2013,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -2149,6 +2167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
+        },
+        {
+          "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
+          "url": "https://www.cls.cn/detail/2362019",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时54分"
         }
       ]
     },
@@ -2265,6 +2294,18 @@
           "time_info": "[13时31分 ~ 15时23分]"
         },
         {
+          "title": "DeepSeek拟人 哇呀啧呜哇",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时59分 ~ 18时54分]"
+        },
+        {
           "title": "Claude画的DeepSeek蓝胖鱼",
           "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -2274,18 +2315,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 15时23分]"
-        },
-        {
-          "title": "DeepSeek拟人 哇呀啧呜哇",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时59分 ~ 17时59分]"
         }
       ]
     },
@@ -2302,8 +2331,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时59分]"
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时54分]"
+        },
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时31分 ~ 18时54分]"
         },
         {
           "title": "马斯克承认蒸馏ChatGPT",
@@ -2318,26 +2359,16 @@
           "time_info": "[13时31分 ~ 15时23分]"
         },
         {
-          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
-          "url": "https://www.zhihu.com/question/2033267772931749457",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时31分 ~ 17时59分]"
-        },
-        {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
           "url": "https://flash.jin10.com/detail/20260502172401507800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时59分 ~ 18时54分]"
         }
       ]
     },
@@ -2466,7 +2497,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时59分"
         }

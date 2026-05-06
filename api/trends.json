@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T07:46:04.896388+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-05-06T10:07:49.787223+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "美防长：与伊朗的停火尚未结束",
@@ -37,22 +37,24 @@
             11,
             10,
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "伊朗外长阿拉格齐 5 月 6 日访华，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2035083404564285179",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "【早报】伊朗称“击中了一艘美军舰”，美军否认；豆包将推出付费订阅版本",
@@ -65,6 +67,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时46分]"
+        },
+        {
+          "title": "伊朗外长阿拉格齐启程访华",
+          "url": "https://www.douyin.com/hot/2489450",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26,
+            18,
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "伊朗向美舰发射导弹视频曝光",
@@ -104,25 +121,12 @@
             19,
             12,
             13,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
-        },
-        {
-          "title": "伊朗外长阿拉格齐启程访华",
-          "url": "https://www.douyin.com/hot/2489450",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
@@ -132,8 +136,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时07分]"
+        },
+        {
+          "title": "【早报】鲁比奥确认：对伊朗“史诗怒火”军事行动已结束；伊朗外长今日访华",
+          "url": "https://www.cls.cn/detail/2363208",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "伊朗战争丨美媒：海湾地区一货船疑遭导弹袭击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "伊朗德黑兰省一商场发生火灾致8死36伤",
@@ -142,9 +168,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "“严厉训斥、愤怒回击”，美英财长为伊朗战事当面交锋",
+          "url": "https://news.ifeng.com/c/8st8jNjoFNK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "伊朗德黑兰省一商场发生火灾致8死36伤",
@@ -153,7 +190,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -239,6 +276,18 @@
           "time_info": "[06时53分 ~ 07时46分]"
         },
         {
+          "title": "美称对伊军事行动结束 伊朗否认",
+          "url": "https://www.toutiao.com/trending/7636544684365467190/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时45分 ~ 10时07分]"
+        },
+        {
           "title": "美官员称美商船穿越霍尔木兹海峡时曾遭伊朗袭击",
           "url": "https://flash.jin10.com/detail/20260506053137812800",
           "source": "金十数据",
@@ -273,17 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 05时57分]"
-        },
-        {
-          "title": "美称对伊军事行动结束 伊朗否认",
-          "url": "https://www.toutiao.com/trending/7636544684365467190/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时45分 ~ 07时46分]"
         },
         {
           "title": "IMF总裁：即使伊朗战争今天就结束，至少也还需要3-4个月来处理战争造成的后果。 AI对就业的总体影响实际上略微偏正面。（CNBC）",
@@ -390,6 +428,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时45分 ~ 07时46分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 68 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035126415859742260",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "伊朗总统：美国正对伊采取“极限施压”",
@@ -533,6 +582,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美称对伊朗军事行动已结束",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%B7%B2%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "伊朗总统办公室主任：总统与革命卫队指挥官不存在分歧",
@@ -703,7 +763,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
@@ -718,18 +778,6 @@
           "time_info": "[00时34分 ~ 07时46分]"
         },
         {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
-        },
-        {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
           "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
           "source": "凤凰网",
@@ -737,8 +785,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
@@ -759,8 +820,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -770,8 +831,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "特朗普出席活动白宫附近突发枪击， 一名枪手被击毙，具体情况如何？",
@@ -818,7 +879,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -829,7 +890,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -899,9 +960,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "特朗普：与伊朗方面取得进展，“自由计划”将在短期内暂停",
@@ -910,7 +982,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -932,7 +1004,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -990,12 +1062,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "特朗普放话让伊朗二选一",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%BA%8C%E9%80%89%E4%B8%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -1056,6 +1139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
@@ -1136,7 +1230,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1318,7 +1412,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "公司高管称，OpenAI向美国政府提前开放了GPT-5.5的访问权限以进行安全测试。",
@@ -1399,6 +1493,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "OpenAI或加速手机开发",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "OpenAI：正在推出测试版自助广告管理器，允许美国境内的广告主注册并直接购买广告，使其显示在ChatGPT中。",
           "url": "https://flash.jin10.com/detail/20260506020032402800",
           "source": "金十数据",
@@ -1430,6 +1535,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纯爱战士!网友恪守动漫情缘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354011&amp;topic_name=%E7%BA%AF%E7%88%B1%E6%88%98%E5%A3%AB%21%E7%BD%91%E5%8F%8B%E6%81%AA%E5%AE%88%E5%8A%A8%E6%BC%AB%E6%83%85%E7%BC%98",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
+        },
+        {
+          "title": "A股云游戏板块震荡上升，优刻得涨超7%，顺网科技、完美世界、均涨超6%，协创数据涨超5%，首都在线、蜂助手等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260506093924934800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
+          "url": "https://www.zhihu.com/question/2033300815583122067",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -1460,11 +1615,12 @@
             12,
             9,
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时08分 ~ 07时46分]"
+          "appearance_count": 8,
+          "time_info": "[03时08分 ~ 10时07分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
@@ -1541,23 +1697,6 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纯爱战士!网友恪守动漫情缘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354011&amp;topic_name=%E7%BA%AF%E7%88%B1%E6%88%98%E5%A3%AB%21%E7%BD%91%E5%8F%8B%E6%81%AA%E5%AE%88%E5%8A%A8%E6%BC%AB%E6%83%85%E7%BC%98",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时34分 ~ 07时46分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1569,11 +1708,12 @@
             12,
             24,
             13,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 10时07分]"
         }
       ]
     }

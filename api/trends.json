@@ -1,29 +1,30 @@
 {
-  "generated_at": "2026-05-07T05:06:27.380467+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-05-07T06:42:50.767859+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
+          "url": "https://news.ifeng.com/c/8sun3FDjXHF",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
+        },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
-        },
-        {
-          "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
-          "url": "https://news.ifeng.com/c/8sun3FDjXHF",
-          "source": "凤凰网",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -63,15 +64,15 @@
           "time_info": "[01时25分 ~ 03时28分]"
         },
         {
-          "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
-          "url": "https://flash.jin10.com/detail/20260507044241056800",
-          "source": "金十数据",
+          "title": "阿拉格齐称访华富有成果，中国认为战前战后的伊朗完全不同",
+          "url": "https://news.ifeng.com/c/8suoch3QkWe",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "06时42分"
         },
         {
           "title": "美联储古尔斯比称伊朗战争的影响更像是一场通胀冲击",
@@ -80,7 +81,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -107,6 +108,28 @@
           "time_info": "01时25分"
         },
         {
+          "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
+          "url": "https://news.ifeng.com/c/8sv8uru6xCR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：“信我啦兄弟行动”（Trust Me Bro）失败了。现在回到常规，启动“假装行动”（Operation Fauxios，疑似讽刺美媒Axios的报道）。",
+          "url": "https://flash.jin10.com/detail/20260507055456760800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "伊朗称将确保船只安全通过霍尔木兹海峡",
           "url": "https://wallstreetcn.com/articles/3771664",
           "source": "华尔街见闻",
@@ -114,8 +137,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
@@ -126,8 +149,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
+        },
+        {
+          "title": "在伊朗核谈判前景不明之际，美国外交官们被提醒警惕线上预测市场。",
+          "url": "https://flash.jin10.com/detail/20260507044241056800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时42分]"
         },
         {
           "title": "知情人：伊朗将同意将铀浓缩材料运出",
@@ -135,11 +170,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "伊朗外长访华为何引发世界关注",
@@ -150,8 +186,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "伊朗：若美方不让步 已准备好开火",
@@ -161,8 +197,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
+        },
+        {
+          "title": "伊朗：各港口已准备好提供一般海事服务和支持",
+          "url": "https://wallstreetcn.com/livenews/3099568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时42分]"
         },
         {
           "title": "伊朗称该国国家足球队将在世界杯开始前14天抵美",
@@ -171,7 +219,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -185,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "伊朗：各港口已准备好提供一般海事服务和支持",
-          "url": "https://wallstreetcn.com/livenews/3099568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
         },
         {
           "title": "伊朗常驻联合国代表团提出解决霍尔木兹海峡问题的可行方案",
@@ -286,6 +323,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260507051942098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "法国总统马克龙：刚刚与伊朗总统通电话。 向伊朗总统表达了我对于“不公平地打击阿联酋境内民用基础设施和船上民用基建”的顾虑。",
           "url": "https://wallstreetcn.com/livenews/3099495",
           "source": "华尔街见闻-快讯",
@@ -308,6 +356,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "海湾合作委员会表示，伊朗的误导性言论是其针对该地区国家采取的升级对峙、挑衅性做法的延续。",
+          "url": "https://flash.jin10.com/detail/20260507051148673800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "伊朗：尚未回应美国对伊方14点提议的看法",
           "url": "https://flash.jin10.com/detail/20260507005756762800",
           "source": "金十数据",
@@ -319,13 +378,24 @@
           "time_info": "01时25分"
         },
         {
+          "title": "海湾合作委员会表示，伊朗对阿联酋的指控毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260507050830869800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "美联储Goolsbee：伊朗战争的影响正日益显现为通胀冲击",
           "url": "https://wallstreetcn.com/livenews/3099555",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -352,6 +422,17 @@
           "time_info": "03时28分"
         },
         {
+          "title": "伊朗称各港口已准备好提供一般海事服务和支持",
+          "url": "https://flash.jin10.com/detail/20260507045754907800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "法国财政部：数据显示，法国精炼油销售毛利润已经恢复至（与伊朗战争相关的）危机爆发之前的水平。 由于需求减少，法国4月份车用燃料消费量下降11%。 政府将继续密切关注利润率，以确保其不会过度上涨。",
           "url": "https://wallstreetcn.com/livenews/3099486",
           "source": "华尔街见闻-快讯",
@@ -369,7 +450,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -396,6 +477,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "伊朗向霍尔木兹海峡的商船发布通告，称伊朗的港口已全面准备好为船只提供一般海事服务和支持。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://flash.jin10.com/detail/20260507044456564800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "伊朗外交部发言人：德黑兰方面尚未向巴基斯坦传达其针对美国就伊朗“14点提议”所持观点的回复。（伊朗国家广播IRIB）",
           "url": "https://wallstreetcn.com/livenews/3099481",
           "source": "华尔街见闻-快讯",
@@ -410,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -420,8 +512,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "美国总统特朗普：我认为油价会涨到200到250美元。现在是100美元。即使涨到200美元，也值得。",
@@ -483,11 +586,12 @@
           "url": "https://news.ifeng.com/c/8sugghRWW2t",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -495,11 +599,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "特朗普：如果伊朗同意美方条款，“史诗怒火”行动将宣告结束",
@@ -507,11 +612,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            14
+            14,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时28分 ~ 05时06分]"
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 06时42分]"
         },
         {
           "title": "美国总统特朗普：对伊朗问题从不设最后期限，协议终将达成，但不会设定最后期限。",
@@ -545,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时28分"
+        },
+        {
+          "title": "市场消息：据一位知情人士透露，特朗普政府正在研究利用美国军事基地及国防部其他场所地下的石油资源，以补充国家日益减少的应急储备。",
+          "url": "https://flash.jin10.com/detail/20260507054528380800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
         },
         {
           "title": "特朗普：即使石油价格涨到200美元，也值得",
@@ -740,7 +857,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -762,7 +879,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -770,7 +887,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -785,15 +902,27 @@
           "time_info": "[01时25分 ~ 05时06分]"
         },
         {
+          "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        },
+        {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
           "url": "https://wallstreetcn.com/livenews/3099572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时42分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -804,8 +933,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -813,11 +942,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时28分]"
+          "appearance_count": 3,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
@@ -826,7 +956,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -837,7 +967,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -848,7 +978,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         },
@@ -870,7 +1000,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -888,8 +1018,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -899,8 +1029,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "纯爱战士!网友恪守动漫情缘",
@@ -910,8 +1040,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "游戏嘉豪发展史",
@@ -920,7 +1050,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
         }
@@ -980,8 +1110,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 05时06分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 06时42分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -997,6 +1127,51 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
+          "url": "https://wallstreetcn.com/livenews/3099539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "美元指数6日下跌",
+          "url": "https://flash.jin10.com/detail/20260507051248108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌向欧盟提交整改方案，寻求避免新闻搜索案罚款",
+          "url": "https://wallstreetcn.com/livenews/3099585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -1005,11 +1180,12 @@
           "url": "https://wallstreetcn.com/livenews/3099570",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时06分 ~ 06时42分]"
         }
       ]
     },
@@ -1023,23 +1199,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周三（5月6日）纽约尾盘，ICE美元指数跌0.52%，报97.980点，日内交投区间为98.50-97.62点。",
-          "url": "https://wallstreetcn.com/livenews/3099539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,

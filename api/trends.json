@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T06:01:33.443151+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-05-12T06:59:36.297870+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "美国总统特朗普将对中国进行国事访问",
@@ -50,8 +50,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -63,8 +63,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
@@ -74,8 +74,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -85,19 +85,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
           "url": "https://wallstreetcn.com/articles/3771976",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "特朗普5月13日至15日访华",
@@ -106,22 +107,12 @@
           "ranks": [
             25,
             9,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
-        },
-        {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
-          "url": "https://flash.jin10.com/detail/20260512054116878800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "伊朗最高领袖顾问：我们在战场上打败了美国人，特朗普最好不要以为他会在外交上获胜。",
@@ -146,6 +137,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://wallstreetcn.com/livenews/3101894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "美国总统特朗普谈Hantavirus：这种疾病早就存在了。",
           "url": "https://wallstreetcn.com/livenews/3101781",
           "source": "华尔街见闻-快讯",
@@ -155,6 +157,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普上个月在伊朗战争相关事件后，曾私下向代理司法部长抱怨媒体泄密问题。代理司法部长承诺将申请传票，目标涉及报道国家安全新闻的记者相关记录。",
+          "url": "https://flash.jin10.com/detail/20260512054116878800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "特朗普金卡遇冷 白宫商业鬼才现原形",
@@ -279,6 +293,17 @@
           "time_info": "00时27分"
         },
         {
+          "title": "分析：特朗普暂停征收燃油税或每月损失数十亿美元税收",
+          "url": "https://flash.jin10.com/detail/20260512062007324800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争通过外交解决仍然可能。",
           "url": "https://flash.jin10.com/detail/20260512000529423800",
           "source": "金十数据",
@@ -340,7 +365,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -398,6 +423,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "媒体频频泄密如列席战情室 特朗普要求展开调查",
+          "url": "https://flash.jin10.com/detail/20260512060026125800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
         },
         {
           "title": "特朗普：美伊停火岌岌可危，完全靠生命维持系统支撑",
@@ -505,7 +541,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -556,8 +592,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
@@ -567,8 +603,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
@@ -579,8 +615,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -652,6 +688,18 @@
           "time_info": "[04时29分 ~ 06时01分]"
         },
         {
+          "title": "伊朗议长：“14点提案”无可替代",
+          "url": "https://wallstreetcn.com/livenews/3101863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时01分 ~ 06时59分]"
+        },
+        {
           "title": "美国白宫：我们正寻求达成一项能够长期保护我们的安全并消除伊朗核威胁的协议。",
           "url": "https://flash.jin10.com/detail/20260512023115214800",
           "source": "金十数据",
@@ -683,17 +731,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        },
-        {
-          "title": "伊朗议长：“14点提案”无可替代",
-          "url": "https://wallstreetcn.com/livenews/3101863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时01分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们为所有选项做好了准备，他们（美以）将大吃一惊。",
@@ -746,7 +783,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -757,7 +794,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -790,7 +827,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -834,7 +871,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -864,8 +901,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 06时59分]"
+        },
         {
           "title": "美伊局势僵持，美股盘初涨跌互现，英特尔、美光、高通、AMD股价齐创历史新高，现货白银涨7%站上85美元，布油再回100美元上方",
           "url": "https://wallstreetcn.com/articles/3771942",
@@ -878,16 +927,27 @@
           "time_info": "[00时27分 ~ 06时01分]"
         },
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
+          "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
+          "url": "https://wallstreetcn.com/articles/3771942",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时59分"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
+          "url": "https://www.cls.cn/detail/2368457",
           "source": "财联社热门",
           "ranks": [
-            5,
+            11,
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时01分]"
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 06时59分]"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -914,15 +974,16 @@
           "time_info": "[04时29分 ~ 06时01分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
-          "url": "https://www.cls.cn/detail/2368457",
-          "source": "财联社热门",
+          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3101858",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时01分]"
+          "time_info": "[06时01分 ~ 06时59分]"
         },
         {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
@@ -958,15 +1019,15 @@
           "time_info": "04时29分"
         },
         {
-          "title": "周一（5月11日），美股人工智能（AI）赢家指数涨1.97%，报400.80点，成分股Lumentum涨16.52%，高意公司Coherent涨13.25%，康宁公司涨10.94%涨幅第三大，戴尔、超微电脑领跌。 AI软件先驱指数跌0.75%，报105.26点，成分股C3.ai收跌3.95%，Datadog则涨1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3101858",
-          "source": "华尔街见闻-快讯",
+          "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
+          "url": "https://www.cls.cn/detail/2368431",
+          "source": "财联社热门",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时01分"
+          "time_info": "06时59分"
         },
         {
           "title": "周一（5月11日），美股存储芯片与硬件供应链指数涨3.36%，报194.70点，再次创收盘历史新高。 成分股西部数据涨7.46%，希捷科技涨6.56%，美光科技涨6.50%，闪迪跌0.95%。",
@@ -975,7 +1036,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -986,7 +1047,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -997,7 +1058,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -1008,7 +1069,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -1103,7 +1164,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }

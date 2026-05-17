@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:46:30.464867+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-05-18T07:53:50.245878+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "报道：美方在回应伊朗提议时列出5个关键条件",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
@@ -57,11 +57,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -71,8 +72,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -295,7 +296,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -342,13 +343,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3104921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "岛内称特朗普警告“台独”重击赖当局",
+          "url": "https://www.toutiao.com/trending/7640276210946179115/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
+        },
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
           "url": "https://www.zhihu.com/question/2039007666429583394",
@@ -359,18 +383,6 @@
             18,
             17,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
-        },
-        {
-          "title": "岛内称特朗普警告“台独”重击赖当局",
-          "url": "https://www.toutiao.com/trending/7640276210946179115/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            15
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -390,6 +402,17 @@
           "time_info": "[00时50分 ~ 05时48分]"
         },
         {
+          "title": "美国总统特朗普在社媒上分享了一张人工智能生成的与外星人的合照。",
+          "url": "https://flash.jin10.com/detail/20260518074442462800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
           "title": "据AXIOS：两名美国官员透露，美国总统特朗普预计将于周二在战情室与他的高级国家安全团队举行会议，讨论（伊朗）军事行动的选项。",
           "url": "https://flash.jin10.com/detail/20260518011814397800",
           "source": "金十数据",
@@ -401,27 +424,17 @@
           "time_info": "01时53分"
         },
         {
-          "title": "特朗普称仍相信伊朗有意达成协议",
-          "url": "https://wallstreetcn.com/livenews/3104917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
           "title": "特朗普称：如果伊朗不迅速行动，“将一无所有”",
           "url": "https://wallstreetcn.com/livenews/3104904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时04分 ~ 07时53分]"
         },
         {
           "title": "特朗普的格陵兰岛特使抵达当地首府努克",
@@ -466,11 +479,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[04时04分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普称仍相信伊朗有意达成协议",
+          "url": "https://wallstreetcn.com/livenews/3104917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时53分]"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -479,11 +505,12 @@
           "ranks": [
             20,
             19,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时58分 ~ 06时46分]"
+          "appearance_count": 4,
+          "time_info": "[02时58分 ~ 07时53分]"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普表示，他仍然认为伊朗希望达成协议，并表示他正在等待伊朗提出更新的方案，希望新方案能比几天前提出的方案更好。他拒绝给出与伊朗谈判的具体期限。",
@@ -539,7 +566,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
@@ -575,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "特朗普与内塔尼亚胡通话：讨论重启对伊朗军事打击！美以联合空袭风险骤增",
+          "url": "https://flash.jin10.com/detail/20260518064310354800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         },
         {
           "title": "以媒：内塔尼亚胡与特朗普通话 讨论重启对伊战事可能性",
@@ -613,7 +651,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -621,11 +659,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时53分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -634,20 +685,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
         },
         {
-          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2038737314017432936",
-          "source": "知乎",
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
           "ranks": [
-            14
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时46分"
+          "time_info": "07时53分"
         }
       ]
     },
@@ -663,8 +714,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         },
         {
           "title": "抛美债、买日债--华尔街准备应对“日资回流”",
@@ -673,9 +724,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 07时53分]"
         }
       ]
     },
@@ -691,8 +742,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         }
       ]
     },
@@ -708,8 +759,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时50分 ~ 06时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时50分 ~ 07时53分]"
         }
       ]
     }

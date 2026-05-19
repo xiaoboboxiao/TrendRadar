@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T15:39:52.144972+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-05-19T18:56:29.294348+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -69,6 +69,19 @@
           "time_info": "[01时27分 ~ 11时40分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
+        },
+        {
           "title": "特朗普涉台“四不”示警“台独”",
           "url": "https://www.toutiao.com/trending/7641033902121058340/",
           "source": "今日头条",
@@ -95,18 +108,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时27分 ~ 06时53分]"
-        },
-        {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
         },
         {
           "title": "特朗普称将推迟对伊朗发动军事打击",
@@ -159,6 +160,17 @@
           "time_info": "[01时27分 ~ 06时53分]"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
           "url": "https://flash.jin10.com/detail/20260519030449861800",
           "source": "金十数据",
@@ -209,9 +221,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 18时56分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道“很快会发生什么”。 不会对伊朗做出让步。 （关于伊朗铀浓缩问题）我现在对啥（选项）也不持开放态度。 伊朗比以往任何时候都更希望达成协议。 “不久”就会达成伊朗协议。（纽约邮报）",
@@ -226,6 +250,17 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
+        },
+        {
           "title": "外交部回应特朗普涉台表态",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
           "source": "bilibili 热搜",
@@ -235,17 +270,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时27分 ~ 11时40分]"
-        },
-        {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -341,24 +365,13 @@
           "time_info": "01时28分"
         },
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
-        },
-        {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -707,7 +720,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -719,8 +732,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 18时56分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -745,8 +758,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 18时56分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -840,6 +853,17 @@
           "time_info": "05时05分"
         },
         {
+          "title": "伊朗格什姆岛传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3105993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
           "url": "https://wallstreetcn.com/livenews/3105662",
           "source": "华尔街见闻-快讯",
@@ -885,6 +909,31 @@
           "time_info": "[01时28分 ~ 03时29分]"
         },
         {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
+        },
+        {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
           "url": "https://news.ifeng.com/c/8tEPz9vOwBG",
           "source": "凤凰网",
@@ -907,28 +956,15 @@
           "time_info": "[11时40分 ~ 15时39分]"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
+          "title": "美、布两油短线涨超1美元，现分别报107.68美元/桶和107.52美元/桶。消息面上，伊朗格什姆岛传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260519184656442800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "据伊朗迈赫新闻社报道，霍尔木兹海峡附近的凯什姆岛已启动防空系统，具体原因尚不清楚。",
@@ -964,13 +1000,24 @@
           "time_info": "05时05分"
         },
         {
+          "title": "伊朗格什姆岛传出爆炸声 原因不明",
+          "url": "https://flash.jin10.com/detail/20260519184209912800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
+        },
+        {
           "title": "伊朗副外长公布伊对美协议草案提议 包括美军从周边地区撤离",
           "url": "https://wallstreetcn.com/livenews/3105877",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -984,6 +1031,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "沙特消息称：伊朗提出有条件地将浓缩铀转移至俄罗斯",
@@ -1036,9 +1094,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "伊朗军方发言人称若再次遭袭将“开启新战线”",
+          "url": "https://wallstreetcn.com/livenews/3105963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "伊朗最高领袖重申将考虑开辟新战线",
@@ -1069,7 +1138,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1102,7 +1171,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
         },
@@ -1116,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "伊朗与阿塞拜疆边境恢复汽车进口通关业务",
+          "url": "https://wallstreetcn.com/livenews/3105951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "伊朗格什姆岛防空系统启动",
@@ -1132,7 +1212,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -1150,11 +1230,12 @@
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时53分 ~ 15时39分]"
+          "appearance_count": 5,
+          "time_info": "[06时53分 ~ 18时56分]"
         },
         {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
@@ -1282,12 +1363,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "美股股指期货跌幅扩大，纳指期货跌0.8%，触及日内低点，标普500指数期货跌超0.5%，道指期货跌0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3105955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美债收益率破5%有何影响",
@@ -1331,8 +1423,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
         },
         {
           "title": "美国10年期国债期货上涨10个跳动点（ticks），30年期美债期货涨13个跳动点。",
@@ -1375,9 +1467,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时39分"
+        },
+        {
+          "title": "花旗称30年期美债收益率的下一关键位可能在5.5%",
+          "url": "https://wallstreetcn.com/livenews/3105975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         },
         {
           "title": "周一（5月18日）纽约尾盘，美国10年期国债收益率涨1.40个基点，报4.6073%。 两年期美债收益率涨0.46个基点，报4.0734%；30年期美债收益率涨2.50个基点，报5.1407%。 2/10年期美债收益率利差涨1.469个基点，报+53.296个基点。 10年期通胀保值国债（TIPS）收益率涨3.90个基点，至2.1085%；两年期TIPS收益率涨2.48个基点，至1.1751%；30年期TIPS收益率涨2.77个基点，至2.83%。",
@@ -1464,11 +1567,12 @@
           "ranks": [
             5,
             13,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时27分 ~ 15时39分]"
+          "appearance_count": 10,
+          "time_info": "[01时27分 ~ 18时56分]"
         },
         {
           "title": "广西一官方号发“套圈美女游戏”视频引争议",
@@ -1492,11 +1596,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 18时56分]"
         },
         {
           "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
@@ -1524,8 +1629,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 15时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 18时56分]"
         },
         {
           "title": "金十图示：2026年05月19日（周二）上海金早盘价为999.72元/克，较国际金价(993.94元/克)，高5.78元/克",
@@ -1537,6 +1642,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek：输入“”等字符触发返回异常内容属于特殊字符引发的模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://wallstreetcn.com/livenews/3105984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时56分"
         }
       ]
     },

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T06:02:04.955332+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-05-23T08:01:39.719768+08:00",
+  "total_titles_processed": 586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         },
         {
           "title": "俄方称，普京与特朗普有可能 11 月在中国见面，美俄关系是否有望迎来转机？中国在这其中会扮演怎样的角色？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -132,6 +133,29 @@
           "time_info": "[04时41分 ~ 06时02分]"
         },
         {
+          "title": "特朗普：告诉沃什放手去做，预计他是位伟大的美联储主席，希望他完全独立",
+          "url": "https://wallstreetcn.com/articles/3772950",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
+          "url": "https://wallstreetcn.com/livenews/3108245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 08时01分]"
+        },
+        {
           "title": "美国总统特朗普：美联储是全球金融体系的支柱。",
           "url": "https://flash.jin10.com/detail/20260522235503662800",
           "source": "金十数据",
@@ -231,17 +255,6 @@
           "time_info": "04时41分"
         },
         {
-          "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
-          "url": "https://wallstreetcn.com/livenews/3108245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "美国驻丹麦大使：特朗普已排除对格陵兰岛使用武力",
           "url": "https://m.thepaper.cn/newsDetail_forward_33206550",
           "source": "澎湃新闻",
@@ -270,7 +283,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -281,7 +294,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -292,7 +305,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -321,8 +334,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -332,8 +345,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -343,19 +356,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时02分]"
-        },
-        {
-          "title": "报道：伊朗军方准备好应对美方任何行动",
-          "url": "https://wallstreetcn.com/livenews/3108258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时01分]"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -369,6 +371,18 @@
           "time_info": "02时50分"
         },
         {
+          "title": "报道：伊朗军方准备好应对美方任何行动",
+          "url": "https://wallstreetcn.com/livenews/3108258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 08时01分]"
+        },
+        {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
           "url": "https://flash.jin10.com/detail/20260523040131039800",
           "source": "金十数据",
@@ -376,8 +390,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时01分]"
         },
         {
           "title": "媒体称美伊已就核问题的总体框架达成谅解 伊朗外交部紧急辟谣",
@@ -507,7 +521,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -592,8 +606,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股七巨头收盘播报｜英伟达收跌1.9%，业绩报告发布当周回撤超4.4%",
+          "url": "https://wallstreetcn.com/livenews/3108276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260523021145540800",
@@ -604,6 +629,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "周五（5月22日），美股降息赢家指数涨0.59%，报80.30点，美联储理事沃勒讲话之际回吐涨幅、美联储主席沃什宣誓就职之后再北京时间01:28显著拉升，本周累计上涨4.96%。 周三至周五持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3108274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股盘中）",
@@ -624,8 +660,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时01分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）热门中概股行情一览（美股收盘）",
@@ -635,8 +671,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时02分]"
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时01分]"
         },
         {
           "title": "美股收盘：三大股指收涨 高通涨超11%",
@@ -646,8 +682,19 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时41分 ~ 08时01分]"
+        },
+        {
+          "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
+          "url": "https://www.cls.cn/detail/2379649",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时41分 ~ 06时02分]"
+          "time_info": "[08时00分 ~ 08时01分]"
         },
         {
           "title": "美股行业ETF几乎全线收涨，半导体ETF涨约1.5%",
@@ -656,7 +703,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -674,37 +721,20 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
-      "match_count": 2,
+      "keyword_group": "美债",
+      "match_count": 4,
       "titles": [
         {
-          "title": "爆!动漫皇帝怒斥毒瘤二游痴",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354524&amp;topic_name=%E7%88%86%21%E5%8A%A8%E6%BC%AB%E7%9A%87%E5%B8%9D%E6%80%92%E6%96%A5%E6%AF%92%E7%98%A4%E4%BA%8C%E6%B8%B8%E7%97%B4",
-          "source": "贴吧",
+          "title": "科技股力撑美股走强，道指新高，标普连涨八周，沃勒鹰派措辞打压美债，原油宽幅震荡",
+          "url": "https://wallstreetcn.com/articles/3772907",
+          "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 2,
+          "time_info": "[08时00分 ~ 08时01分]"
         },
-        {
-          "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
-          "url": "https://wallstreetcn.com/livenews/3108222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
           "url": "https://wallstreetcn.com/articles/3772777",
@@ -723,9 +753,48 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "两年期美债收益率在沃什就任美联储主席当天涨约3.8个基点，本周两年期实际收益率狂飙将近30个基点",
+          "url": "https://wallstreetcn.com/livenews/3108253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "爆!动漫皇帝怒斥毒瘤二游痴",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354524&amp;topic_name=%E7%88%86%21%E5%8A%A8%E6%BC%AB%E7%9A%87%E5%B8%9D%E6%80%92%E6%96%A5%E6%AF%92%E7%98%A4%E4%BA%8C%E6%B8%B8%E7%97%B4",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
+        },
+        {
+          "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3108222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时41分"
         }
       ]
     },
@@ -766,11 +835,12 @@
           "url": "https://www.zhihu.com/question/2041260640740927118",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         }
       ]
     },
@@ -786,8 +856,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时18分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 08时01分]"
         }
       ]
     },
@@ -800,11 +870,12 @@
           "url": "https://wallstreetcn.com/livenews/3108244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            13,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 08时01分]"
         }
       ]
     }

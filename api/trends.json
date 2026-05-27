@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T10:43:45.987191+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-05-27T14:58:44.487812+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 10时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 14时58分]"
         },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -53,17 +53,6 @@
           "time_info": "[01时53分 ~ 07时03分]"
         },
         {
-          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
-          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时53分 ~ 07时03分]"
-        },
-        {
           "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
           "source": "澎湃新闻",
@@ -74,8 +63,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 10时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 14时58分]"
+        },
+        {
+          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
+          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时53分 ~ 07时03分]"
         },
         {
           "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
@@ -128,6 +128,18 @@
           "time_info": "[01时53分 ~ 07时03分]"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 14时58分]"
+        },
+        {
           "title": "伊朗局势“迷雾重重”震荡市场，新兴市场货币集体下挫",
           "url": "https://wallstreetcn.com/livenews/3109651",
           "source": "华尔街见闻-快讯",
@@ -146,9 +158,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://wallstreetcn.com/livenews/3109884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "伊朗官员：美国处于“请求”与伊朗达成协议的地位",
@@ -217,6 +240,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "英国能源价格上限将上调13%，因伊朗冲突导致成本上升。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
+        },
+        {
           "title": "伊朗革命卫队声称正在对霍尔木兹海峡实施“智能控制”，并警告称，任何在该水道的侵略行为将遭到“毁灭性”回应，进一步强化了德黑兰在维护该战略要道主权上的立场。",
           "url": "https://flash.jin10.com/detail/20260527023331112800",
           "source": "金十数据",
@@ -228,24 +262,13 @@
           "time_info": "04时01分"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E5%87%BB%E8%90%BD%E7%BE%8EMQ-9%E6%AD%BB%E7%A5%9E%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%94%BB%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -303,6 +326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队海军称将对“侵略者”实施严厉报复",
+          "url": "https://flash.jin10.com/detail/20260527143716655800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -374,7 +408,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普提了一个非分要求",
@@ -383,9 +417,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 14时58分]"
         },
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -395,11 +429,23 @@
             18,
             17,
             16,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时53分 ~ 10时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时53分 ~ 14时58分]"
+        },
+        {
+          "title": "特朗普体检后称“结果非常完美”，下个月将迎来80岁生日",
+          "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         },
         {
           "title": "美伊谈判关键之际 特朗普与内塔尼亚胡通话",
@@ -653,6 +699,17 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 14时58分]"
+        },
+        {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2382097",
           "source": "财联社热门",
@@ -665,17 +722,6 @@
           "time_info": "[01时53分 ~ 10时43分]"
         },
         {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
           "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
           "url": "https://www.cls.cn/detail/2382288",
           "source": "财联社热门",
@@ -684,8 +730,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时03分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[07时03分 ~ 14时58分]"
         },
         {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股盘中）",
@@ -808,7 +854,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
@@ -839,6 +885,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "游戏 动漫",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "为什么《大菠萝 4》这个游戏叫大菠萝，实际和菠萝一点关系都没有？",
+          "url": "https://www.zhihu.com/question/2042393868931425180",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时58分"
         }
       ]
     },

@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-28T14:47:51.072716+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-05-28T18:48:31.928569+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
+          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 18时48分]"
+        },
         {
           "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
           "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
@@ -18,28 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
-          "url": "https://news.ifeng.com/c/8tTuRYfuC5R",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时47分]"
-        },
-        {
-          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
-          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时47分]"
         },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
@@ -54,6 +44,19 @@
           "time_info": "[10时34分 ~ 14时47分]"
         },
         {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 18时48分]"
+        },
+        {
           "title": "美军对伊朗军事基地发动新打击！特朗普放话：不在乎中期选举，不会为了选票对伊让步",
           "url": "https://flash.jin10.com/detail/20260528073637188800",
           "source": "金十数据",
@@ -63,6 +66,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗将浓缩铀运往中俄？特朗普回应",
+          "url": "https://news.ifeng.com/c/8tUQKRTEeEB",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 18时48分]"
         },
         {
           "title": "特朗普：可能会与国会商讨暂停征收汽油税一事",
@@ -82,7 +97,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -110,18 +125,6 @@
           "time_info": "[01时54分 ~ 04时05分]"
         },
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时47分]"
-        },
-        {
           "title": "特朗普称伊朗“表现得当”后才能拿回资金",
           "url": "https://wallstreetcn.com/livenews/3110209",
           "source": "华尔街见闻-快讯",
@@ -144,6 +147,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时56分]"
+        },
+        {
+          "title": "特朗普的两张稀土王牌，先打上“内战”了",
+          "url": "https://news.ifeng.com/c/8tUtQKMFq2T",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国总统特朗普：伊朗已经发生政权更迭，因为该国现处于新领导层的治理之下。",
@@ -567,7 +581,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "王毅谈当前伊朗局势僵局",
@@ -606,6 +620,20 @@
           "time_info": "[01时54分 ~ 14时47分]"
         },
         {
+          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
+          "url": "https://wallstreetcn.com/articles/3773253",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时54分 ~ 18时48分]"
+        },
+        {
           "title": "伊朗官员称美国将在所有战线停火60天",
           "url": "https://news.ifeng.com/c/8tTBSVzined",
           "source": "凤凰网",
@@ -639,19 +667,6 @@
           "time_info": "[01时54分 ~ 06时27分]"
         },
         {
-          "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
-          "url": "https://wallstreetcn.com/articles/3773253",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时54分 ~ 14时47分]"
-        },
-        {
           "title": "美军对伊朗实施新一轮空袭，击落4架无人机",
           "url": "https://news.ifeng.com/c/8tUKOkpz0DS",
           "source": "凤凰网",
@@ -683,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：敌人试图制造分裂。",
+          "url": "https://flash.jin10.com/detail/20260528184313914800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "消息人士：4艘船在伊朗海军鸣枪示警后被迫返航",
@@ -729,8 +755,20 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时34分 ~ 18时48分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.toutiao.com/trending/7644776648142753286/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时34分 ~ 14时47分]"
+          "time_info": "[14时47分 ~ 18时48分]"
         },
         {
           "title": "伊朗阿巴斯港附近传出爆炸声",
@@ -743,6 +781,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时34分]"
+        },
+        {
+          "title": "伊朗对美国空军基地实施打击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 18时48分]"
         },
         {
           "title": "美国10年期国债期货下跌4个基点，30年期国债期货下跌6个基点，此前美军称再次袭击伊朗军事设施。",
@@ -822,28 +871,6 @@
           "time_info": "07时56分"
         },
         {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.toutiao.com/trending/7644776648142753286/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
-          "title": "伊朗对美国空军基地实施打击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
-        },
-        {
           "title": "伊朗阿巴斯港附近传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3110291",
           "source": "华尔街见闻-快讯",
@@ -861,7 +888,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -916,7 +943,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -993,7 +1020,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -1004,7 +1031,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时47分"
         },
@@ -1034,18 +1061,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
           "url": "https://wallstreetcn.com/articles/3773196",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 18时48分]"
         },
         {
           "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
@@ -1140,6 +1168,28 @@
           "time_info": "06时27分"
         },
         {
+          "title": "微博第一季度净营收4.213亿美元，预估4.176亿美元。 第一季度调整后每股收益0.34美元，预估0.36美元。 第一季度调整后息税折旧及摊销前利润1.268亿美元，同比下降9.3%，预估1.158亿美元。 第一季度月活跃用户5.6亿，同比下降4.9%，预估5.8亿。 第一季度日活跃用户2.5亿，同比下降2.7%，预估2.6亿。 微博美股盘前跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/3110639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "小鹏集团第一季度营收130.3亿元人民币，预估131.6亿元人民币。 第一季度经营亏损18.7亿元人民币。 小鹏集团预计第二季度交付量100000至106000辆，市场预估96923辆。 小鹏集团预计第二季度营收196.0亿元人民币至208.0亿元人民币。 小鹏集团美股盘前涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3110636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3110260",
           "source": "华尔街见闻-快讯",
@@ -1171,6 +1221,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
+          "url": "https://flash.jin10.com/detail/20260528141552137800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "美伊新一轮互袭，全球股市承压，Snowflake美股盘前涨近35%，油价拉升4%，金价跌破4400美元关口",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "美伊局势生变推升通胀担忧，金价一度创近两个月新低",
+          "url": "https://flash.jin10.com/detail/20260528183927079800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "金价跌了反而不敢买了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E4%BA%86%E5%8F%8D%E8%80%8C%E4%B8%8D%E6%95%A2%E4%B9%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -1255,6 +1355,36 @@
       ]
     },
     {
+      "keyword_group": "游戏 动漫",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "女子网吧打游戏开挂被发现与老板争执",
+          "url": "https://www.toutiao.com/trending/7644304986037289014/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时27分]"
+        },
+        {
+          "title": "动漫格子凉!bangumi被墙",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354661&amp;topic_name=%E5%8A%A8%E6%BC%AB%E6%A0%BC%E5%AD%90%E5%87%89%21bangumi%E8%A2%AB%E5%A2%99",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1283,21 +1413,19 @@
       ]
     },
     {
-      "keyword_group": "游戏 动漫",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "女子网吧打游戏开挂被发现与老板争执",
-          "url": "https://www.toutiao.com/trending/7644304986037289014/",
-          "source": "今日头条",
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
           "ranks": [
-            22,
-            18,
-            24
+            7
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 06时27分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -1315,23 +1443,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "PCE前金价加速下跌，市场在提前交易最坏情景？",
-          "url": "https://flash.jin10.com/detail/20260528141552137800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         }
       ]
     }
